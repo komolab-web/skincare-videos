@@ -115,6 +115,7 @@ a { color: inherit; }
 .scope-toggle[aria-checked='true'] { color: var(--ink); border-color: color-mix(in srgb, var(--accent) 50%, var(--line)); }
 .scope-toggle[aria-checked='true'] .scope-track { background: var(--accent); }
 .scope-toggle[aria-checked='true'] .scope-thumb { transform: translateX(12px); }
+.scope-short { display: none; }
 .scope-more {
   margin-left: 8px;
   padding: 3px 10px;
@@ -430,6 +431,11 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
 @media (max-width: 760px) {
   .header-stats { display: none; }
   .scope-toggle { font-size: 0.74rem; padding: 4px 10px 4px 5px; gap: 6px; }
+  /* ロゴは 1 行に収め、右のスイッチ・テーマボタンがはみ出さないようにする */
+  .header-right { flex: none; gap: 8px; }
+  .brand { gap: 8px; }
+  .brand-mark { width: 24px; height: 24px; }
+  .brand-title { font-size: 1.2rem; letter-spacing: 0.1em; white-space: nowrap; }
   .hero { grid-template-columns: minmax(0, 1fr); padding: 16px; }
   .facemap { max-width: 210px; margin: 0 auto; width: 100%; }
   .concern-list { gap: 6px; }
@@ -440,6 +446,15 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
   .card-title { font-size: 0.82rem; }
   .card-tags { display: none; }
   .search { flex-basis: 100%; }
+}
+@media (max-width: 420px) {
+  .scope-long { display: none; }
+  .scope-short { display: inline; }
+  .brand-sub { font-size: 0.62rem; letter-spacing: 0.04em; }
+  /* 肌悩みのボタンが 1 行に 2 つ並ぶくらいに詰める */
+  .concern-list { gap: 5px; }
+  .concern-btn { font-size: 0.8rem; padding: 5px 10px 5px 8px; gap: 5px; letter-spacing: 0.02em; }
+  .concern-btn::before { width: 8px; height: 8px; }
 }
 @media (max-width: 380px) {
   .video-grid { grid-template-columns: minmax(0, 1fr); }

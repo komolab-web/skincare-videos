@@ -287,7 +287,7 @@ function videoCard(v) {
       <div class="thumb">
         <img src="https://i.ytimg.com/vi/${v.id}/mqdefault.jpg" alt="" loading="lazy" width="320" height="180">
         ${v.duration ? `<span class="badge badge-duration">${formatDuration(v.duration)}</span>` : ''}
-        <span class="thumb-badges">${v.short ? '<span class="badge badge-short">SHORT</span>' : ''}<span class="badge">${v.lang === 'ja' ? 'JP' : 'EN'}</span></span>
+        <span class="thumb-badges">${v.short ? '<span class="badge badge-short">SHORT</span>' : ''}${isJa(v) ? '' : '<span class="badge">EN</span>'}</span>
       </div>
       <div class="card-body">
         <h3 class="card-title">${esc(v.title)}</h3>
