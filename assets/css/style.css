@@ -106,6 +106,36 @@ a { color: inherit; }
 .header-right { display: flex; align-items: center; gap: 12px; }
 .header-stats { margin: 0; font-size: 0.8rem; color: var(--muted); text-align: right; }
 .header-stats strong { color: var(--ink); font-weight: 700; }
+/* 日本の動画がベース。オンにすると海外（英語）の動画も含める */
+.scope-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  flex: none;
+  padding: 5px 12px 5px 6px;
+  border: 1px solid var(--line);
+  border-radius: 99px;
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+.scope-track { position: relative; width: 30px; height: 18px; border-radius: 99px; background: var(--line); transition: background 0.15s; }
+.scope-thumb { position: absolute; top: 2px; left: 2px; width: 14px; height: 14px; border-radius: 50%; background: var(--surface); box-shadow: 0 1px 2px rgb(0 0 0 / 0.2); transition: transform 0.15s; }
+.scope-toggle[aria-checked='true'] { color: var(--ink); border-color: color-mix(in srgb, var(--accent) 50%, var(--line)); }
+.scope-toggle[aria-checked='true'] .scope-track { background: var(--accent); }
+.scope-toggle[aria-checked='true'] .scope-thumb { transform: translateX(12px); }
+.scope-more {
+  margin-left: 8px;
+  padding: 3px 10px;
+  border: 1px dashed color-mix(in srgb, var(--accent) 60%, var(--line));
+  border-radius: 99px;
+  background: none;
+  color: var(--accent-deep);
+  font-size: 0.78rem;
+  cursor: pointer;
+}
+.scope-more:hover { background: var(--accent-soft); }
 .icon-btn {
   display: grid;
   place-items: center;
@@ -409,6 +439,7 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
 /* ===== スマホ ===== */
 @media (max-width: 760px) {
   .header-stats { display: none; }
+  .scope-toggle { font-size: 0.74rem; padding: 4px 10px 4px 5px; gap: 6px; }
   .hero { grid-template-columns: minmax(0, 1fr); padding: 16px; }
   .facemap { max-width: 210px; margin: 0 auto; width: 100%; }
   .concern-list { gap: 6px; }

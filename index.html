@@ -34,6 +34,10 @@
     </a>
     <div class="header-right">
       <p class="header-stats" id="header-stats"></p>
+      <button type="button" class="scope-toggle" id="scope-toggle" role="switch" aria-checked="false" title="海外（英語）の動画も一覧に含める">
+        <span class="scope-track" aria-hidden="true"><span class="scope-thumb"></span></span>
+        <span class="scope-label">海外も含める</span>
+      </button>
       <button type="button" class="icon-btn" id="theme-toggle" aria-label="ライト / ダークを切り替え" title="ライト / ダークを切り替え">
         <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9 7 7 0 0 1-9-9Z"/></svg>
       </button>
@@ -73,11 +77,6 @@
       </div>
       <div class="toolbar-row">
         <div class="segmented" id="duration-filter" role="radiogroup" aria-label="長さ"></div>
-        <div class="segmented" id="lang-filter" role="radiogroup" aria-label="言語">
-          <button type="button" data-lang="" aria-pressed="true">すべて</button>
-          <button type="button" data-lang="ja" aria-pressed="false">日本語</button>
-          <button type="button" data-lang="en" aria-pressed="false">English</button>
-        </div>
         <label class="select">
           <span class="visually-hidden">並び順</span>
           <select id="sort">

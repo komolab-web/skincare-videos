@@ -46,8 +46,9 @@ const esc = (s) =>
   String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
 
 // データは main.js が読み込んでから、この app.js を読み込む
-const { meta, videos } = window.__SN_DATA__;
-for (const v of videos) v.search = `${v.title} ${v.channel}`.toLowerCase();
+const { meta } = window.__SN_DATA__;
+const allVideos = window.__SN_DATA__.videos;
+for (const v of allVideos) v.search = `${v.title} ${v.channel}`.toLowerCase();
 const concernBySlug = new Map(meta.concerns.map((c) => [c.slug, c]));
 const stepBySlug = new Map(meta.steps.map((s) => [s.slug, s]));
 const INGREDIENTS = meta.ingredients;
@@ -62,11 +63,36 @@ const state = {
   ingredient: '',
   tags: new Set(),
   dur: '',
-  lang: '',
+  intl: loadIntl(),
   sort: 'views',
   query: '',
   limit: PAGE,
 };
+
+// 日本の動画をベースにし、「海外も含める」をオンにしたときだけ海外（英語）の動画も出す。オン・オフは端末に覚えておく
+function loadIntl() {
+  try {
+    return localStorage.getItem('sn-intl') === '1';
+  } catch {
+    return false;
+  }
+}
+const isJa = (v) => v.lang === 'ja';
+let videos = [];
+let longVideos = [];
+function applyScope() {
+  videos = state.intl ? allVideos : allVideos.filter(isJa);
+  longVideos = videos.filter((v) => !v.short);
+}
+function setIntl(on) {
+  state.intl = on;
+  try {
+    localStorage.setItem('sn-intl', on ? '1' : '0');
+  } catch {}
+  // 海外のチャンネルを選んだまま海外を外したら、チャンネルの選択を解く
+  if (!on && state.channel && !allVideos.some((v) => isJa(v) && v.channel === state.channel)) state.channel = '';
+  refilter(true);
+}
 
 /* ---------- ルーティング: /<concern>/<step>、特集は /<feature>/<concern>/<step>。チャンネル・成分は ?c= / ?i= ---------- */
 // サイトを置いている場所。index.html の <base> から取る
@@ -90,7 +116,9 @@ function readRoute() {
   state.step = stepBySlug.has(step) ? step : ALL;
   const params = new URLSearchParams(location.search);
   const c = params.get('c') ?? '';
-  state.channel = state.view === 'channels' && videos.some((v) => v.channel === c) ? c : '';
+  state.channel = state.view === 'channels' && allVideos.some((v) => v.channel === c) ? c : '';
+  // 海外のチャンネルへのリンクから来たときは、海外の動画も含めて表示する
+  if (state.channel && !allVideos.some((v) => isJa(v) && v.channel === c)) state.intl = true;
   const i = params.get('i') ?? '';
   state.ingredient = INGREDIENTS[i] ? i : '';
 }
@@ -107,18 +135,17 @@ function writeRoute(push) {
 
 /* ---------- 絞り込み ---------- */
 // ショート（数十秒）は再生数が桁違いで人気順の上位を埋めてしまうので、ショート・チャンネル別のタブだけに出す
-const longVideos = videos.filter((v) => !v.short);
-const viewVideos = () => (state.view === 'concern' ? longVideos : videos.filter(FEATURES[state.view].match));
+const viewVideos = (list = videos) => list.filter((v) => (state.view === 'concern' ? !v.short : FEATURES[state.view].match(v)));
 const matchesChannel = (v) => state.view !== 'channels' || !state.channel || v.channel === state.channel;
 const matchesConcern = (v) => state.concern === ALL || v.concerns.includes(state.concern);
 const matchesStep = (v) => state.step === ALL || v.steps.includes(state.step);
 const matchesIngredient = (v) => !state.ingredient || v.ingredients.includes(state.ingredient);
 const durTest = (key) => DURATIONS.find((d) => d.key === key).test;
-const matchesRest = (v) => (!state.lang || v.lang === state.lang) && durTest(state.dur)(v.duration);
+const matchesRest = (v) => durTest(state.dur)(v.duration);
 const matchesTags = (v) => [...state.tags].every((t) => v.tags.includes(t));
-function currentVideos() {
+function currentVideos(list = videos) {
   const q = state.query.trim().toLowerCase();
-  return viewVideos()
+  return viewVideos(list)
     .filter(
       (v) =>
         matchesChannel(v) &&
@@ -188,7 +215,7 @@ function renderHero() {
        <p class="hero-desc">${esc(c.desc)}</p>`
     : `<p class="hero-kicker">${kicker}</p>
        <h1 class="hero-title"><span class="hero-en">Find your care</span><span class="hero-ja">気になる肌悩みを選ぼう</span></h1>
-       <p class="hero-desc">${feature ? esc(feature.desc) : `顔の図で気になる場所をタップするか、下のボタンから選んでください。YouTube のスキンケア動画 ${pool.length.toLocaleString()} 本を、肌悩み・ステップ（洗顔／化粧水／美容液／日焼け止め…）・成分で絞り込めます。`}</p>`;
+       <p class="hero-desc">${feature ? esc(feature.desc) : `顔の図で気になる場所をタップするか、下のボタンから選んでください。${state.intl ? '日本と海外' : '日本'}の YouTube スキンケア動画 ${pool.length.toLocaleString()} 本を、肌悩み・ステップ（洗顔／化粧水／美容液／日焼け止め…）・成分で絞り込めます。`}</p>`;
 
   const count = (slug) => pool.filter((v) => v.concerns.includes(slug)).length;
   const btn = (slug, name, n) =>
@@ -275,7 +302,11 @@ function renderGrid() {
   const stepLabel = state.step === ALL ? '' : ` × ${stepBySlug.get(state.step).name}`;
   const ingLabel = state.ingredient ? ` × ${INGREDIENTS[state.ingredient]}` : '';
   const prefix = FEATURES[state.view] ? `${FEATURES[state.view].name}${state.channel ? `（${state.channel}）` : ''}：` : '';
-  $('#result-count').innerHTML = `${esc(prefix + concernLabel() + stepLabel + ingLabel)}：<strong>${list.length}</strong> 本`;
+  // 日本の動画だけのときは、同じ条件の海外の動画が何本あるかを見せて、ワンタップで含められるようにする
+  const abroad = state.intl ? 0 : currentVideos(allVideos.filter((v) => !isJa(v))).length;
+  $('#result-count').innerHTML =
+    `${esc(prefix + concernLabel() + stepLabel + ingLabel)}：<strong>${list.length}</strong> 本` +
+    (abroad ? ` <button type="button" class="scope-more" data-intl>＋海外の動画 ${abroad} 本も見る</button>` : '');
   const grid = $('#video-grid');
   grid.innerHTML = list.length
     ? list.slice(0, state.limit).map(videoCard).join('')
@@ -298,8 +329,16 @@ function setMeta(count) {
       : `${feature}${what}のスキンケア動画 ${count}本 | ${SITE_NAME}`;
 }
 
+function renderHeader() {
+  const channelCount = new Set(videos.map((v) => v.channel)).size;
+  $('#header-stats').innerHTML = `${state.intl ? '日本＋海外' : '日本'} <strong>${videos.length.toLocaleString()}</strong> 本 ・ <strong>${channelCount}</strong> チャンネル`;
+  $('#scope-toggle').setAttribute('aria-checked', state.intl);
+}
+
 function render(push = false) {
   writeRoute(push);
+  applyScope();
+  renderHeader();
   renderViewTabs();
   renderFaceMap();
   renderHero();
@@ -369,7 +408,7 @@ function showStuck(show) {
 }
 
 function openPlayer(id) {
-  const v = videos.find((x) => x.id === id);
+  const v = allVideos.find((x) => x.id === id);
   if (openMode === 'youtube') {
     window.open(youtubeUrl(v), '_blank', 'noopener');
     return;
@@ -522,12 +561,9 @@ $('#duration-filter').addEventListener('click', (e) => {
   state.dur = btn.dataset.dur;
   refilter();
 });
-$('#lang-filter').addEventListener('click', (e) => {
-  const btn = e.target.closest('[data-lang]');
-  if (!btn) return;
-  state.lang = btn.dataset.lang;
-  document.querySelectorAll('#lang-filter button').forEach((b) => b.setAttribute('aria-pressed', b === btn));
-  refilter();
+$('#scope-toggle').addEventListener('click', () => setIntl(!state.intl));
+$('#result-count').addEventListener('click', (e) => {
+  if (e.target.closest('[data-intl]')) setIntl(true);
 });
 $('#sort').addEventListener('change', (e) => {
   state.sort = e.target.value;
@@ -553,8 +589,6 @@ window.addEventListener('popstate', () => {
 });
 
 /* ---------- 初期化 ---------- */
-const channelCount = new Set(videos.map((v) => v.channel)).size;
-$('#header-stats').innerHTML = `<strong>${videos.length.toLocaleString()}</strong> 本 ・ <strong>${channelCount}</strong> チャンネル`;
 $('#footer-meta').textContent = `再生数・投稿年は収集時点（${meta.updatedAt ?? ''}）のものです。`;
 readRoute();
 render();
