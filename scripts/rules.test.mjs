@@ -132,3 +132,17 @@ test('除外: 角栓・ニキビを押し出して見せる動画', () => {
   assert.ok(isExcluded('Blackhead removal | Nose blackhead'));
   assert.ok(!isExcluded('How do you avoid getting these blackheads and whiteheads?'));
 });
+
+test('除外: 曲のカバー・歌詞動画（「そばかす」など）', () => {
+  assert.ok(isExcluded('『そばかす』acoustic cover. 優里 × Mumeixxx'));
+  assert.ok(isExcluded('そばかす / JUDY AND MARY 歌詞付き'));
+  assert.ok(isExcluded('そばかす (Lyrics)'));
+  assert.ok(!isExcluded('【しみ・そばかす】皮膚科医が教える美白ケア'));
+});
+
+test('除外: クリニックでの治療の紹介', () => {
+  assert.ok(isExcluded('【しみ・そばかす】美容皮膚科なら１回でどこまで綺麗になる？'));
+  assert.ok(isExcluded('おすすめしないニキビ跡治療クリニック！#shorts'));
+  assert.ok(isExcluded('背中ストレスニキビを大阪のクリニックでスッキリ治療！'));
+  assert.ok(!isExcluded('【美容皮膚科医が実践】正しい洗顔方法'));
+});

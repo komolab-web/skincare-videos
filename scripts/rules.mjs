@@ -55,7 +55,7 @@ export const TAG_RULES = {
 
 // 収録しないもの（美容医療・食事やサプリ・顔の整体やエクササイズ・vlog など）
 // 顔のエクササイズ・マッサージは筋トレ動画まとめ（fitness-videos）の「顔」で扱う
-const EXCLUDE = /整形|美容外科|埋没|糸リフト|ボトックス|ヒアルロン酸注射|脂肪吸引|ハイフ|HIFU|ダーマペン|ポテンツァ|ピコ(?:レーザー|トーニング|フラクショナル)|レーザー|ダウンタイム|施術|注射|点滴|サプリ(?!じゃ)|食事|食習慣|レシピ|プロテイン|ネイル|香水|ダイエット|整体|エクササイズ|顔ヨガ|表情筋|筋トレ|ファッション|vlog|ドッキリ|リアクション|反応集|切り抜き|surgery|botox|fillers?\b|laser|microneedling|supplements?|what i eat|recipe|\breacts?\b|reaction|perfume|\bnails?\b|exercises?\b|face yoga|美容医療|美容皮膚科で|光治療|フォトフェイシャル|症例|クレーター治療|角栓抜き|ピンセット|extractions?\b|popping|popper|satisfying|plucking|(?:blackhead|pimple|whitehead)s? removal|\bDIY\b|home ?remed|手作り|新生児|赤ちゃん|\bbaby\b|歌ってみた|\bMV\b|Judy (?:and|&) Mary|official (?:music )?video/i;
+const EXCLUDE = /整形|美容外科|埋没|糸リフト|ボトックス|ヒアルロン酸注射|脂肪吸引|ハイフ|HIFU|ダーマペン|ポテンツァ|ピコ(?:レーザー|トーニング|フラクショナル)|レーザー|ダウンタイム|施術|注射|点滴|サプリ(?!じゃ)|食事|食習慣|レシピ|プロテイン|ネイル|香水|ダイエット|整体|エクササイズ|顔ヨガ|表情筋|筋トレ|ファッション|vlog|ドッキリ|リアクション|反応集|切り抜き|surgery|botox|fillers?\b|laser|microneedling|supplements?|what i eat|recipe|\breacts?\b|reaction|perfume|\bnails?\b|exercises?\b|face yoga|美容医療|美容皮膚科(?:で|なら)|治療クリニック|クリニックで\S{0,8}治療|光治療|フォトフェイシャル|症例|クレーター治療|角栓抜き|ピンセット|extractions?\b|popping|popper|satisfying|plucking|(?:blackhead|pimple|whitehead)s? removal|\bDIY\b|home ?remed|手作り|新生児|赤ちゃん|\bbaby\b|歌ってみた|弾いてみた|歌詞|カラオケ|\bcover\b|lyrics?\b|acoustic|\bMV\b|Judy (?:and|&) Mary|official (?:music )?video/i;
 // スキンケアの話が無ければ外すもの（メイク・ヘアケアが主役の動画）
 const MAKEUP = /メイク|ファンデ|コンシーラー|下地|リップ|アイシャドウ|makeup|make-up|foundation|concealer|GRWM/i;
 const HAIR = /ヘアケア|シャンプー|トリートメント|haircare|hair care|shampoo/i;

@@ -6,7 +6,7 @@
 
 1. 肌悩み（ニキビ・毛穴・シミ・乾燥・敏感肌・しわたるみ）× ステップ（クレンジング・化粧水・美容液・日焼け止めなど）× 成分（レチノール・ビタミンC など）× ルーティン（年代・メンズ・プチプラ・韓国）× 日英で **121 クエリ**を YouTube 検索（[data/research/queries.mjs](../data/research/queries.mjs)。[scripts/search-youtube.mjs](../scripts/search-youtube.mjs) で検索結果ページの `ytInitialData` から取る。API キー不要）
 2. ヒットした **2,203 本**（1・2 回目の合計）を YouTube oEmbed で確認（[enrich.mjs](../data/research/enrich.mjs)）。正式なタイトル・チャンネル名、埋め込み可否、ショート（縦長）かどうかを記録
-3. 収録基準（[select.mjs](../data/research/select.mjs)）で **1,370 本**（日本語 1,019 本、363 チャンネル）に絞り、`data/sources/search.json` に書き出した
+3. 収録基準（[select.mjs](../data/research/select.mjs)）で **1,366 本**（日本語 1,015 本、360 チャンネル）に絞り、`data/sources/search.json` に書き出した
 4. 1 回目で少なかった乾燥・敏感肌・成分・メンズなどを 2 回目のクエリ（[queries2.mjs](../data/research/queries2.mjs)、88 クエリ）で補強
 
 ### 収録基準
@@ -19,7 +19,7 @@
   - **顔の整体・エクササイズ・顔ヨガ**（MUSCLE MAP の「顔」で扱う）
   - **角栓・ニキビを押し出して見せる動画**（海外のショートで再生数が数千万回あり、人気順の上位を埋めてしまう）
   - メイク・ヘアケアが主役の動画（「スキンケア」も書いてあれば残す。「メイク落とし」はクレンジングとして残す）
-  - サプリ・食事・DIY・vlog・リアクション・切り抜き・曲（JUDY AND MARY「そばかす」が「そばかす」で引っかかる）
+  - サプリ・食事・DIY・vlog・リアクション・切り抜き・曲（JUDY AND MARY「そばかす」やそのカバー・歌詞動画が「そばかす」で引っかかる）
   - 日本語・英語以外（ベトナム語・スペイン語・ヒンディー語など）
   - チャンネル単位の除外（`EXCLUDE_CHANNELS`）: ポッドキャスト・切り抜き・音楽（〜 - Topic）・美容整体・2ch まとめ など
 
