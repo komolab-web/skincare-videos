@@ -1,0 +1,40 @@
+{
+  "concerns": [
+    { "slug": "acne", "name": "ニキビ", "nameEn": "ACNE", "keywords": ["大人ニキビ", "ニキビ跡", "吹き出物"], "desc": "ニキビができる原因と正しいスキンケア、繰り返す大人ニキビ、赤み・色素沈着が残るニキビ跡のケアまで。" },
+    { "slug": "pores", "name": "毛穴・皮脂", "nameEn": "PORES", "keywords": ["黒ずみ", "角栓", "いちご鼻", "テカリ"], "desc": "黒ずみ・角栓・開き毛穴・たるみ毛穴のタイプ別ケア、皮脂やテカリが気になる脂性肌のスキンケア。" },
+    { "slug": "spots", "name": "シミ・くすみ", "nameEn": "BRIGHTENING", "keywords": ["美白", "肝斑", "そばかす", "透明感"], "desc": "シミ・肝斑・そばかすの予防と美白ケア、くすみを払って透明感を出すスキンケア。" },
+    { "slug": "dryness", "name": "乾燥・保湿", "nameEn": "HYDRATION", "keywords": ["乾燥肌", "インナードライ", "肌バリア"], "desc": "粉ふき・つっぱりなどの乾燥肌、表面はベタつくのに内側が乾くインナードライ、肌のバリア機能を守る保湿の方法。" },
+    { "slug": "sensitive", "name": "敏感肌・肌荒れ", "nameEn": "SENSITIVE", "keywords": ["赤ら顔", "赤み", "ゆらぎ肌"], "desc": "刺激を感じやすい敏感肌、赤ら顔、季節の変わり目のゆらぎ肌や肌荒れを落ち着かせるケア。" },
+    { "slug": "aging", "name": "しわ・たるみ", "nameEn": "ANTI-AGING", "keywords": ["ほうれい線", "ハリ", "目元", "クマ"], "desc": "しわ・たるみ・ほうれい線、目元の小じわやクマなど、年齢とともに気になるエイジングケア。" },
+    { "slug": "basics", "name": "総合ケア", "nameEn": "SKINCARE BASICS", "keywords": ["スキンケアの基本", "ルーティン", "美肌習慣"], "desc": "悩みを限定しないスキンケアの基本・ルーティン・愛用品紹介。まず何から始めればいいか知りたい人に。" }
+  ],
+  "steps": [
+    { "slug": "cleanse", "name": "クレンジング・洗顔", "nameEn": "CLEANSE", "desc": "メイク落とし・洗顔料" },
+    { "slug": "toner", "name": "化粧水", "nameEn": "TONER", "desc": "化粧水・導入液・拭き取り" },
+    { "slug": "serum", "name": "美容液", "nameEn": "SERUM", "desc": "美容液・セラム・アンプル" },
+    { "slug": "moisturizer", "name": "乳液・クリーム", "nameEn": "MOISTURIZER", "desc": "乳液・クリーム・オールインワン" },
+    { "slug": "sunscreen", "name": "日焼け止め", "nameEn": "SUNSCREEN", "desc": "日焼け止め・紫外線対策" },
+    { "slug": "special", "name": "スペシャルケア", "nameEn": "SPECIAL CARE", "desc": "パック・ピーリング・角質ケア" },
+    { "slug": "routine", "name": "ルーティン", "nameEn": "ROUTINE", "desc": "朝・夜のスキンケアの流れ" }
+  ],
+  "ingredients": {
+    "retinoid": "レチノール",
+    "vitc": "ビタミンC",
+    "niacinamide": "ナイアシンアミド",
+    "ceramide": "セラミド",
+    "tranexamic": "トラネキサム酸",
+    "cica": "CICA",
+    "acids": "ピーリング酸（AHA・BHA など）",
+    "hyaluronic": "ヒアルロン酸"
+  },
+  "tags": {
+    "doctor": "医師の解説",
+    "explain": "解説・やり方",
+    "review": "おすすめ・レビュー",
+    "beginner": "初心者",
+    "petit": "プチプラ",
+    "kbeauty": "韓国コスメ",
+    "mens": "メンズ"
+  },
+  "updatedAt": "2026-09-27"
+}

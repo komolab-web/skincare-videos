@@ -1,0 +1,18 @@
+{
+  "name": "skin-note",
+  "version": "1.0.0",
+  "private": true,
+  "author": "komolab",
+  "description": "YouTube のスキンケア動画を肌悩み別・ステップ別にまとめた静的サイト",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test scripts/*.test.mjs",
+    "build": "node scripts/build-site.mjs",
+    "merge": "node scripts/merge-videos.mjs",
+    "verify": "node scripts/verify-videos.mjs",
+    "discover": "node scripts/discover-videos.mjs",
+    "search": "node scripts/search-youtube.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
