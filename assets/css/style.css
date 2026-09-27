@@ -172,7 +172,17 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
   background: var(--hero-bg);
   border: 1px solid var(--line);
 }
-.facemap svg { width: 100%; height: auto; max-height: 340px; display: block; margin: 0 auto; overflow: visible; }
+.facemap svg {
+  width: 100%;
+  height: auto;
+  max-height: 340px;
+  display: block;
+  margin: 0 auto;
+  overflow: hidden;
+  /* 首のところで切れるので、下端はぼかして背景になじませる */
+  -webkit-mask-image: linear-gradient(to bottom, #000 86%, transparent);
+  mask-image: linear-gradient(to bottom, #000 86%, transparent);
+}
 .facemap .portrait { pointer-events: none; }
 /* 顔全体（総合ケア）はふだんは透明で、選んだときは顔の輪郭をふんわり光らせる（顔全体を塗ると顔色が悪く見えるため） */
 .facemap .face { fill: transparent; stroke: transparent; stroke-width: 4; filter: url(#facemap-soft); cursor: pointer; transition: stroke 0.15s; }
