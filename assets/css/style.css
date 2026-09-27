@@ -10,11 +10,6 @@
   --accent-ink: #ffffff;
   --accent-soft: #f7e6de;
   --accent-deep: #a5614d;
-  --skin: #f8e3d6;
-  --skin-line: #ecc9b6;
-  --hair: #6b5249;
-  --skin-shade: #eed2c2;
-  --cloth: #e9d6cb;
   --shadow: 0 1px 2px rgb(120 80 60 / 0.06), 0 8px 24px rgb(120 80 60 / 0.08);
   --hero-bg: linear-gradient(140deg, #fff8f3 0%, #fbeee8 55%, #f1f0e6 100%);
 
@@ -37,11 +32,6 @@
   --accent-ink: #231c1a;
   --accent-soft: #4a332c;
   --accent-deep: #f3c3b3;
-  --skin: #5a4640;
-  --skin-line: #6e5750;
-  --hair: #1b1513;
-  --skin-shade: #4c3b36;
-  --cloth: #4a3c37;
   --shadow: none;
   --hero-bg: linear-gradient(140deg, #352a26 0%, #2b2320 60%, #2a2a22 100%);
   color-scheme: dark;
@@ -183,19 +173,9 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
   border: 1px solid var(--line);
 }
 .facemap svg { width: 100%; height: auto; max-height: 340px; display: block; margin: 0 auto; overflow: visible; }
-.facemap .hair,
-.facemap .hair-front { fill: var(--hair); }
-.facemap .hair-front,
-.facemap .neck,
-.facemap .cloth,
-.facemap .features,
-.facemap .lips { pointer-events: none; }
-.facemap .neck { fill: var(--skin-shade); }
-.facemap .cloth { fill: var(--cloth); }
-.facemap .face { fill: var(--skin); stroke: var(--skin-line); stroke-width: 1.2; cursor: pointer; transition: fill 0.15s; }
-.facemap .features path { fill: none; stroke: var(--hair); stroke-width: 2; stroke-linecap: round; }
-.facemap .features .nose { stroke: var(--skin-line); stroke-width: 1.8; }
-.facemap .lips { fill: #dc9a92; }
+.facemap .portrait { pointer-events: none; }
+/* 顔全体（総合ケア）はふだんは透明で、選んだときは顔の輪郭をふんわり光らせる（顔全体を塗ると顔色が悪く見えるため） */
+.facemap .face { fill: transparent; stroke: transparent; stroke-width: 4; filter: url(#facemap-soft); cursor: pointer; transition: stroke 0.15s; }
 /* 悩みのゾーンはぼかした薄い色で、チークのように見せる（輪郭線や濃い塗りは傷や吹き出物に見えるため） */
 .facemap .zone:not(.face) {
   fill: color-mix(in srgb, var(--cc) 30%, transparent);
@@ -206,8 +186,8 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
 /* なぞったとき・選んだときは悩みの色を濃く */
 .facemap .zone.is-hover:not(.face) { fill: color-mix(in srgb, var(--cc) 60%, transparent); }
 .facemap .zone.is-selected:not(.face) { fill: color-mix(in srgb, var(--cc) 85%, transparent); }
-.facemap .face.is-hover { fill: color-mix(in srgb, var(--cc) 25%, var(--skin)); }
-.facemap.is-all .face { fill: color-mix(in srgb, var(--cc) 45%, var(--skin)); }
+.facemap .face.is-hover { stroke: color-mix(in srgb, var(--cc) 45%, transparent); }
+.facemap.is-all .face { stroke: color-mix(in srgb, var(--cc) 80%, transparent); }
 
 .hero-side { display: flex; flex-direction: column; gap: 20px; min-width: 0; }
 .hero-kicker { margin: 0; font-family: var(--font-latin); font-size: 0.9rem; font-style: italic; letter-spacing: 0.12em; color: color-mix(in srgb, var(--cc, var(--accent)) 80%, var(--ink)); }
