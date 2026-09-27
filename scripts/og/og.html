@@ -1,0 +1,53 @@
+<!doctype html>
+<!--
+  SNS で共有したときのサムネイル（OGP 画像・1200×630）の元。サイトと同じ顔の図・配色で描く。
+  書き出し方: npm run dev で開発サーバーを立ててから
+  "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --headless=new --hide-scrollbars --window-size=1200,630 \
+    --virtual-time-budget=4000 --screenshot=assets/og.png http://localhost:5173/scripts/og/og.html
+-->
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <base href="/">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Shippori+Mincho:wght@500;700&family=Zen+Kaku+Gothic+New:wght@500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+    body { background: var(--hero-bg); display: grid; grid-template-columns: 480px 1fr; align-items: center; }
+    .facemap { width: 410px; margin-left: 50px; }
+    .facemap svg { max-height: none; }
+    .copy { padding: 0 60px 0 10px; }
+    .kicker { margin: 0; font-family: var(--font-latin); font-style: italic; font-size: 24px; letter-spacing: 0.14em; color: var(--accent); }
+    .logo { display: flex; align-items: center; gap: 16px; margin: 4px 0 6px; white-space: nowrap; }
+    .logo .brand-mark { width: 52px; height: 52px; }
+    .logo h1 { margin: 0; font-family: var(--font-latin); font-weight: 600; font-size: 84px; line-height: 1; letter-spacing: 0.12em; color: var(--ink); }
+    .sub { margin: 0 0 30px; font-family: var(--font-mincho); font-weight: 700; font-size: 32px; letter-spacing: 0.06em; color: var(--ink); white-space: nowrap; }
+    .sub::before { content: ''; display: inline-block; width: 44px; height: 2px; margin: 0 14px 10px 0; background: var(--accent); vertical-align: middle; }
+    .concerns { display: flex; flex-wrap: wrap; gap: 10px; margin: 0 0 28px; padding: 0; list-style: none; }
+    .concerns li { display: inline-flex; align-items: center; gap: 10px; padding: 7px 16px 7px 13px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); font-weight: 700; font-size: 21px; color: var(--ink); }
+    .concerns li::before { content: ''; width: 12px; height: 12px; border-radius: 50%; background: var(--cc); }
+    .note { margin: 0; font-size: 20px; white-space: nowrap; letter-spacing: 0.04em; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="facemap" id="facemap"></div>
+  <div class="copy">
+    <p class="kicker">Find your care</p>
+    <div class="logo"><span class="brand-mark"></span><h1>SKIN NOTE</h1></div>
+    <p class="sub">肌悩み別スキンケア動画まとめ</p>
+    <ul class="concerns">
+      <li data-concern="acne">ニキビ</li>
+      <li data-concern="pores">毛穴</li>
+      <li data-concern="spots">シミ</li>
+      <li data-concern="dryness">乾燥</li>
+      <li data-concern="sensitive">敏感肌</li>
+      <li data-concern="aging">しわ・たるみ</li>
+    </ul>
+    <p class="note">皮膚科医の解説から、洗顔・化粧水・美容液・日焼け止めまで</p>
+  </div>
+  <script type="module">
+    import { faceMapSvg } from '../../assets/js/facemap.js';
+    document.getElementById('facemap').innerHTML = faceMapSvg();
+  </script>
+</body>
+</html>

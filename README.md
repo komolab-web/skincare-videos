@@ -32,6 +32,8 @@ main に push すると [.github/workflows/pages.yml](.github/workflows/pages.ym
 
 ページ内のパスは `<base>` からの相対パスで書いてください（`/assets/...` のような絶対パスにしない）。
 
+SNS で共有したときのサムネイル（`assets/og.png`・1200×630）は [scripts/og/og.html](scripts/og/og.html) をヘッドレス Chrome で撮って作っています。顔の図や配色を変えたら、ファイル先頭のコメントにあるコマンドで撮り直してください。`index.html` の `og:url` / `og:image` は公開 URL を絶対パスで書いています（公開先を変えたらここも直す）。
+
 ## データの更新
 
 | コマンド | 内容 |
