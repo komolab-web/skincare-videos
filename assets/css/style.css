@@ -247,7 +247,7 @@ main { padding: 0 var(--gutter) 64px; max-width: 1440px; margin: 0 auto; }
 .step-tab[aria-selected='true'] { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 0 -3px 0 var(--accent); }
 .step-tab:disabled { opacity: 0.4; cursor: default; }
 .step-en { font-family: var(--font-latin); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.12em; color: var(--accent-deep); }
-.step-name { font-weight: 700; font-size: 1rem; }
+.step-name { font-weight: 700; font-size: 1rem; white-space: nowrap; }
 .step-sub { font-size: 0.7rem; color: var(--muted); white-space: nowrap; }
 
 /* ===== 絞り込み ===== */

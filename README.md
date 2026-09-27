@@ -61,9 +61,11 @@ main に push すると [.github/workflows/pages.yml](.github/workflows/pages.ym
 ### 最初の収集をやり直す
 
 ```sh
-node data/research/collect.mjs ./queries.mjs raw.jsonl   # 検索
-node data/research/enrich.mjs raw.jsonl                  # oEmbed で正式なタイトル・ショート判定
-node data/research/select.mjs raw.jsonl                  # 基準で選んで data/sources/search.json を作る
+node data/research/collect.mjs ./queries.mjs raw.jsonl     # 検索（1 回目）
+node data/research/collect.mjs ./queries2.mjs raw2.jsonl   # 検索（2 回目: 乾燥・敏感肌・成分・メンズなどの補強）
+node data/research/enrich.mjs                              # oEmbed で正式なタイトル・ショート判定
+node data/research/select.mjs                              # 基準で選んで data/sources/search.json を作る
+node data/research/channels.mjs                            # 収録 5 本以上のチャンネルを data/channels.json に
 npm run merge
 ```
 

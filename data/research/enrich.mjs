@@ -4,7 +4,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 const cachePath = new URL('oembed.json', import.meta.url);
 const cache = JSON.parse(await readFile(cachePath, 'utf8').catch(() => '{}'));
-const files = process.argv.slice(2).length ? process.argv.slice(2) : ['raw.jsonl'];
+const files = process.argv.slice(2).length ? process.argv.slice(2) : ['raw.jsonl', 'raw2.jsonl'];
 const rows = [];
 for (const f of files) rows.push(...(await readFile(new URL(f, import.meta.url), 'utf8')).trim().split('\n').map((l) => JSON.parse(l)));
 const ids = [...new Set(rows.map((r) => r.id))].filter((id) => !cache[id]);

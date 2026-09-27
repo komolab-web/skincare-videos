@@ -6,7 +6,7 @@ const oembed = JSON.parse(await readFile(new URL('oembed.json', import.meta.url)
 
 const TODAY = new Date('2026-09-27');
 const MIN_VIEWS = { ja: 20_000, en: 100_000 };
-const files = process.argv.slice(2).length ? process.argv.slice(2) : ['raw.jsonl'];
+const files = process.argv.slice(2).length ? process.argv.slice(2) : ['raw.jsonl', 'raw2.jsonl'];
 const rows = [];
 for (const f of files) rows.push(...(await readFile(new URL(f, import.meta.url), 'utf8')).trim().split('\n').map((l) => JSON.parse(l)));
 
@@ -25,7 +25,7 @@ function approxDate(rel) {
 }
 
 // スキンケアの解説・紹介ではないチャンネル（ポッドキャスト・トーク番組・切り抜き・ニュースなど）
-const EXCLUDE_CHANNELS = /切り抜き|Clips$|Podcast|ポッドキャスト|NEWS|ニュース|Mel Robbins|Diary Of A CEO|Huberman|Radhi Devlukia|GunjanShouts| - Topic$|YUKI VIDEO|Zack D\. Films|Pimple Popper|Eric Berg|Beauty recipes|ガルちゃん|まとめ】?$/i;
+const EXCLUDE_CHANNELS = /切り抜き|Clips$|Podcast|ポッドキャスト|NEWS|ニュース|Mel Robbins|Diary Of A CEO|Huberman|Radhi Devlukia|GunjanShouts| - Topic$|YUKI VIDEO|Zack D\. Films|Pimple Popper|美容整体|整体|Eric Berg|Beauty recipes|ガルちゃん|まとめ】?$/i;
 
 const byId = new Map();
 for (const r of rows) {

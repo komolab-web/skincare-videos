@@ -154,18 +154,20 @@
   "date": "2025-09"
  },
  {
-  "youtubeId": "0Thn3M3l5H4",
-  "title": "【ほうれい線・顔のたるみ】−９歳若返る！顔の筋膜リリース１回やってみて！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
-  "lang": "ja",
+  "youtubeId": "hrMQaau4S_0",
+  "title": "BEST RETINOL FOR YOU | Doctorly Favorites",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
   "concerns": [
-   "aging"
+   "basics"
   ],
   "steps": [],
-  "ingredients": [],
-  "duration": 490,
-  "views": 6205428,
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1248,
+  "views": 5958314,
   "date": "2022-09"
  },
  {
@@ -254,6 +256,53 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "sGx9qiihnmY",
+  "title": "How to Build a Simple & Affordable Teen Skincare Routine: Do's + Don'ts for ALL Skin Types",
+  "channel": "Beauty Within",
+  "channelId": "UC8f2CDyLibpGYSN3O2LfDwg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 1165,
+  "views": 4129656,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "rxAngJTIhBM",
+  "title": "I Ranked Every TEEN Skincare Brand",
+  "channel": "Sydney Morgan",
+  "channelId": "UCPHuYCxf9QJArw-4ZXXC7Ig",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1109,
+  "views": 3998861,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "RC5sMVbAKEk",
+  "title": "【最新版】毛穴の黒ずみとバイバイ！再生回数100万回突破した毛穴レススキンケアの最新版のテクニックを事細かに紹介しますわよ♡【小田切ヒロ】",
+  "channel": "HIRO BEAUTY CHANNEL",
+  "channelId": "UC8oF7jmQsKbMVrCv5LrP32w",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1211,
+  "views": 3847257,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "j2H3qk0ZN5Q",
   "title": "LE SSERAFIM’s HUH YUNJIN on Her Skin Care Routine & Eyelash Curling Trick | Beauty Secrets | Vogue",
   "channel": "Vogue",
@@ -322,6 +371,23 @@
   "duration": 10,
   "views": 3611086,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "F0RkIvBz5kk",
+  "title": "Simple & easy skin care routine for Men",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 879,
+  "views": 3452848,
+  "date": "2025-09"
  },
  {
   "youtubeId": "83POBIch51M",
@@ -424,6 +490,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "Niaox912PwY",
+  "title": "Not Seeing Results with Retin-A (TRETINOIN)? Watch This Before You Quit & Avoid My Biggest Mistake",
+  "channel": "Jennifer Myers",
+  "channelId": "UC7P8-YqQJXmDD60U949Agow",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 658,
+  "views": 3196554,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "UYlzvT5zCUg",
   "title": "『そばかす』acoustic cover. 優里 × Mumeixxx",
   "channel": "優里ちゃんねる【公式】",
@@ -470,6 +553,22 @@
   "duration": 919,
   "views": 3146541,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "G0Q8RRG5_lY",
+  "title": "【毛穴】これは毛穴詰まりではありません。ケア方法を解説！",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 31,
+  "views": 3122839,
+  "date": "2025-09"
  },
  {
   "youtubeId": "ovnbhEmFbSU",
@@ -618,21 +717,6 @@
   "date": "2023-09"
  },
  {
-  "youtubeId": "Yaab2oSVOOY",
-  "title": "目の下が驚くほど若返る‼️たるみを消して弾力を出す【目元リンパ流し】",
-  "channel": "美容整体のうちやま先生。【プラスフィール】",
-  "channelId": "UCdX4bMa2UPwcfZ_8ietRs2g",
-  "lang": "ja",
-  "concerns": [
-   "aging"
-  ],
-  "steps": [],
-  "ingredients": [],
-  "duration": 768,
-  "views": 2661003,
-  "date": "2024-09"
- },
- {
   "youtubeId": "M6-DnWOZP8A",
   "title": "【ガチで肌激変】ニキビ肌荒れ集合！絶対やるべき美肌スキンケア。",
   "channel": "美容ノゆうや",
@@ -765,6 +849,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "Vm4prCILeBI",
+  "title": "【超簡単】６年間悩んだニキビ面をたった10日間で治した方法＆ニキビ跡の改善方法",
+  "channel": "YOKO VLOG.",
+  "channelId": "UCYlPCJ6hKeycyUXQ-9bfw5Q",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 851,
+  "views": 2290313,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "JAkOAh1sang",
   "title": "~24歳都内住み🗼のMorningRoutine~☀️🍞skin care｜makeup｜",
   "channel": "すず 스즈",
@@ -800,6 +899,39 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "YJxARaLMSpc",
+  "title": "How to Exfoliate Your Skin: A Guide",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 1013,
+  "views": 2241816,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "QRmXQvgJIrg",
+  "title": "薬剤師がおすすめするシミに効果のある市販薬＃シミ＃市販薬#薬局#ドラッグストア#薬剤師",
+  "channel": "薬剤師ナカショウ",
+  "channelId": "UCbdRGH4i8LjcA1if1hXXo6A",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 59,
+  "views": 2236588,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "tDvOXAikpUo",
   "title": "Jackson Wang’s Nighttime Skincare Routine | Go To Bed With Me | Harper’s BAZAAR",
   "channel": "Harper's BAZAAR",
@@ -815,6 +947,21 @@
   "duration": 340,
   "views": 2221916,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "iwyLM5aJ7mE",
+  "title": "How Treat Under Eye Bags Like A Dermatologist",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 908,
+  "views": 2190245,
+  "date": "2024-09"
  },
  {
   "youtubeId": "kllZDe1oODo",
@@ -834,6 +981,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "iDlm1E7SWzw",
+  "title": "Fungal acne kya hota hai | kaise control kare | Tvacha ke doctor | Dr. Aanchal Panth",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 461,
+  "views": 2108924,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "HiDRrM6xXfs",
   "title": "A Dermatologist’s Nighttime Skincare Routine | Go To Bed with Dr. Shereene Idriss | Harper’s BAZAAR",
   "channel": "Harper's BAZAAR",
@@ -851,21 +1013,6 @@
   "date": "2020-09"
  },
  {
-  "youtubeId": "gQx0XWYAfLk",
-  "title": "目の下のたるみ！目のシワ！目のクマはニベアでマッサージ！！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
-  "lang": "ja",
-  "concerns": [
-   "aging"
-  ],
-  "steps": [],
-  "ingredients": [],
-  "duration": 346,
-  "views": 2057921,
-  "date": "2021-09"
- },
- {
   "youtubeId": "NNj9VXrFUL4",
   "title": "粉瘤とニキビの見分け方を皮膚科が教えます‼️#shorts",
   "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
@@ -879,6 +1026,21 @@
   "short": true,
   "duration": 57,
   "views": 2057358,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "pMfhyxaGf9I",
+  "title": "how to get clear skin for guys asap",
+  "channel": "Mykah Jackman",
+  "channelId": "UCRbRR9Wz8wDChGwIr7pRitQ",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 202,
+  "views": 2052745,
   "date": "2024-09"
  },
  {
@@ -915,6 +1077,40 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "hDY194a1O3E",
+  "title": "パーフェクトホイップの新作洗顔を発売から使い続けたらヤバすぎた！#洗顔 #洗顔料 #プチプラコスメ #コスメ紹介 #スキンケア #ニキビ #ニキビ改善 #ニキビケア  #毛穴 #毛穴ケア",
+  "channel": "美容オタクのダン",
+  "channelId": "UCFlGFBxOCrBbqI0_nCjZLCQ",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "short": true,
+  "duration": 60,
+  "views": 1988299,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "R32UW2FNIEw",
+  "title": "皮膚科医が鼻の黒ずみの取り方に関して原因から対策コスメまで徹底解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 884,
+  "views": 1982038,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "Yaz-DAC0TlQ",
   "title": "アットノンでニキビ跡は消える？#shorts",
   "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
@@ -944,6 +1140,21 @@
   "duration": 1788,
   "views": 1940287,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "38GPWxDIsGQ",
+  "title": "【スキンケアルーティーン】大人のスキンケア迷子に！奇跡の66歳・天野佳代子がハリつや肌の極意をご紹介します✨【エリクシール｜ELIXIR】",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1234,
+  "views": 1926360,
+  "date": "2023-09"
  },
  {
   "youtubeId": "T6yj7XMoq14",
@@ -1025,6 +1236,21 @@
   "duration": 2084,
   "views": 1806373,
   "date": "2020-09"
+ },
+ {
+  "youtubeId": "d9BgmlKjOJ0",
+  "title": "【本気で治したい】治療なし！ニキビ跡を残さず美肌になったスキンケア完全再現🔥",
+  "channel": "Saaya",
+  "channelId": "UCyQisXTZLqYJCTkRqMSapZw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1112,
+  "views": 1788078,
+  "date": "2023-09"
  },
  {
   "youtubeId": "KOgIThPHpjY",
@@ -1176,6 +1402,37 @@
   "duration": 424,
   "views": 1634758,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "KtCEhmJ9wiQ",
+  "title": "The Only Skincare Products You Actually Need",
+  "channel": "Brandon Balfour",
+  "channelId": "UCDjpp9fOeGLy754KJvRl10w",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 575,
+  "views": 1627699,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "PIPVgffZR90",
+  "title": "皮膚科医が後悔したスキンケアを解説します！#shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 61,
+  "views": 1598404,
+  "date": "2023-09"
  },
  {
   "youtubeId": "hQAM5wy3vno",
@@ -1366,6 +1623,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "fCpPkT5sLOA",
+  "title": "Melasma mistakes that can ruin your skin and make hyperpigmentation worse!",
+  "channel": "DrAmirKaram",
+  "channelId": "UCXSWRM1E7gENmv0jC6gBOXw",
+  "lang": "en",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1097,
+  "views": 1467690,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "S-DppPktmWU",
   "title": "【無印さん、ご乱心】コメヌカ発酵液ほぼ100%の導入液…？化粧品専門家が総じて目を疑った今季No.１のイカれ美容液がこちら！【発酵導入美容液】",
   "channel": "かずのすけ",
@@ -1460,18 +1732,19 @@
   "date": "2024-09"
  },
  {
-  "youtubeId": "kZ9qDPqzYB4",
-  "title": "【目元が−9歳若返る】目のたるみ・ゴルゴ線が消える方法！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
+  "youtubeId": "BEXxLEFgfdw",
+  "title": "ニキビだらけになる悪習慣５選 #Shorts",
+  "channel": "整形のリアル〜小顔の指針〜【美容外科医・名倉俊輔】",
+  "channelId": "UCkwyfFMcNXwp-nzBlqr3maQ",
   "lang": "ja",
   "concerns": [
-   "aging"
+   "acne"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 377,
-  "views": 1436054,
+  "short": true,
+  "duration": 27,
+  "views": 1443134,
   "date": "2022-09"
  },
  {
@@ -1502,6 +1775,22 @@
   "ingredients": [],
   "duration": 544,
   "views": 1431709,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "wMlhFVmsiV8",
+  "title": "【一目でわかる】それぞれの肌悩みに有効な成分、治療まとめ",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 8,
+  "views": 1409768,
   "date": "2025-09"
  },
  {
@@ -1570,6 +1859,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "kJcyziY9BbI",
+  "title": "Is Vitamin C Worth The HYPE?? | Doctorly Investigates",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 2482,
+  "views": 1302896,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "UqM2Tmmj6T8",
   "title": "【保存必須】皮膚科で治らなかったやばい肌荒れを治した3ステップ",
   "channel": "ハウスダスト",
@@ -1601,6 +1907,54 @@
   "ingredients": [],
   "duration": 302,
   "views": 1302675,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "tEB5qSTcHck",
+  "title": "How to use Retinol like a Dermatologist | Dr Davin Lim",
+  "channel": "Dr Davin Lim",
+  "channelId": "UC9SIYzAqsCmfHsZrxdPGvzA",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 383,
+  "views": 1297768,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "loUjg47Osoc",
+  "title": "Minimize your large pores - Dermatologist Tips",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 662,
+  "views": 1279385,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "wRxMlPXWEXg",
+  "title": "【毛穴 ニキビ】20年かけて見つけた本気で肌がキレイになるスキンケア",
+  "channel": "やまりゅう【肌の悩み改善ch】",
+  "channelId": "UCQTvAutdntZvp6wobnwjSow",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1203,
+  "views": 1271926,
   "date": "2023-09"
  },
  {
@@ -1649,6 +2003,23 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "XdeyvlMagR8",
+  "title": "NIACINAMIDE - IS IT WORTH THE HYPE? DERMATOLOGISTS WEIGH IN",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 583,
+  "views": 1213045,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "sTUqjydaOR8",
   "title": "Skincare Ingredients You CAN'T Mix?! | Doctorly Investigates",
   "channel": "Doctorly",
@@ -1662,6 +2033,23 @@
   "duration": 649,
   "views": 1212026,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "oqcekA1BOOg",
+  "title": "皮膚科医がワセリンの正しい使い方について解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 645,
+  "views": 1201111,
+  "date": "2022-09"
  },
  {
   "youtubeId": "X8Hp_XCSVw8",
@@ -1731,6 +2119,23 @@
   "duration": 721,
   "views": 1169647,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "f1DQDURE8j0",
+  "title": "HOW LONG IT TAKES TO SEE RESULTS FROM YOUR RETINOID @DrDrayzday",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1057,
+  "views": 1159372,
+  "date": "2022-09"
  },
  {
   "youtubeId": "3RX7x9uCkWM",
@@ -1835,6 +2240,22 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "_7sW-4tQ3ZM",
+  "title": "Head & Shoulders for FUNGAL ACNE Part 1 | Dr Adel #shorts",
+  "channel": "Dr Adel",
+  "channelId": "UCRj4Myhvo_GijE9hiCnTwLA",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 34,
+  "views": 1097548,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "fdGVnWFKOns",
   "title": "【1200人調査】ニキビ跡が本当に治ったスキンケアアイテムベスト10【美白】",
   "channel": "鹿の間",
@@ -1868,6 +2289,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "Y1KARs3Xf7k",
+  "title": "Over 50? DO NOT make these anti aging skincare mistakes!!",
+  "channel": "DrAmirKaram",
+  "channelId": "UCXSWRM1E7gENmv0jC6gBOXw",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 821,
+  "views": 1047245,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "hPGTk4FuceA",
   "title": "Silicone gel tape working for Atrophic acne scars❓#acnescars #acne #scars",
   "channel": "Janezvskincare",
@@ -1882,6 +2318,40 @@
   "duration": 8,
   "views": 1045899,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "U_ZPvn46iSk",
+  "title": "TRETINOIN BEFORE AND AFTER | 1 YEAR EXPERIENCE!!",
+  "channel": "Rheanie",
+  "channelId": "UClkzO2hbYcq_YQAeU3JI6Tw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 798,
+  "views": 1043537,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "WXKINrl553A",
+  "title": "BEFORE Using Retinol Skin Products, Watch This - Top Dermatologist Explains",
+  "channel": "BeerBiceps Uncut",
+  "channelId": "UCbT_7qRIrw8TMH8ovjTYBJQ",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 321,
+  "views": 1042437,
+  "date": "2024-09"
  },
  {
   "youtubeId": "m41cah5xuWs",
@@ -1921,6 +2391,23 @@
   "date": "2020-09"
  },
  {
+  "youtubeId": "WPiE0Ijxn7k",
+  "title": "SIMPLE ACNE ROUTINE FROM A DERMATOLOGIST | Doctorly Routines",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 919,
+  "views": 1001838,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "ENTifCyPg1M",
   "title": "【敏感肌＆乾燥肌に！オススメ洗顔料10選】プロが愛用する高品質・高コスパの肌に優しい洗顔料を厳選して紹介！ベビー＆キッズケアにも【プチプラ中心】",
   "channel": "かずのすけ",
@@ -1937,6 +2424,24 @@
   "duration": 1188,
   "views": 993896,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "UZRg3k5m100",
+  "title": "【毛穴を改善できる！油脂クレンジング７選】プロが毛穴に一番効果を実感した「油脂クレンジング」のオススメをまとめました【敏感肌にも◎】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores",
+   "sensitive"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1430,
+  "views": 984626,
+  "date": "2023-09"
  },
  {
   "youtubeId": "wXlNUmv7aro",
@@ -2057,6 +2562,22 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "yaehk7VD9j4",
+  "title": "ニキビ・ニキビ跡が消えるまでの時間は？#shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 55,
+  "views": 931268,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "84q_FJ8TCUo",
   "title": "The BEST VITAMIN C SERUM | Dermatologist @DrDrayzday",
   "channel": "Dr Dray",
@@ -2074,6 +2595,21 @@
   "duration": 1205,
   "views": 926127,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "w7Bjef55aoo",
+  "title": "How to Have Glass Skin (Science-Based)",
+  "channel": "Alex Costa",
+  "channelId": "UCZyCposXwcyopaACep44maQ",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 611,
+  "views": 919253,
+  "date": "2024-09"
  },
  {
   "youtubeId": "zH75IOVBpM8",
@@ -2094,6 +2630,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "8qe7WXuY9jo",
+  "title": "Let's Get Intimate: Niacinamide | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 1216,
+  "views": 900138,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "0YlqcB5kmDE",
   "title": "ニキビ跡タイプ別治療法【教えて花房先生】～ビジュが地面師～",
   "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
@@ -2110,6 +2663,22 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "pP_Dmyr-rco",
+  "title": "Fungal Acne vs Normal Acne – Kaise Pehchaanein? | Dermatologist Explains",
+  "channel": "Dr Garima Skin doctor Varanasi ",
+  "channelId": "UC7bf3qTrjSJg4PCU0d3YHdA",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 25,
+  "views": 895342,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "UPRgqKB9MRE",
   "title": "【しみ・そばかす】美容皮膚科なら１回でどこまで綺麗になる？",
   "channel": "共立美容外科 公式チャンネル",
@@ -2123,6 +2692,21 @@
   "short": true,
   "duration": 21,
   "views": 892631,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "QjjmpP_xyDA",
+  "title": "【ほうれい線】解剖学的に効果のあるセルフケア マッサージ・化粧品について【医師の解説】",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 842,
+  "views": 890234,
   "date": "2022-09"
  },
  {
@@ -2159,6 +2743,21 @@
   "duration": 2470,
   "views": 884310,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "Wy9dFLL7h9A",
+  "title": "2021正月太り【首のシワを取る方法】1日5分で首のシワがどんどん薄くなる！",
+  "channel": "あい先生 ｜リンパ師",
+  "channelId": "UC58zaRv7_nuQqVbBGDox9hw",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 777,
+  "views": 882243,
+  "date": "2021-09"
  },
  {
   "youtubeId": "ubxoWHJr3aw",
@@ -2320,6 +2919,23 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "mR7jxC1nmPg",
+  "title": "My FAVOURITE Moisturizers For Oily Skin! Ad",
+  "channel": "Matt Randon",
+  "channelId": "UCkYTCoRI2zIfKPJAzsExNyg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 210,
+  "views": 844017,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "x3zjfZQbz9o",
   "title": "DOUBLE CLEANSE LIKE A DERMATOLOGIST | Doctorly Routines",
   "channel": "Doctorly",
@@ -2405,6 +3021,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "zPUj0IMmq2M",
+  "title": "【ニキビ改善】ニキビ魔人を卒業した男のスキンケア紹介",
+  "channel": "えるにーにょ",
+  "channelId": "UCjFTo9DOMsUmpPds-BY7HFA",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 643,
+  "views": 810426,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "tuiNf84BLKs",
   "title": "Offset's Simple Nighttime Skincare Routine for Oily Skin | Go To Bed With Me | Harper's BAZAAR",
   "channel": "Harper's BAZAAR",
@@ -2420,6 +3051,23 @@
   "duration": 326,
   "views": 808310,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "3Vy96ozhMH4",
+  "title": "【お勧めは３つだけ】シミ・色素沈着に効くビタミンC医薬品 12種 徹底比較！含有量・飲みやすさ・コスパ・添加物からお勧めを厳選しました！",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 1851,
+  "views": 807062,
+  "date": "2023-09"
  },
  {
   "youtubeId": "cIpLibg_uqM",
@@ -2452,21 +3100,6 @@
   "duration": 1136,
   "views": 801579,
   "date": "2022-09"
- },
- {
-  "youtubeId": "WZrfP4YFpgw",
-  "title": "アラ還女性の顔シミが消えた【顔の毒素流し】※顔触らずリンパどばどば‼️",
-  "channel": "美容整体のうちやま先生。【プラスフィール】",
-  "channelId": "UCdX4bMa2UPwcfZ_8ietRs2g",
-  "lang": "ja",
-  "concerns": [
-   "spots"
-  ],
-  "steps": [],
-  "ingredients": [],
-  "duration": 529,
-  "views": 800344,
-  "date": "2023-09"
  },
  {
   "youtubeId": "CX8pISmd17Y",
@@ -2564,6 +3197,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "2qUMropuqiQ",
+  "title": "10 Things to do for Dry Skin | Dermatologist suggestion",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 286,
+  "views": 776801,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "kIL-5VZIO5o",
   "title": "【高級美容液より効く‼️】０円で毛穴が激減した美肌習慣を紹介します【肌荒れ/皮脂/乾燥】",
   "channel": "八田エミリ 美容",
@@ -2596,6 +3244,22 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "83qHdzDGzwo",
+  "title": "乾燥肌/敏感肌向けに5,000円以内でスキンケア商品を選んでみた！【 @smishow01 さんコラボ第二弾】",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 772,
+  "views": 756890,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "e6Z5Vr7uSiA",
   "title": "Does retinol in skincare even work?",
   "channel": "Lab Muffin Beauty Science",
@@ -2613,6 +3277,24 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "hHTarmWU52w",
+  "title": "Dermatologist Reviews Top 5 Retinols with Niacinamide",
+  "channel": "Dr. Daniel Sugai",
+  "channelId": "UCUHuCyM-tBTVrTrwylOanSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid",
+   "niacinamide"
+  ],
+  "duration": 958,
+  "views": 753225,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "Mf7jVjzuj2k",
   "title": "メディア嫌いが過ぎる、シワ・たるみ・毛穴改善のゴッドハンドを引っ張り出してきました",
   "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
@@ -2626,6 +3308,57 @@
   "ingredients": [],
   "duration": 1320,
   "views": 752672,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "ve54izFiAUY",
+  "title": "Anti-Aging Skincare for 50s+, Mature Skin, & Menopause | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1163,
+  "views": 748412,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "YtP8UiUW7uo",
+  "title": "Combining Active Ingredients: Retinol, Vitamin C, Niacinamide, & More! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid",
+   "vitc",
+   "niacinamide"
+  ],
+  "duration": 945,
+  "views": 742865,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "Gtp0ZUJcrR8",
+  "title": "皮膚科医がシートマスク注意点についてお話しします",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 518,
+  "views": 739221,
   "date": "2024-09"
  },
  {
@@ -2724,6 +3457,22 @@
   "duration": 640,
   "views": 690103,
   "date": "2026-08"
+ },
+ {
+  "youtubeId": "IdOgsZzcwvQ",
+  "title": "Use THIS Not THAT: Fungal Acne — From A Derm | #shorts #skincare |",
+  "channel": "Dr. Lindsey Zubritsky",
+  "channelId": "UChhBv35bNKdsvPijCSnpcAA",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 10,
+  "views": 682796,
+  "date": "2024-09"
  },
  {
   "youtubeId": "qUD2OrAUUAM",
@@ -2909,6 +3658,69 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "dYGIqhCc3PM",
+  "title": "メラノCCとオバジC25を1ヶ月比較して使ったらシミが衝撃の結果に...！【プロが検証】",
+  "channel": "美容マニアハウス",
+  "channelId": "UCWHKL-FS_XXaCXAo1SBde3w",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 486,
+  "views": 646971,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "jmKQ-hk9wwM",
+  "title": "『毛穴に効く』美容液はなぜ効くのか？名作８選を徹底解説！人気毛穴ケア化粧品の意外な共通点とは…。【SK-Ⅱ、メラノCC、オバジ、ビタペアC、魔女工場、タカミスキンピール】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 1975,
+  "views": 644560,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "6PjRxIgSpFU",
+  "title": "Dermatologist Explains: Hyperpigmentation and Melasma - How to Manage it with Top Picks",
+  "channel": "Dr. Daniel Sugai",
+  "channelId": "UCUHuCyM-tBTVrTrwylOanSw",
+  "lang": "en",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 2053,
+  "views": 638884,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "47CM9UiUtSs",
+  "title": "【もしかして】それ、ニキビではありませんよ",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 27,
+  "views": 630516,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "VpIW-P-W84s",
   "title": "Are You Using The Ordinary's Niacinamide 10%?",
   "channel": "Dr Ingky",
@@ -2942,6 +3754,23 @@
   "duration": 586,
   "views": 628415,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "XB44trvtMJ0",
+  "title": "You're Probably Using Niacinamide Wrong! How to Use, Layer, & Combine Niacinamide for Real Results",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 1146,
+  "views": 628027,
+  "date": "2025-09"
  },
  {
   "youtubeId": "hzYxziB2UoY",
@@ -2988,6 +3817,55 @@
   "duration": 1633,
   "views": 624844,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "T03lpeaQJzc",
+  "title": "【毛穴レススキンケア】もう絶対に悩まない🤍小田切ヒロの最新ハイスペック毛穴ケア🤍攻めの3点カスタマイズ洗顔から、夕方の毛穴落ちを完璧に防ぐ一軍スキンケアを大公開よ〜🤍",
+  "channel": "HIRO BEAUTY CHANNEL",
+  "channelId": "UC8oF7jmQsKbMVrCv5LrP32w",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1626,
+  "views": 622958,
+  "date": "2026-06"
+ },
+ {
+  "youtubeId": "djnOFHH2pUQ",
+  "title": "皮膚科医が成分で選んだオールインワン3選を解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 549,
+  "views": 621193,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "gMYTTakq_KU",
+  "title": "How to Get Clear Pores from a Dermatologist! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1148,
+  "views": 620041,
+  "date": "2025-09"
  },
  {
   "youtubeId": "NqBPDeOCYFI",
@@ -3057,6 +3935,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "LgPxnZvKBCk",
+  "title": "敏感肌にもおすすめのクレンジングオイルを紹介します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 690,
+  "views": 614082,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "fbPZDb7LdNw",
   "title": "セラミド化粧品の常識を根底から覆した【圧倒的最高傑作】擬似セラミド４％なのに奇跡の『◯◯剤不使用』！？ちふれにこんな凄い作品があったなんて…。",
   "channel": "かずのすけ",
@@ -3104,6 +3999,23 @@
   "duration": 611,
   "views": 603345,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "O9SDYhP6mkw",
+  "title": "【毛穴の詰まりにガチで効く】ビオレ新作『角栓崩壊クレイ洗顔』今年ベスコスほぼ確定の名作です！頑固な角栓をたった「1分」で除去する新技術がヤバい【おうちdeエステ】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1534,
+  "views": 601215,
+  "date": "2026-03"
  },
  {
   "youtubeId": "mkIZe3QAV1A",
@@ -3158,6 +4070,39 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "3IeH__hao_0",
+  "title": "【圧倒的コスパ】ニキビにもおすすめな神洗顔はこちら",
+  "channel": "美容ノゆうや",
+  "channelId": "UCAuXeTGFOwvQd450otPYXHQ",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "short": true,
+  "duration": 19,
+  "views": 592294,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "VQwfOPP9Zgo",
+  "title": "HOW TO TREAT FUNGAL ACNE (Malassezia) FAST | THE BEST WAY!",
+  "channel": "Yanique Duke",
+  "channelId": "UCId_AedxVLKdjqEhMWpxh7A",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 698,
+  "views": 591859,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "TMgIFBwuOgg",
   "title": "10 SKINCARE MISTAKES YOU ARE PROBABLY MAKING | + tips and tricks",
   "channel": "alessya farrugia",
@@ -3173,19 +4118,37 @@
   "date": "2022-09"
  },
  {
-  "youtubeId": "D-dfP0jPLGc",
-  "title": "【目の下のたるみ】クマの種類がわかればあなたでも解消できる！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
-  "lang": "ja",
+  "youtubeId": "0iUymWZeKXQ",
+  "title": "How to treat Fungal Acne on face? | Fungal Acne Treatment  #fungalacne #acne #skincare #shorts",
+  "channel": "Dr Nivedita Dadu ",
+  "channelId": "UCEQOJDwT1HlQO0Jmo-kLRrg",
+  "lang": "en",
   "concerns": [
-   "aging"
+   "acne"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 237,
-  "views": 587410,
-  "date": "2021-09"
+  "short": true,
+  "duration": 43,
+  "views": 586388,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "P5FxIZeOF-Y",
+  "title": "How To Create A Complete Skincare Routine For Guys",
+  "channel": "Brandon Balfour",
+  "channelId": "UCDjpp9fOeGLy754KJvRl10w",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 222,
+  "views": 581741,
+  "date": "2022-09"
  },
  {
   "youtubeId": "GgNmb9AKLt0",
@@ -3201,6 +4164,57 @@
   "duration": 1253,
   "views": 579209,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "uwAXkVsKMlc",
+  "title": "【超意外】薬剤師が選ぶシミに効く医薬品３選！有名なあの商品は使いません！",
+  "channel": "薬剤師ナカショウ",
+  "channelId": "UCbdRGH4i8LjcA1if1hXXo6A",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 696,
+  "views": 579188,
+  "date": "2026-05"
+ },
+ {
+  "youtubeId": "oXpSE1HdWSU",
+  "title": "I Used Tretinoin for 300 days - here’s what happened to my skin (+ TIPS)",
+  "channel": "Laura Try",
+  "channelId": "UCLm7wFMcJzcx6hjTuJ_VJfw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 571,
+  "views": 576695,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "tG0_SSeQXkA",
+  "title": "化粧水の後の乳液やクリームは必須だと思ってない？ ニキビ・皮脂テカリが気になる人は【乳液＆クリーム】やめてみて！",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [
+   "toner",
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 573,
+  "views": 575708,
+  "date": "2020-09"
  },
  {
   "youtubeId": "b-cRT2X31qE",
@@ -3263,6 +4277,25 @@
   "date": "2026-02"
  },
  {
+  "youtubeId": "Au4Quirvgg8",
+  "title": "【優秀セラミドクリーム７選】ドラッグストアで買えるプロお勧めのセラミドクリームをまとめました【ケアセラ・キュレル・アルージェ・セラミエイド・松山油脂・菊正宗】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "ceramide"
+  ],
+  "duration": 1177,
+  "views": 569659,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "RtqiYe-FXZY",
   "title": "Hyperpigmentation Explained: Why Skin Darkens",
   "channel": "MySKINQ",
@@ -3292,6 +4325,25 @@
   "duration": 875,
   "views": 567539,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "N1jsbba42pU",
+  "title": "【レチノール。これが完成形】エリクシールのシワ改善クリームが大幅リニューアル！資生堂最先端シワ研究の結晶『レチノパワー』誕生",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 696,
+  "views": 565795,
+  "date": "2024-09"
  },
  {
   "youtubeId": "L92zxA2UMhI",
@@ -3395,6 +4447,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "uruCTu5Pwh4",
+  "title": "【スキンケア】大人気クレンジングバーム14種類徹底比較！プチプラ＆デパコス＆韓国コスメ全部検証！メイク落ちは？毛穴ケアには？コスパが良いのはどれ？",
+  "channel": "水越みさと",
+  "channelId": "UCffg7iYU2K7HFJDhylZzUBw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1581,
+  "views": 548509,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "gomG42fCuKM",
   "title": "KAZUHA's K-Pop Star Skin Care Routine | Beauty Secrets | Vogue",
   "channel": "Vogue",
@@ -3425,6 +4494,23 @@
   "duration": 1674,
   "views": 540683,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "qTbkwujCCiI",
+  "title": "【絶対に知っておけ!!】日焼け止めを選ぶ前に知っておくべき事話します。",
+  "channel": "EGA.channel",
+  "channelId": "UCVRDCteAx6zMUWMB86QRXxw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1243,
+  "views": 538348,
+  "date": "2026-05"
  },
  {
   "youtubeId": "NtyDwNscGec",
@@ -3474,6 +4560,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "QbvzKn9GG_w",
+  "title": "Fix Your Crepey Under Eye Skin! | 3 At-Home Anti-aging Treatments",
+  "channel": "The Budget Dermatologist",
+  "channelId": "UCDc2wFMXTSApCa4UwDrdz_Q",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1109,
+  "views": 529255,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "snj_My_ATso",
   "title": "【これで美肌を保ってます】美容専門家が10年続けてること７選！アトピー＆敏感肌が美肌になれた秘訣をまとめました！【脱石けん・セラミド・ビタミンC】",
   "channel": "かずのすけ",
@@ -3490,6 +4591,23 @@
   "duration": 1644,
   "views": 528605,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "fUWu0z_GUDA",
+  "title": "久々にヤバいの出た。ロート製薬のアゼライン酸スキンケアの効果【ニキビ・毛穴・美白など】を化粧品開発者が徹底解説",
+  "channel": "すみしょう",
+  "channelId": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "acids"
+  ],
+  "duration": 1172,
+  "views": 527499,
+  "date": "2023-09"
  },
  {
   "youtubeId": "tAnVp0XYPTo",
@@ -3554,6 +4672,38 @@
   "duration": 880,
   "views": 522223,
   "date": "2025-11"
+ },
+ {
+  "youtubeId": "iQex7zqk9cg",
+  "title": "MY TRETINOIN RESULTS & TIPS | Rudi Berry",
+  "channel": "Rudi Berry",
+  "channelId": "UCsfHBfvGDKPBW0nufcIYBlg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 919,
+  "views": 522173,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "0ci8Cf2gkjI",
+  "title": "【プチプラ毛穴ケア３種の神器】崩壊・溶解・分解…最強はどれ！？ドラッグストアで買える大人気角栓ケアコスメの成分＆メカニズムをプロが解説！",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1785,
+  "views": 520649,
+  "date": "2025-09"
  },
  {
   "youtubeId": "lTwPrbeD8sw",
@@ -3623,18 +4773,35 @@
   "date": "2024-09"
  },
  {
-  "youtubeId": "NteKQVsywa0",
-  "title": "【新：眼輪筋はがし】目元のたるみ・シワが一瞬で消えるからやってみて",
-  "channel": "美容整体のうちやま先生。【プラスフィール】",
-  "channelId": "UCdX4bMa2UPwcfZ_8ietRs2g",
+  "youtubeId": "w1b6E29uXwY",
+  "title": "【伝説のプチプラ最強美白ジェル】選ぶならコレ一択。リニューアルしたスペシャルジェルクリーム、変わらず凄い！【アクアレーベルお勧め組み合わせ】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
   "lang": "ja",
   "concerns": [
-   "aging"
+   "spots"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1161,
+  "views": 508801,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "h3kn_Lf7BHE",
+  "title": "The Different Types of Acne and How to Treat Them",
+  "channel": "Healthline",
+  "channelId": "UC7snF15Idi7px6XujWe_h9A",
+  "lang": "en",
+  "concerns": [
+   "acne"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 379,
-  "views": 504419,
+  "duration": 703,
+  "views": 506625,
   "date": "2022-09"
  },
  {
@@ -3652,6 +4819,23 @@
   "duration": 52,
   "views": 502805,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "J8EcA1PSDWY",
+  "title": "Retinol for beginners | DERMATOLOGIST TIPS @DrDrayzday",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1289,
+  "views": 501719,
+  "date": "2023-09"
  },
  {
   "youtubeId": "EkY11Z3BR3w",
@@ -3684,6 +4868,21 @@
   "ingredients": [],
   "duration": 528,
   "views": 501066,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "Vexzvzz9Z-o",
+  "title": "【プチプラも紹介❤️】やらなきゃもったいない！！老いは目元からやってくる…！気付いた今からやれば変わる、目元ケアを大公開！",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 982,
+  "views": 500264,
   "date": "2025-09"
  },
  {
@@ -3819,6 +5018,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "H0p_w3mR3n0",
+  "title": "【毛穴に効く最強の組合せ】プチプラ＆グリセリンフリー中心に理論上最強の『毛穴抹消』デッキを化粧品のプロが考えたらこうなった。",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1569,
+  "views": 486050,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "A6GaQORm3AU",
   "title": "ニキビのタイプ別対処法 #shorts",
   "channel": "玉城有紀 / 医師「皮膚科・美容皮膚科」",
@@ -3935,6 +5149,22 @@
   "duration": 46,
   "views": 471830,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "lX7JMkVgBgI",
+  "title": "【ニキビスキンケア】小田切ヒロ直伝！どんな肌トラブル・敏感肌になっている状態でも使えるスキンケアをご紹介！【メンズスキンケア】",
+  "channel": "HIRO BEAUTY CHANNEL",
+  "channelId": "UC8oF7jmQsKbMVrCv5LrP32w",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1119,
+  "views": 470220,
+  "date": "2021-09"
  },
  {
   "youtubeId": "MT4DrMVbotE",
@@ -4087,6 +5317,38 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "00a4m3XoUl0",
+  "title": "How to exfoliate  | who needs it| who should avoid | Dermatologist explains",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 787,
+  "views": 453521,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "idaMa-b_9Q0",
+  "title": "Fungal acne (Malassezia folliculitis) versus Comedonal acne",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 772,
+  "views": 452936,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "vuwLW6sg2Cs",
   "title": "How to fix acne scars? || Dr. Jushya Sarin ||",
   "channel": "Dr. Sarin ",
@@ -4101,6 +5363,55 @@
   "duration": 34,
   "views": 452137,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "fqIpSsYh-zE",
+  "title": "【¥2,000以下】オールインワンジェル27種で1番良いのはどれ？！",
+  "channel": "コスメヲタちゃんねるサラ",
+  "channelId": "UC_226ocwA3qmdpY2umXy9bA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1398,
+  "views": 451413,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "ZDJIg2WvUnU",
+  "title": "【2026年最新UV】今年の日焼け止めはここまで進化したわよ。目的別に今買うべきおすすめUVケアアイテム全部見せるわ🤍",
+  "channel": "HIRO BEAUTY CHANNEL",
+  "channelId": "UC8oF7jmQsKbMVrCv5LrP32w",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1073,
+  "views": 446958,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "-pmIHPE2wmw",
+  "title": "ドラッグストアで買えるデパコス並みのシワ改善化粧品を3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 749,
+  "views": 445227,
+  "date": "2022-09"
  },
  {
   "youtubeId": "96s4egevyhY",
@@ -4118,6 +5429,23 @@
   "duration": 768,
   "views": 442265,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "hcGjP4-wJXw",
+  "title": "首のシワの原因と効果の期待できるネッククリームについてお話します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 691,
+  "views": 441889,
+  "date": "2021-09"
  },
  {
   "youtubeId": "AGGpgr8Vs_4",
@@ -4151,6 +5479,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "AqX_xtdnF4g",
+  "title": "【資生堂の切り札】魔改造されたエリクシールブライトニング、デパコス不要の最強美白スキンケアに変貌を遂げてしまう【4MSK×トラネキサム酸】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [
+   "tranexamic"
+  ],
+  "duration": 1780,
+  "views": 441736,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "l09Y713dqhs",
   "title": "【神スキンケア最強の組合せ 2025】プチプラより効く×デパコスより安い！スキンケア1番の狙い目『ミドル価格帯』の傑作をぜんぶ組み合せてみた！",
   "channel": "かずのすけ",
@@ -4164,6 +5509,23 @@
   "duration": 1615,
   "views": 439477,
   "date": "2025-11"
+ },
+ {
+  "youtubeId": "HdsuFjjMqf0",
+  "title": "皮膚科医が成分で選んだ敏感肌用洗顔料ベスト3 / The 3 Best Cleansers for Sensitive Skin Chosen by Dermatologists",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 547,
+  "views": 436632,
+  "date": "2020-09"
  },
  {
   "youtubeId": "3fJsdPGcBKg",
@@ -4534,6 +5896,21 @@
   "date": "2026-08"
  },
  {
+  "youtubeId": "PwY9EeZNJ38",
+  "title": "Derm Tips + Advice for Acne-Prone Skin! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1398,
+  "views": 395752,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "hCXxjTQbkU8",
   "title": "【ビタミンC】肌再生の専門家が、簡単にシミが消える市販薬の真実について解説します【トラネキサム酸】",
   "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
@@ -4552,6 +5929,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "si9l1VZtzvQ",
+  "title": "The Ultimate Guide To Eye Creams 2025",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1099,
+  "views": 395461,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "jepxhW1pQrA",
   "title": "Dermatologist Shares the Best Sunscreen for Your Skin Type (Oily, Dry, Combination, & More!)",
   "channel": "Dr. Sam Ellis",
@@ -4566,6 +5960,24 @@
   "ingredients": [],
   "duration": 1064,
   "views": 394778,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "TFFO5jHQzFk",
+  "title": "どんなに化粧水を塗っても毛穴も乾燥肌も全く改善しない方へ、裏技を教えます",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "pores",
+   "dryness"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 491,
+  "views": 394595,
   "date": "2023-09"
  },
  {
@@ -4699,6 +6111,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "FVF14WKlyNo",
+  "title": "シミができにくい人の習慣を5つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 695,
+  "views": 385841,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "GNOl8XNbKns",
   "title": "The ULTIMATE Routine for Sensitive Skin | Doctorly Routines",
   "channel": "Doctorly",
@@ -4729,6 +6156,55 @@
   "duration": 609,
   "views": 380694,
   "date": "2026-04"
+ },
+ {
+  "youtubeId": "Kr9M02DAYGk",
+  "title": "【永久保存版】美容のプロがシミ対策で使うべき美白成分を総まとめ！使うべき商品が丸わかり！【今年こそ本気のシミ対策】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1458,
+  "views": 379814,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "e063BhtXOCQ",
+  "title": "【レチノール１番効く使い方】→「洗顔後直塗り」！プロが検証した『レチノールの効果的な使用手順ランキング』解説",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 778,
+  "views": 379496,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "mmaC1Nfn9uc",
+  "title": "Sensitive skin | Why does it happen | How to treat | Product to use | Dermatologist | Dr. Aanchal",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 452,
+  "views": 379010,
+  "date": "2023-09"
  },
  {
   "youtubeId": "XcVAcsEd1sQ",
@@ -4779,6 +6255,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "h19mTItzLrE",
+  "title": "Best Moisturizers of the Year | Doctorly Favorites of 2025",
+  "channel": "Doctorly",
+  "channelId": "UCHCZnC9akNA9pBP7aJGNKdg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 978,
+  "views": 377181,
+  "date": "2026-01"
+ },
+ {
   "youtubeId": "O-SGXA8t6l4",
   "title": "Dermatologist’s Melasma Routine #darkspots #hyperpigmentation  #skincareroutine",
   "channel": "Dr. Shereene Idriss",
@@ -4795,6 +6288,24 @@
   "duration": 30,
   "views": 377125,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "G7Jxwk2ya_Y",
+  "title": "「ベビーオイル」と「乳液」だけでお肌に優しくクレンジングする方法。クレンジングも洗顔料も水もお湯も不要です！【ベビーオイル洗顔乳液オフ法】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse",
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 703,
+  "views": 377049,
+  "date": "2020-09"
  },
  {
   "youtubeId": "FuWXNRE6gYM",
@@ -4859,6 +6370,36 @@
   "date": "2026-01"
  },
  {
+  "youtubeId": "ElMd43ywYKs",
+  "title": "【乾燥お呼びでない】極度の乾燥肌が冬のディズニーでお直しなしで過ごすための仕込み【スキンケア・ベースメイク】",
+  "channel": "fukuse yuuriマリリン",
+  "channelId": "UCmsA3A5_HKBwI9OktSttTFg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 975,
+  "views": 371944,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "ICJ7XiN-Zyw",
+  "title": "【プロが絶対にやらないスキンケア】敏感肌の美容専門家が美肌のために「絶対にやらない」スキンケア５選を解説しました【敏感肌向け】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1627,
+  "views": 370962,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "_T--9wSkBQU",
   "title": "【2026年版】最強日焼け止めランキング！",
   "channel": "すみしょう",
@@ -4893,6 +6434,39 @@
   "date": "2020-09"
  },
  {
+  "youtubeId": "6H0ZGnToVB8",
+  "title": "Best Melasma Treatment? Dermatologist Explains Melasma: Causes, At Home Treatments, & More",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1172,
+  "views": 370636,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "B_H7YRVjnqA",
+  "title": "皮膚科医がドラッグストアで買える敏感肌向けの超保湿クリームを3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 638,
+  "views": 370487,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "19YwUWl-PtI",
   "title": "【スキンケアの基本】朝のメイク前のスキンケアの基本を徹底解説！スキンケアってアイテムと同じくらい手つきが重要🙏もしかしたらできたつもりになってるかも…⁉️全員これみておさらいしてね🫡【永久保存版】",
   "channel": "長井かおり | おしゃべりメイクBOX",
@@ -4906,6 +6480,21 @@
   "duration": 1609,
   "views": 368750,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "koIB4ESihGc",
+  "title": "Best Hacks To Instantly Reduce Redness & Rosacea! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 852,
+  "views": 368068,
+  "date": "2023-09"
  },
  {
   "youtubeId": "sZy_ywefGek",
@@ -4968,6 +6557,27 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "eiXXLrssUNI",
+  "title": "【進化した奇跡のフリー処方】去年のベスコス超えました！しれっと新発売のちふれ美白クリームがガチで凄い件【疑似セラミド×トラネキサム酸×ナイアシンアミド】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "niacinamide",
+   "ceramide",
+   "tranexamic"
+  ],
+  "duration": 1184,
+  "views": 364540,
+  "date": "2026-04"
+ },
+ {
   "youtubeId": "5E1lOE9AJ-4",
   "title": "【🌪️乾燥敏感肌🍂】大量の使い切りスキンケア本音ガチレビュー🤫‼️【リピあり？リピなし？】",
   "channel": "鹿の間",
@@ -4982,6 +6592,22 @@
   "duration": 2114,
   "views": 364535,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "pQsxXMHsRo0",
+  "title": "Tips for Fungal Acne | FaceTory",
+  "channel": "FaceTory",
+  "channelId": "UCiWF0x9Hhgyeq5l4rNC87zA",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 11,
+  "views": 361515,
+  "date": "2021-09"
  },
  {
   "youtubeId": "l1FPuQQoTok",
@@ -5029,6 +6655,37 @@
   "duration": 769,
   "views": 357174,
   "date": "2026-03"
+ },
+ {
+  "youtubeId": "MIBfKxCWM3Q",
+  "title": "ドラッグストアで買えるコスパ最強のしわ改善・シミ対策の化粧品を紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots",
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 458,
+  "views": 356390,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "MHblUVGzNHY",
+  "title": "乾燥肌対策♡最近のスキンケア紹介 2016年冬ver.",
+  "channel": "くまみき/Kumamiki",
+  "channelId": "UCr-QcqNToYablI-jU2VPVSw",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 691,
+  "views": 356288,
+  "date": "2017-09"
  },
  {
   "youtubeId": "NOnmFhAxEUc",
@@ -5251,6 +6908,23 @@
   "date": "2025-11"
  },
  {
+  "youtubeId": "ixa8v0bXQho",
+  "title": "The Right Way to Use Vitamin C (& Mistakes to Avoid) from a Dermatologist! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 927,
+  "views": 341823,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "8sdJ05FyTSc",
   "title": "【これが現代トップです】ドラッグストアで揃う神の乳液4選！美白・ニキビ・敏感肌・セラミドケアに優秀すぎるお勧め乳液をプロが選んでみた【ほぼプチプラ】",
   "channel": "かずのすけ",
@@ -5299,6 +6973,36 @@
   "duration": 29,
   "views": 339267,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "hYNHXzBs3hQ",
+  "title": "【2021年冬最新】40才からでもできる!首のシワを消す究極の方法",
+  "channel": "あい先生 ｜リンパ師",
+  "channelId": "UC58zaRv7_nuQqVbBGDox9hw",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 439,
+  "views": 338777,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "P2YKg8SXooY",
+  "title": "【乾燥性湿疹】そうか！だからかゆいのか！繰り返さないために",
+  "channel": "皮膚のことチャンネル",
+  "channelId": "UCQNgDUUbgDGcHI4Eg4A9how",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1233,
+  "views": 337529,
+  "date": "2021-09"
  },
  {
   "youtubeId": "k0AF9DlvKvg",
@@ -5401,6 +7105,21 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "vSq2Oo4BfeU",
+  "title": "皮脂でもマラセチアでもない！？脂漏性皮膚炎の原因と炎症を防ぐスキンケアについて",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 671,
+  "views": 328473,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "ZHhxRMZgjIo",
   "title": "ニキビを最速で治すために皮膚科でやること",
   "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
@@ -5495,6 +7214,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "U3HyyRCPSc8",
+  "title": "【2026年おすすめ日焼け止め】UVカットなんて当たり前。保湿・快適・美肌見え・手軽さまで🙌 ５ブランドをご紹介☀️|コスメデコルテ・雪肌精・エリクシール・アネッサ・オルビス",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 777,
+  "views": 318386,
+  "date": "2026-04"
+ },
+ {
   "youtubeId": "F_spvH5tVHU",
   "title": "【究極のニキビ・皮脂・毛穴ケア】アゼライン酸スキンケア５選！化粧品で唯一『ニキビに効く』エビデンスを持つ美肌成分がヤバい【グリセリンフリー】",
   "channel": "かずのすけ",
@@ -5528,6 +7264,38 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "Rh4tnW2g6SE",
+  "title": "【未来から届いた美容液】その凄さ、現代科学では表現不能。時代を置き去りにした『エリクシール ザ セラム』世界が待ち望んだ\"基底膜\"研究の結晶ついに完成",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 1533,
+  "views": 317240,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "GQpiTgoOxgo",
+  "title": "ACNE Treatments | Explained by Dermatologist",
+  "channel": "Dr Davin Lim",
+  "channelId": "UC9SIYzAqsCmfHsZrxdPGvzA",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 522,
+  "views": 316134,
+  "date": "2019-09"
+ },
+ {
   "youtubeId": "6k36p7vzpmA",
   "title": "【数年前ならデパコスです】この次世代美容液がプチプラ！？超希少W有効成分のシワ改善美容液が1200円で買える時代に…【肌美精 薬用リンクル美容液】",
   "channel": "かずのすけ",
@@ -5543,6 +7311,21 @@
   "duration": 1083,
   "views": 315541,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "dEJQ7YIn0w4",
+  "title": "さよなら！背中ニキビ",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 745,
+  "views": 314250,
+  "date": "2020-09"
  },
  {
   "youtubeId": "aXnCClDC90A",
@@ -5576,6 +7359,21 @@
   "duration": 1037,
   "views": 313407,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "ZIrrm8bWsaI",
+  "title": "背中ニキビを治す方法【体の吹き出物】首やデコルテ・肩にも効きます",
+  "channel": "Nao Komatsu",
+  "channelId": "UCuJMbZLpjb5XYL1aid9mUoQ",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 338,
+  "views": 312805,
+  "date": "2019-09"
  },
  {
   "youtubeId": "6yZ8UznCJ8E",
@@ -5627,6 +7425,23 @@
   "duration": 621,
   "views": 308238,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "klODunXTfPs",
+  "title": "【2026年版☀️日焼け止め35種類比較】プチプラ・ドラコス・デパコスの新作&人気UVを徹底検証！色移りしないのは？ベタつかないのは？肌質別おすすめなど徹底解説",
+  "channel": "水越みさと",
+  "channelId": "UCffg7iYU2K7HFJDhylZzUBw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 2547,
+  "views": 308063,
+  "date": "2026-04"
  },
  {
   "youtubeId": "DglTzSYoxk4",
@@ -5709,6 +7524,44 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "KMdxOfXKQZ4",
+  "title": "レチノール美容液ベスト3を紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 612,
+  "views": 303435,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "uSrE2s5LZAU",
+  "title": "Vitamin C Vs Niacinamide | Wrinkles, Dark Spots, Anti-Aging",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "spots",
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc",
+   "niacinamide"
+  ],
+  "duration": 1187,
+  "views": 303398,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "O46wBiJzKkc",
   "title": "実は簡単！しつこい「くすみ」解消法と、6大原因",
   "channel": "国際エステティシャン みどり先生",
@@ -5772,6 +7625,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "S6JwadjlbIY",
+  "title": "【最近クレンジングこれでしてる】サンホワイトとスクワランで…！？実質的肌負担が「０」になる新式オイル洗顔のやり方と考え方を解説！",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1253,
+  "views": 299951,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "WtYhiziJmSo",
   "title": "Fall Nighttime Skincare Routine: Face & Body! | Dr. Shereene Idriss",
   "channel": "Dr. Shereene Idriss",
@@ -5787,6 +7657,21 @@
   "duration": 942,
   "views": 299912,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "OLViulkE68g",
+  "title": "【肌ボロボロになります】当てはまったら即やめて⚠️美肌の人がやらないスキンケア5つ",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 749,
+  "views": 299681,
+  "date": "2025-09"
  },
  {
   "youtubeId": "tQ0EpVJKydg",
@@ -5819,6 +7704,21 @@
   "duration": 519,
   "views": 296972,
   "date": "2026-08"
+ },
+ {
+  "youtubeId": "VWPJAU-YaaI",
+  "title": "Top 8 Ingredients to Treat Redness & Rosacea from a Dermatologist! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1274,
+  "views": 296400,
+  "date": "2024-09"
  },
  {
   "youtubeId": "DLcVbuS4SIk",
@@ -5917,6 +7817,39 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "ev2IIolC6Fk",
+  "title": "繰り返す思春期ニキビの対処法#shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 59,
+  "views": 292807,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "I2XV3nMyb9Y",
+  "title": "How to Start on Retinoids | Lab Muffin Beauty Science",
+  "channel": "Lab Muffin Beauty Science",
+  "channelId": "UCg6P323bLV4zMSWFqFhvWMg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 545,
+  "views": 291958,
+  "date": "2019-09"
+ },
+ {
   "youtubeId": "Rj-bImHjv-k",
   "title": "話題のCICAについて皮膚科医の視点から説明します。",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -5983,6 +7916,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "Xp9ZI0EAnn4",
+  "title": "【プチプラクレジングの真実】牛乳石鹸クレンジングオイルの成分と使用感レビュー",
+  "channel": "すみしょう",
+  "channelId": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 596,
+  "views": 288149,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "6DDwYBHhJw0",
   "title": "How to GET RID OF hormonal acne and HEAL your GUT | WHAT DOCTORS WON'T TELL YOU | KIRAH OMINIQUE",
   "channel": "Kirah Ominique",
@@ -5996,6 +7946,40 @@
   "duration": 1190,
   "views": 286856,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "3Qrz__mY4Yo",
+  "title": "【最強保湿クリーム】キュレルフェイスクリーム徹底比較",
+  "channel": "すみしょう",
+  "channelId": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 661,
+  "views": 286301,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "KICH7WCJFm8",
+  "title": "Simple Five Step Skincare Routine for Men + Women | Aesop, Farmacy, OLEHENRIKSEN, Base Butter + More",
+  "channel": "Nicholas Bailey",
+  "channelId": "UCkLnbMmnl3sbPEMWplzH4mQ",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 724,
+  "views": 286002,
+  "date": "2021-09"
  },
  {
   "youtubeId": "7u3YRhoUpVY",
@@ -6111,6 +8095,21 @@
   "date": "2026-04"
  },
  {
+  "youtubeId": "UDOPoaT99oQ",
+  "title": "ASMR Dermatologist SKIN PORE EXAM & Treatment with LATEX, Measuring, Swabbing, Scraping & Touching",
+  "channel": "asmr august",
+  "channelId": "UCd2Zrj8ImUs2x8WLN7H4Ffg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1741,
+  "views": 280450,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "gUpIizy4e1w",
   "title": "How to Treat Under Eye Wrinkles from a Dermatologist! | Dr. Shereene Idriss",
   "channel": "Dr. Shereene Idriss",
@@ -6141,21 +8140,6 @@
   "date": "2025-09"
  },
  {
-  "youtubeId": "bUUNfUMajXw",
-  "title": "【劇的に若返る】老けて見える\"目の下のクマ\"消す方法！たるみ・シワも解消するセルフケア",
-  "channel": "美容整体のうちやま先生。【プラスフィール】",
-  "channelId": "UCdX4bMa2UPwcfZ_8ietRs2g",
-  "lang": "ja",
-  "concerns": [
-   "aging"
-  ],
-  "steps": [],
-  "ingredients": [],
-  "duration": 703,
-  "views": 276547,
-  "date": "2026-06"
- },
- {
   "youtubeId": "llUNgc9j2e4",
   "title": "【シミ取り】友利新先生が解説！顔のシミに最適な治療の選び方【保存版】",
   "channel": "美容皮膚科シロノクリニック",
@@ -6169,6 +8153,21 @@
   "duration": 261,
   "views": 273419,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "uFQjZTcwcbk",
+  "title": "気になる目の下のクマ取りについて解説！脂肪注入は必要なの？【ドラゴン細井】",
+  "channel": "ドラゴン細井featアマソラクリニックch",
+  "channelId": "UCvKk23twpijvqlzhSWreySg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 340,
+  "views": 272744,
+  "date": "2021-09"
  },
  {
   "youtubeId": "OnVAxNsZpqQ",
@@ -6186,6 +8185,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "fiUwSMEjh78",
+  "title": "【切らない目元ケア】冗談抜きで\"目の周りの脂肪\"に効きます。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 589,
+  "views": 270971,
+  "date": "2026-09"
+ },
+ {
   "youtubeId": "HoTLa7wFStg",
   "title": "皮膚科医がコスパ最強のエイジングケア化粧水を2つ紹介します。",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -6201,6 +8215,24 @@
   "duration": 481,
   "views": 270280,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "wp1Tk6IEcTo",
+  "title": "【拭き取り化粧水って必要？】 かずのすけ式『ポンポン拭き取り』の方法を伝授！コットンでの拭き取りがニキビ肌質・脂性肌にお勧めの理由",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 542,
+  "views": 270225,
+  "date": "2021-09"
  },
  {
   "youtubeId": "2HCDsEC45kk",
@@ -6284,6 +8316,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "4vX56xsI9yM",
+  "title": "思春期ニキビを治すためにした事何をしたか話します。",
+  "channel": "EGA.channel",
+  "channelId": "UCVRDCteAx6zMUWMB86QRXxw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 601,
+  "views": 267489,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "5y3mUUB_PDk",
   "title": "日焼け止めに関する大事なことを全部伝えます。",
   "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
@@ -6355,6 +8402,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "0CnXsUdZBHM",
+  "title": "How to Pick the Right Retinoid for You | Dermatologist Guide",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 839,
+  "views": 263904,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "5mxs_a8mJcc",
   "title": "【肌荒れ対策】話題のシカクリーム、結局どれが良いの？？",
   "channel": "コスメヲタちゃんねるサラ",
@@ -6387,6 +8451,21 @@
   "duration": 568,
   "views": 261793,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "d9OA4TftTzU",
+  "title": "HOW TO GET RID OF DARK CIRCLES PERMANENTLY!! 👀 (Fast and Effective)",
+  "channel": "JUST MICHELLE",
+  "channelId": "UCw_GDJ-zAd838YDowOzQn2A",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 517,
+  "views": 261493,
+  "date": "2023-09"
  },
  {
   "youtubeId": "ES7-J1f-feY",
@@ -6555,6 +8634,69 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "y38D2ZMLhy8",
+  "title": "TOP 5 FUNGAL ACNE PRODUCTS THAT WORK| Dr Dray",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 781,
+  "views": 252843,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "XsDSJc-GO8s",
+  "title": "PORE SHRINKING TREATMENTS THAT ACTUALLY WORK 😍 Dermatologist @DrDrayzday",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 933,
+  "views": 252804,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "5nkOJ5qVyoo",
+  "title": "【自力で肌質改善】ローションパックとふき取り化粧水（54歳～58歳からの軌跡）",
+  "channel": "ヘアメイク職人_化け子",
+  "channelId": "UCa_nIrYyYyE4i01TAlY7JVw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner",
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 1340,
+  "views": 252645,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "jISAMQ_2qB8",
+  "title": "Treating Hormonal Acne | Dermatologist Tips",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 550,
+  "views": 252621,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "VcoNYPur_9w",
   "title": "Dermatologist's Favorite Affordable Anti-Aging Skincare Products! | Dr. Sam Ellis",
   "channel": "Dr. Sam Ellis",
@@ -6600,6 +8742,23 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "0QvblGeEYRk",
+  "title": "ニキビ薬で肌荒れさせない方法#shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 60,
+  "views": 250095,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "Y9aPLYSjaTs",
   "title": "Anti-Aging MORNING Skincare Routine | Over 60 | WINTER 2025",
   "channel": "HotandFlashy",
@@ -6614,6 +8773,25 @@
   "ingredients": [],
   "duration": 1430,
   "views": 249695,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "zxQW1l4w9-g",
+  "title": "【ロート製薬、参戦】資生堂に次ぐレチノールついに完成…！「A反応」を制御する新技術でレチノール市場に殴り込み！？【ダーマセプトRX VAセラム】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1396,
+  "views": 249640,
   "date": "2025-09"
  },
  {
@@ -6893,6 +9071,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "fn8__LGWpcg",
+  "title": "Best Sunscreens for All Skin Types: Dry, Oily, Sensitive, & More! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1075,
+  "views": 236827,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "WSsIMZjwT1k",
   "title": "【花王がやっちゃった】安いのに効果がスゴい花王の新クリーム / 花王はキュレルだけじゃない / 保湿スキンケアするならコレ",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -6998,6 +9193,23 @@
   "date": "2026-01"
  },
  {
+  "youtubeId": "LuHma1m3uHA",
+  "title": "【一軍美白】これはデパコス級！最強ドラコス化粧水TOP3をプロが厳選｜プチプラでこれはコスパ崩壊すぎる、、！【シミ対策】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 1201,
+  "views": 230329,
+  "date": "2026-01"
+ },
+ {
   "youtubeId": "N2NF8Q7_NS8",
   "title": "【ビタミンC】プチプラで本当に効くのはこれ！化粧品開発者が正直レビュー&ランキング！",
   "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
@@ -7030,6 +9242,26 @@
   "duration": 2050,
   "views": 229090,
   "date": "2026-07"
+ },
+ {
+  "youtubeId": "XbOzqlQLKv8",
+  "title": "【ニキビ痕（にきびあと）・色素沈着】治したいなら絶対するべき２つの対策【日焼け止め＆ビタミンC】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 786,
+  "views": 229024,
+  "date": "2021-09"
  },
  {
   "youtubeId": "WtBuyZpKrUE",
@@ -7094,6 +9326,38 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "448q87jStU0",
+  "title": "Simple Hair and Skincare | Natural Minimal Beauty Routine | Simple Minimalist",
+  "channel": "Connie Riet",
+  "channelId": "UCJFsBc-sxyh3nGDHBthMDTQ",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 539,
+  "views": 226907,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "NhzUqmkzWwk",
+  "title": "【酒さ】を皮膚科医がわかりやすく説明",
+  "channel": "皮膚のことチャンネル",
+  "channelId": "UCQNgDUUbgDGcHI4Eg4A9how",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 640,
+  "views": 226704,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "z2ffnIsXkKo",
   "title": "【ブラックヘッド】いちご鼻・毛穴の黒ずみ・ブラックヘッドは治せる？肌再生の専門家が解説します。【角栓除去】",
   "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
@@ -7142,6 +9406,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "Br5sO7GpB6k",
+  "title": "BEST SUNSCREENS FOR DRY SKIN| DR DRAY",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 911,
+  "views": 225314,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "Atp6gtypZMI",
   "title": "【プチプラ大革命】日本スキンケアの未来が変わる。花王独自技術のW融合『ソフィーナベーシック』新発売！【無香料×アルコールフリー×疑似セラミド】",
   "channel": "かずのすけ",
@@ -7176,6 +9457,38 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "rtD33mwEk74",
+  "title": "Shrink Enlarged Pores Like a Dermatologist | Dr. Jenny Liu",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 799,
+  "views": 224152,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "snaRz7Khjx0",
+  "title": "Make Your Retinoids Work BETTER | Easy Retinol Hacks | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 666,
+  "views": 224129,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "QBJ-UoJDOhE",
   "title": "【全種『業界No.1』級】アンレーベル美容液がリニューアル！プチプラ史上最高濃度のレチノール・ビタミンC・ナイアシンアミド・アゼライン酸が規格外すぎる…！！",
   "channel": "かずのすけ",
@@ -7198,6 +9511,23 @@
   "date": "2026-05"
  },
  {
+  "youtubeId": "CQwj0AdCwRE",
+  "title": "How to Create Your Own Skincare Routine for Teens (affordable & simple) I Teen Korean Skincare",
+  "channel": "blueyoobin",
+  "channelId": "UCS4hSRFUnAuQxUp8Klmqpgg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 533,
+  "views": 222025,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "nS1jvKuLObY",
   "title": "【垢抜け】ドロドロの脂性肌な私のスキンケアについて語ります。",
   "channel": "綾瀬ちい",
@@ -7211,6 +9541,38 @@
   "duration": 444,
   "views": 221234,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "awEzHaxn85k",
+  "title": "【ニキビ肌を変えた美容法】辞めたこと４選、始めたこと７選",
+  "channel": "レインボー池田直人の美しちゃんねる",
+  "channelId": "UCOeAaKC24kf8OzW64_FMfJw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 761,
+  "views": 221050,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "3LcfOrThwRs",
+  "title": "【ジェルvsオイル】クレンジング結局どっちが良いの？無印良品 神の人気作『マイルドクレンジング』リニューアル解説！【化粧品開発者の本音】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1668,
+  "views": 220940,
+  "date": "2025-09"
  },
  {
   "youtubeId": "9g50X2PzBDs",
@@ -7263,6 +9625,23 @@
   "date": "2026-09"
  },
  {
+  "youtubeId": "Pvs9Q8M7CP0",
+  "title": "【完全版】2026年最新日焼け止めをプロ解説！絶対焼けたくないならこれ買って！【ドラコス・ミドプラUV多め】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1851,
+  "views": 219200,
+  "date": "2026-04"
+ },
+ {
   "youtubeId": "GcDahGMHAIk",
   "title": "Best SERUMS for DARK SPOTS! Affordable + Scientifically PROVEN Ingredients! (Filipino) | Jan Angelo",
   "channel": "Jan Angelo",
@@ -7278,6 +9657,22 @@
   "duration": 1413,
   "views": 219055,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "pha_1yoevQk",
+  "title": "How to TREAT ACNE WHEN YOU HAVE DRY SKIN| Dr Dray",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "acne",
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 984,
+  "views": 218897,
+  "date": "2021-09"
  },
  {
   "youtubeId": "x5Sm1-x9IbM",
@@ -7310,6 +9705,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "_WYRX02WjAw",
+  "title": "Best Clear Skin Tips from a Dermatologist That Actually Work! | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 741,
+  "views": 218472,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "9l-AxiW8rmU",
   "title": "日本人の知らないスキンケアの誤解を皮膚科医が解説します。",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -7323,6 +9733,40 @@
   "duration": 734,
   "views": 217799,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "RGxnaLGTlKE",
+  "title": "【コスパ神のセラミド乳液】大容量×プチプラ！敏感肌に優しくて医薬部外品でヒト型セラミド入ってて…こんなに安くて良いの？【ベビー＆キッズケアにも】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "ceramide"
+  ],
+  "duration": 669,
+  "views": 216847,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "NbNQmZ2M76A",
+  "title": "【リアル】肌を綺麗にするためにやって良かった事12選【美肌】",
+  "channel": "美男子ヤノ",
+  "channelId": "UC0J207a77jE68AocS6BtzRg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1616,
+  "views": 216141,
+  "date": "2025-09"
  },
  {
   "youtubeId": "kcURFgYrUuk",
@@ -7358,6 +9802,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "FnEFCrEqxYM",
+  "title": "【冬の乾燥肌対策】私がオススメする最高の天然成分保湿剤を紹介します！",
+  "channel": "高須幹弥（高須クリニック）",
+  "channelId": "UCwywumWHI4_hQtZpJwsC8cw",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 685,
+  "views": 215577,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "XFkPr9GYle4",
   "title": "【Anuaアゼライン酸】巷で話題のアゼライン酸商品について、皮膚科医友利新の見解をお話しします",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -7373,6 +9834,23 @@
   "duration": 675,
   "views": 215389,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "Ke4L07t-9fY",
+  "title": "Dermatologist Retinoid Tips: How to Start Using Retinol With Minimal Irritation",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1197,
+  "views": 215378,
+  "date": "2022-09"
  },
  {
   "youtubeId": "ythV9PhG-XQ",
@@ -7424,19 +9902,36 @@
   "date": "2024-09"
  },
  {
-  "youtubeId": "F3PW4SrUaIQ",
-  "title": "目元のしわがなくなったマッサージ方法が凄い！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
-  "lang": "ja",
+  "youtubeId": "YkElvyJ3nvA",
+  "title": "Dermatologist's Top 10 Skincare Products for Oily Skin & Clogged Pores! | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
   "concerns": [
-   "aging"
+   "pores"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 337,
-  "views": 211308,
-  "date": "2021-09"
+  "duration": 813,
+  "views": 212651,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "oovYCkSRdds",
+  "title": "【これで防げます】日焼け止め15種『ロングUVA』対応実験やってみたら意外な結果に…！！肌を老化させるロングUVA対策、どうするべきか",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1368,
+  "views": 212560,
+  "date": "2026-06"
  },
  {
   "youtubeId": "XZOX7bAv5MU",
@@ -7582,6 +10077,21 @@
   "date": "2026-06"
  },
  {
+  "youtubeId": "RNGmp2H6azQ",
+  "title": "【メガ割総まとめ】絶対失敗させない！美容のプロが本当にリピ買いしているQoo10韓国コスメを成分別に徹底レビュー【スキンケア】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1821,
+  "views": 207127,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "ZAVpjQiHerM",
   "title": "30代、薄肌を守って育てるスキンケアルーティン",
   "channel": "chun",
@@ -7597,6 +10107,21 @@
   "duration": 1080,
   "views": 205614,
   "date": "2026-01"
+ },
+ {
+  "youtubeId": "lYkjfiqKBFc",
+  "title": "肌の赤みの原因とおすすめの化粧品を紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 876,
+  "views": 205525,
+  "date": "2023-09"
  },
  {
   "youtubeId": "W5DgWn-Emb0",
@@ -7616,6 +10141,25 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "on7qKFlEGQY",
+  "title": "【酒さ】ピーリングやサウナもNG🈲 酒さの人が絶対やっちゃダメな事10選!!【酒さ患者が語る】",
+  "channel": "AKANE",
+  "channelId": "UC7R7lrR97Ag-AX_6R8iIshA",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [
+   "acids"
+  ],
+  "duration": 1152,
+  "views": 203965,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "vxxv-F7362E",
   "title": "Dermatologist Shares 10 Skincare Tips for Your 30s (Wrinkles, Dry Skin, Adult Acne, & More)",
   "channel": "Dr. Sam Ellis",
@@ -7629,6 +10173,40 @@
   "duration": 1194,
   "views": 203388,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "p_UzP8TljDA",
+  "title": "エイジングケアにはこれ！50代60代の化粧水の正しい選び方をおきゃんママが解説します(選ぶ基準)",
+  "channel": "アラ還 おきゃんママの若見えチャンネル",
+  "channelId": "UCrFSZcYdqaveh6X2Liosjyg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 741,
+  "views": 203069,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "jcyhDi7RYdQ",
+  "title": "8 Retinol Tips for Perfect Skin — A Derm’s Guide for Beginner to Advanced | Dr. Shereene Idriss",
+  "channel": "Dr. Shereene Idriss",
+  "channelId": "UCidfBdauHUmKFcMw-4QoaSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 890,
+  "views": 203052,
+  "date": "2024-09"
  },
  {
   "youtubeId": "K89L2GR7SnU",
@@ -7677,6 +10255,38 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "kX8W-GDdtSM",
+  "title": "【初公開】60代のスキンケア！小林幸子の美容方法をご紹介します！",
+  "channel": "小林幸子はYouTuBBA!!",
+  "channelId": "UCy7CLsD5z0l3Q8OzsxZRwOQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 746,
+  "views": 201558,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "ah_bhPbNzWs",
+  "title": "Best GEL TYPE MOISTURIZERS for OILY to COMBINATION skin! (Filipino) | Jan Angelo",
+  "channel": "Jan Angelo",
+  "channelId": "UCs8w8bVy54OMf6LokG69g0A",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1018,
+  "views": 200087,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "G8fa4VuXZaM",
   "title": "Top Sunscreens We Can’t Live Without | Dermatologist Favorites",
   "channel": "Doctorly",
@@ -7692,6 +10302,22 @@
   "duration": 686,
   "views": 199962,
   "date": "2026-05"
+ },
+ {
+  "youtubeId": "FHWWrUXSbpw",
+  "title": "【これさえ見ればすべて分かる】脂性肌・ニキビ肌の正しいケア方法を解説",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 939,
+  "views": 199717,
+  "date": "2025-09"
  },
  {
   "youtubeId": "xpOQrwfAIqI",
@@ -7742,6 +10368,23 @@
   "duration": 153,
   "views": 199298,
   "date": "2026-04"
+ },
+ {
+  "youtubeId": "gQIIf7KY51Y",
+  "title": "Best Viral Korean Moisturizers [don’t buy one before watching this]",
+  "channel": "CYoung",
+  "channelId": "UCFdi3igjh6--YqjX17M1lhA",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 682,
+  "views": 199105,
+  "date": "2025-09"
  },
  {
   "youtubeId": "AUfwLwDD-fM",
@@ -7828,6 +10471,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "SBY8nDxMRd4",
+  "title": "毛穴の黒ずみに本当に効果的なケアを皮膚科専門医が解説",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 677,
+  "views": 196105,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "pj4Vfpqd9Cw",
   "title": "【キュレル神作7選】アトピーの原因\"セラミド不足\"初実証！記念にドラッグストアで買えるセラミドケア『Curel』の最高峰をまとめました！【2026最新版】",
   "channel": "かずのすけ",
@@ -7877,6 +10535,36 @@
   "duration": 86,
   "views": 195805,
   "date": "2013-09"
+ },
+ {
+  "youtubeId": "B-5jDdytWuI",
+  "title": "【肌の赤み】酒さの対処法について皮膚科医が詳しく解説します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 649,
+  "views": 195328,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "yAjEWlgqzIY",
+  "title": "肌再生の専門家が、ほうれい線を消す方法について正直にお話します",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 775,
+  "views": 195005,
+  "date": "2023-09"
  },
  {
   "youtubeId": "T7V21CfLbc4",
@@ -7991,6 +10679,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "f5tUhkZ7yv0",
+  "title": "【透明感UP】くすんだと思ったら即ふきとりを使うべし！美容のプロが毎日使っても安心おすすめ角質ケアアイテム教えます！",
+  "channel": "SHOKO美チャンネル 【40代50代の為の美容法】",
+  "channelId": "UCocXVYUfcC79osgM02JpiPg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 593,
+  "views": 190608,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "G9H289n_MDI",
   "title": "ナイアシンアミドのシワ改善効果の謎",
   "channel": "すみしょう",
@@ -8057,6 +10762,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "Qw2YRB3zT-g",
+  "title": "皮膚科専門医が教えるニキビ治療薬「べピオゲル」",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 642,
+  "views": 188550,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "Lw2WqQ49-uk",
   "title": "How to Treat Melasma NATURALLY",
   "channel": "Dr Davin Lim",
@@ -8071,6 +10791,24 @@
   "duration": 54,
   "views": 188071,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "1ZRmszpo90E",
+  "title": "【美容のあるある思い込み】年齢重ねたらプチプラじゃダメ？乳液＆クリームは絶対必要？化粧水浸透しない＝肌状態悪い？…その「常識」、実は間違いかも！",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner",
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1003,
+  "views": 187924,
+  "date": "2023-09"
  },
  {
   "youtubeId": "Lqv7shtni5Q",
@@ -8103,6 +10841,23 @@
   "duration": 485,
   "views": 186986,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "YYkZyQF9fGw",
+  "title": "【暴露】アイクリームって本当に必要？皮膚科医がプチプラから高級コスメまで徹底比較！",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1062,
+  "views": 186692,
+  "date": "2025-09"
  },
  {
   "youtubeId": "2MqzryIM7ug",
@@ -8342,6 +11097,67 @@
   "date": "2019-09"
  },
  {
+  "youtubeId": "8t__umgAFHE",
+  "title": "敏感肌やアトピー アレルギーも防ぐ！0歳からのスキンケア",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 949,
+  "views": 181471,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "b4UMJCrOXGE",
+  "title": "【40歳→60歳】シミに悩んでた私が本当に効果があった３つの美白スキンケア【肌をきれいにする方法】",
+  "channel": "【美肌家】杉山奈津子のツヤ肌ノーファンデchannel",
+  "channelId": "UC2tT2TQ8TDjX6ZVd12N_n5w",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 517,
+  "views": 181244,
+  "date": "2026-05"
+ },
+ {
+  "youtubeId": "oudmgTPnqDU",
+  "title": "【皮膚科医が本音で厳選】美白ケアの正解5選｜あなたの悩み別に“本当に良い”組み合わせ、全部見せます。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 793,
+  "views": 181003,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "Z87TgM1uzWY",
+  "title": "【有料級】シミ・くすみで老け見え？😨50代60代が使うべき最新美白スキンケアを69歳が徹底解説🔥エリクシール、コスメデコルテ、クレ･ド･ポー ボーテ、ポーラ、FAS、エクシア【2026年最新情報】",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "spots",
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1076,
+  "views": 180572,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "zgbOuYbUWOE",
   "title": "Body exfoliation 101: AHA, BHA, scrubs & everything in between",
   "channel": "Dr Ewoma",
@@ -8376,6 +11192,42 @@
   "date": "2026-04"
  },
  {
+  "youtubeId": "hyW_oL0Xfm4",
+  "title": "Niacinamide Serum | Best Niacinamide serum | Niacinamide uses",
+  "channel": "ZolieSkinClinic",
+  "channelId": "UC4HlZ9D5agwKmjWuYmDL4KA",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 883,
+  "views": 179687,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "aTPCr9URZOE",
+  "title": "【最新日やけ止め】もはや細胞から変える⁉️誰よりもUVカットに命をかける大野真理子の2026最新日焼け止めレビュー13選🤍これだけ見れば欲しいもの見つかります。",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1768,
+  "views": 179384,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "DthSsZV49yE",
   "title": "Best Cleanser for Each Skin Type | Do Not Use The Wrong Cleanser!",
   "channel": "Dr. Arsalan Aspires",
@@ -8393,6 +11245,36 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "z97FJsH7QJA",
+  "title": "【酒さ】の治しかた　困っている人に届きますように",
+  "channel": "皮膚のことチャンネル",
+  "channelId": "UCQNgDUUbgDGcHI4Eg4A9how",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 663,
+  "views": 178890,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "c0UGnmZNBFg",
+  "title": "🔴 5 Reasons Your Face Is Always Red (Rosacea to Dermatographia & Everything In-between!)",
+  "channel": "Cassandra Bankson",
+  "channelId": "UCHj2_6e0Y2YdzHZDkkLa53Q",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 970,
+  "views": 178500,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "kA4dq9Mm3WE",
   "title": "【全部買い】コスメオタクの女医がオススメする安いのに効果抜群のプチプラスキンケア12選！！",
   "channel": "女医の日常",
@@ -8406,6 +11288,21 @@
   "duration": 1393,
   "views": 178408,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "e0j635TD_I0",
+  "title": "【超保存版】いちご鼻・黒ずみ毛穴は終わり。皮膚の変態大野真理子の\"角栓ケア\"徹底解説📝",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 955,
+  "views": 177497,
+  "date": "2026-01"
  },
  {
   "youtubeId": "iNav5kqqZFw",
@@ -8475,6 +11372,56 @@
   "date": "2026-09"
  },
  {
+  "youtubeId": "WRvukD3Uu_o",
+  "title": "How to choose a cleanser",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 329,
+  "views": 175774,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "uEdrym117aY",
+  "title": "60代女性が選ぶプチプラ基礎化粧品はコレ！スキンケア頑張ってます【乾燥・シワ対策】",
+  "channel": "きょうこばぁばライフ",
+  "channelId": "UCluw9l2tHfuhu5feBoJkoHQ",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 706,
+  "views": 175678,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "O9JH7Cugo50",
+  "title": "Anti aging skincare routine 30s, 40s, 50s Available www.skincarebydrv.com #skincare #antiaging",
+  "channel": "Dr. Vanita Rattan ",
+  "channelId": "UC4u0qaMIAgOL8L37RwLcDQA",
+  "lang": "en",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 79,
+  "views": 175619,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "Hx4XeCU-j38",
   "title": "【毛穴悩み解決】ピーリングに悩んでる人に見てほしい！肌タイプ別に皮膚科医が深堀り解説します",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -8492,6 +11439,24 @@
   "duration": 582,
   "views": 174787,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "deE2D6qy20w",
+  "title": "洗顔ってしない方が良いの？【皮膚科医解説】#shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "short": true,
+  "duration": 51,
+  "views": 174764,
+  "date": "2023-09"
  },
  {
   "youtubeId": "4rLSODYnX14",
@@ -8530,6 +11495,23 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "twwmzmvmbgE",
+  "title": "新作のプチプラのアイクリームを3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 606,
+  "views": 174074,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "iAbxIK18B-E",
   "title": "Can You Get Rid of Dark Circles Under Your Eyes? Dermatologist Explains | Dr. Sam Ellis",
   "channel": "Dr. Sam Ellis",
@@ -8542,6 +11524,23 @@
   "ingredients": [],
   "duration": 1158,
   "views": 173406,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "kUsFP9x0Kt8",
+  "title": "皮膚科医があまり知られていないビタミンCの種類・効果について徹底解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 811,
+  "views": 173018,
   "date": "2022-09"
  },
  {
@@ -8577,6 +11576,23 @@
   "duration": 1041,
   "views": 172556,
   "date": "2026-07"
+ },
+ {
+  "youtubeId": "BkRb-TsG9mI",
+  "title": "TOP 10 BEST FACE MOISTURIZER FOR OILY SKIN WITH PRICE.@Mannalaimanskinandhealthcare",
+  "channel": "Mannal Aiman Skin And Health Care",
+  "channelId": "UCPT2z28YOeDI6iFoBa7xdsg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 161,
+  "views": 172382,
+  "date": "2023-09"
  },
  {
   "youtubeId": "E9LONX1yORM",
@@ -8721,6 +11737,51 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "cmKERM23uhs",
+  "title": "Skincare in Your 40s and 50s 🤔 How Your Skin Changes with Menopause",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1175,
+  "views": 168206,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "aPLNF0U384c",
+  "title": "【J-beautyの底力】化粧品開発者が厳選！世界に誇れる日本の「神コスメ」25選",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1507,
+  "views": 166955,
+  "date": "2026-09"
+ },
+ {
+  "youtubeId": "Rgyf1D_wyqU",
+  "title": "【シミ対策】シミを作りたいくない人は絶対見て。皮膚科医がシミがある人とない人の違いや特徴と対策を紹介します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 580,
+  "views": 166890,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "WNJPBG9geiY",
   "title": "皮膚科専門医が教える正しいニキビのスキンケア",
   "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
@@ -8736,18 +11797,18 @@
   "date": "2021-09"
  },
  {
-  "youtubeId": "62yoLAhLF18",
-  "title": "【目の下のたるみ・しわ解消】目元がずーっと若いままでいれる『口角挙筋体操』",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
+  "youtubeId": "ACU7QOKzmOg",
+  "title": "【Qoo10メガ割】美容のプロが案件0で厳選！絶対買うべきコスメを徹底解説【話題の成分PDRN】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
   "lang": "ja",
   "concerns": [
-   "aging"
+   "basics"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 329,
-  "views": 165901,
+  "duration": 1359,
+  "views": 165808,
   "date": "2024-09"
  },
  {
@@ -8800,6 +11861,40 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "R_vAREseKUA",
+  "title": "【ビタミンC化粧水の今後】メラノCCリニューアルで大波乱！？現在イチオシのVCエチル代替品や「改悪説」について本音をお話しします！【最新王座決定戦】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 1458,
+  "views": 165043,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "1Rjtk37YoPg",
+  "title": "【シミが消えるか！3カ月検証】1カ月目の報告～",
+  "channel": "ヘアメイク職人_化け子",
+  "channelId": "UCa_nIrYyYyE4i01TAlY7JVw",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 897,
+  "views": 164332,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "bMLOjD5g9gs",
   "title": "【メイク落とし＆洗顔の完全版】オイルクレンジングと泡洗顔",
   "channel": "ヘアメイク職人_化け子",
@@ -8834,6 +11929,53 @@
   "date": "2026-06"
  },
  {
+  "youtubeId": "5NT7RQx5bik",
+  "title": "【皮膚科医が選ぶ】シミでお悩みの人におすすめのスキンケア",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 59,
+  "views": 162269,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "FvDcSOAvT5g",
+  "title": "【知らないと損】ニキビ薬の正しい塗り方",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 48,
+  "views": 162251,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "2bqJrbLhdRg",
+  "title": "マスクニキビの原因・対処法・おすすめ化粧品を紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 895,
+  "views": 160116,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "VCEmH68hemc",
   "title": "Stop Using the WRONG Moisturizer | The Ultimate Guide for Every Skin Type",
   "channel": "Doctorly",
@@ -8851,6 +11993,21 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "iVUL0bk9TiU",
+  "title": "The Truth About Food, Diet and Acne | Lab Muffin Beauty Science",
+  "channel": "Lab Muffin Beauty Science",
+  "channelId": "UCg6P323bLV4zMSWFqFhvWMg",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1120,
+  "views": 159165,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "ZUjiC38fGLk",
   "title": "【美肌改善】知っておこう！肝斑の治療方法　くすみは正しい治療で消える！",
   "channel": "ひかり皮ふ科",
@@ -8864,6 +12021,39 @@
   "duration": 489,
   "views": 159157,
   "date": "2020-09"
+ },
+ {
+  "youtubeId": "cZc30Ev352o",
+  "title": "【メガ割】美容のプロがQoo10人気クレンジング10種を徹底レビュー！肌質別にプチプラ〜ミドプラ価格でおすすめアイテムご紹介【No案件】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1803,
+  "views": 159153,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "nJkUKWv_GMA",
+  "title": "皮膚科医の私が最近凄いと実感した保湿ケア！乾燥肌や脂性肌の肌タイプ別の保湿方法も紹介します✨",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "pores",
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 816,
+  "views": 158777,
+  "date": "2025-09"
  },
  {
   "youtubeId": "UzP3OJKfhhc",
@@ -8896,6 +12086,21 @@
   "date": "2026-09"
  },
  {
+  "youtubeId": "iemd-aOZHw0",
+  "title": "あまり知られていない実はすごい毛穴撲滅アイテムを５つ紹介します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 579,
+  "views": 157949,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "he7bi7dA7Oo",
   "title": "【プチプラ皮脂ケア化粧水ベスト8】さっぱり系＆脂性肌向け化粧水のオススメをプチプラだけでガチ厳選しました！毛穴＆ニキビケアやメンズにも！",
   "channel": "かずのすけ",
@@ -8914,6 +12119,40 @@
   "date": "2026-08"
  },
  {
+  "youtubeId": "H8i1RRRuNJU",
+  "title": "【衝撃のコスパ】今大注目のW有効成分が超プチプラで登場！『第2次価格崩壊』到来してるかも…！【ナイアシンアミド×D-パントテニルアルコール】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 772,
+  "views": 157195,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "kaa5YhkCI38",
+  "title": "【オバベ肌でも安心日焼け止め】2026年新作UVや常連UV速報！",
+  "channel": "ヘアメイク職人_化け子",
+  "channelId": "UCa_nIrYyYyE4i01TAlY7JVw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1076,
+  "views": 157052,
+  "date": "2026-04"
+ },
+ {
   "youtubeId": "eY8boidkAVg",
   "title": "ガチの赤ら顔！365日肌荒れ女による敏感肌向けスキンケア",
   "channel": "マユみ / Mayumi",
@@ -8927,6 +12166,56 @@
   "duration": 486,
   "views": 157027,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "U2rEKhbYEpQ",
+  "title": "【ニキビ跡何日で消える？】巨大にきびの色素沈着が完全消失するまでどれくらいかかるか検証してみた",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 728,
+  "views": 156695,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "8q7-ygEpbfg",
+  "title": "【日焼け止めの選び方が分かる】UV対策テクノロジー最前線／老化を防ぐ／SPFとPAって何？／顔には0.6g塗れ／クチコミランキングTOP10／日傘・サングラスの選び方【BODY SKILL SET】",
+  "channel": "PIVOT 公式チャンネル",
+  "channelId": "UC8yHePe_RgUBE-waRWy6olw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 2395,
+  "views": 156365,
+  "date": "2026-07"
+ },
+ {
+  "youtubeId": "fQy3kQ6TAy0",
+  "title": "【皮膚科医が答えます】シートマスクの落とし穴 毎日使って本当に良いの？",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 531,
+  "views": 156154,
+  "date": "2025-09"
  },
  {
   "youtubeId": "jrjyIfzGPOI",
@@ -9044,6 +12333,41 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "212dZqlYs6Q",
+  "title": "【目元ケア】美容のプロがドラコスのアイクリーム３選を正直レビュー！プチプラで本当におすすめできるもの【乾燥・シワ・ハリ】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 844,
+  "views": 152444,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "Umnjix6EV_A",
+  "title": "【みんな大絶賛シワ改善クリーム】やっぱすごいのね。美容大国韓国のアレ！",
+  "channel": "SACHI沙智ちゃんねる",
+  "channelId": "UCGUhj0lwUUkhPr_KyXss_BQ",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 533,
+  "views": 151670,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "ruOZX4rufjs",
   "title": "【今まで黙ってたけど】化粧水、使うべきはこっちです！『オルビスユードット』vs『オルビスユー』正しい選び方を化粧品のプロが解説！",
   "channel": "かずのすけ",
@@ -9080,6 +12404,21 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "hcGC7UGMCuE",
+  "title": "【皮膚科専門医が解説】 酒さ治療薬ロゼックスゲル",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 689,
+  "views": 150754,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "6zBRAEGNN0Q",
   "title": "Quick 3-STEP ROUTINE for OILY SKIN! Affordable Options Included! (Filipino) | Jan Angelo",
   "channel": "Jan Angelo",
@@ -9095,6 +12434,72 @@
   "duration": 1380,
   "views": 150525,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "1_BsoqkldFs",
+  "title": "Niacinamide and Its Benefits for Skin | Dr Sam Bunting",
+  "channel": "Dr Sam Bunting",
+  "channelId": "UCfGWsprhe5sZSay7LT2RxWw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "niacinamide"
+  ],
+  "duration": 203,
+  "views": 150374,
+  "date": "2019-09"
+ },
+ {
+  "youtubeId": "Fojz9Pk3nPE",
+  "title": "【毛穴5タイプ診断】あなたの毛穴にはコレ‼️プロが本気で選んだ洗顔料✨",
+  "channel": "美容家 ささえりTV",
+  "channelId": "UCDYmlWxY97dc_PpNE9I1zXw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1565,
+  "views": 150266,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "jiIbg7GpNa8",
+  "title": "【皮膚科医が教える】日焼け止めの正しい塗り直し方",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 647,
+  "views": 150188,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "KlmTIJRcZgk",
+  "title": "皮膚科専門医が教えるニキビ治療薬「エピデュオ」",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 518,
+  "views": 149577,
+  "date": "2021-09"
  },
  {
   "youtubeId": "dAtneNqAQLo",
@@ -9128,6 +12533,21 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "mXXGyxD_ckI",
+  "title": "【激推し】コスメ大好き３人が実際に肌荒れ改善した、研究しまくったスキンケアを肌タイプ別に紹介しちゃいます✨🫧❤️",
+  "channel": "MelTV",
+  "channelId": "UCgVA07MrT-XCN1t8WMeoFcA",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 890,
+  "views": 148850,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "7Q9Lrb9UcDI",
   "title": "【🎖️2026上半期🏆】薄肌&乾燥肌を救ったリピ確🔥ベストスキンケア、ヘアケア大発表📣【ほぼデパコス】",
   "channel": "鹿の間",
@@ -9141,6 +12561,21 @@
   "duration": 1293,
   "views": 147856,
   "date": "2026-06"
+ },
+ {
+  "youtubeId": "0XSpzdLULE4",
+  "title": "Dermatologist's Guide to Melasma - Preventing + Treating | Dr. Jenny Liu",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 859,
+  "views": 147787,
+  "date": "2022-09"
  },
  {
   "youtubeId": "H2N0BjbNN14",
@@ -9162,6 +12597,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "FIUTfK2USc4",
+  "title": "【ニキビ対策スキンケア】思春期ニキビをケアする方法！男子も女子も改善しちゃおう！",
+  "channel": "美容ノゆうや",
+  "channelId": "UCAuXeTGFOwvQd450otPYXHQ",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1159,
+  "views": 147479,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "BKD60ksY-9E",
   "title": "【毎日のスキンケア】20代からずっと続けて褒められ肌になりました✨【ルーティン】",
   "channel": "近藤千尋のちぴちゅーぶ",
@@ -9176,6 +12626,21 @@
   "ingredients": [],
   "duration": 657,
   "views": 147400,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "I3gxcigyA6U",
+  "title": "Top 5 OILY SKIN CARE INGREDIENTS| Dr Dray",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 995,
+  "views": 147343,
   "date": "2021-09"
  },
  {
@@ -9248,6 +12713,60 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "F_UgYtL-Rgk",
+  "title": "Oily skin care products  | face wash, serum, moisturiser, sunscreen",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse",
+   "serum",
+   "moisturizer",
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 876,
+  "views": 145983,
+  "date": "2025-10"
+ },
+ {
+  "youtubeId": "pMxBiwOCOkg",
+  "title": "【スゴイのが出てしまった...】エリクシールvsオバジ新作美容液 １ヶ月 半顔検証！",
+  "channel": "たたらのコスメレビュー",
+  "channelId": "UCu5UmlTwoYMdn5RDoTWnGuw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 819,
+  "views": 145846,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "cJY2mRvP6-w",
+  "title": "新時代の美容成分【アゼライン酸】とは？毛穴・ニキビ・シミ・皮脂に効く万能美肌成分の謎を紐解く",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "acids"
+  ],
+  "duration": 735,
+  "views": 145831,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "c4KeVOrvdPc",
   "title": "透明感ある肌とくすみ肌の分かれ道！？毎日行っていただきたいケアがあります。",
   "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
@@ -9261,6 +12780,23 @@
   "duration": 590,
   "views": 145803,
   "date": "2026-05"
+ },
+ {
+  "youtubeId": "tZDuoJq7e2c",
+  "title": "【シミに一撃】美容のプロが今季一番驚いた美容液！4日で効果実感？革新的なシミ対策コスメに迫る【スキンケア】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 637,
+  "views": 145630,
+  "date": "2025-09"
  },
  {
   "youtubeId": "qv1hPfPxYrU",
@@ -9278,6 +12814,76 @@
   "duration": 594,
   "views": 145587,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "SYPpl882jfc",
+  "title": "You DON’T Need Skinceuticals $185 Vitamin C Serum! | Buy THIS Instead…",
+  "channel": "The Budget Dermatologist",
+  "channelId": "UCDc2wFMXTSApCa4UwDrdz_Q",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 841,
+  "views": 145580,
+  "date": "2025-11"
+ },
+ {
+  "youtubeId": "n7WnrVHxioE",
+  "title": "【通常版より断然凄い】しれっとリニューアル『メラノCC Men 美白化粧水』が事実上のプチプラ最強ビタミンC化粧水に大進化してました…！！【アルコール＆グリセリンフリー】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 1341,
+  "views": 145411,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "wz_YYneSPeg",
+  "title": "【シミが消えるか！3カ月検証】3カ月目の報告～",
+  "channel": "ヘアメイク職人_化け子",
+  "channelId": "UCa_nIrYyYyE4i01TAlY7JVw",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 551,
+  "views": 145386,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "cNlcapwWdaw",
+  "title": "I Tried Every Eye Cream Ever Made (here are the best 👀)",
+  "channel": "Hyram",
+  "channelId": "UC2sYit3cZ2CuD_8FHYH7O_Q",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1955,
+  "views": 144464,
+  "date": "2025-10"
  },
  {
   "youtubeId": "9EqUlgwm2W8",
@@ -9330,6 +12936,38 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "gErB_Sce9ec",
+  "title": "Dermatologist Reviews: Men’s Skincare Routine- Is there a difference between Men and Women?",
+  "channel": "Dr. Daniel Sugai",
+  "channelId": "UCUHuCyM-tBTVrTrwylOanSw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 1296,
+  "views": 144037,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "z7C-dpqiAKo",
+  "title": "【美白ケア一軍入り】資生堂がまたやらかした。デパコス級すぎる新作スキンケアを友利新が完全解説します！",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 597,
+  "views": 143907,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "tvwFrmRLpL8",
   "title": "Is Toner Necessary? | Dr. Shereene Idriss",
   "channel": "Dr. Shereene Idriss",
@@ -9360,6 +12998,25 @@
   "duration": 891,
   "views": 143722,
   "date": "2026-06"
+ },
+ {
+  "youtubeId": "CleGE7MlwrA",
+  "title": "肌タイプ別のおすすめレチノール美容液をご紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1062,
+  "views": 143691,
+  "date": "2023-09"
  },
  {
   "youtubeId": "Rm-DQ4V_u-Q",
@@ -9413,6 +13070,87 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "MsYSeNORA9w",
+  "title": "【目の悩み】シワやくぼみの最新ケアアイテムを紹介します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 519,
+  "views": 141132,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "XKROvYsp0QM",
+  "title": "How to Treat Crepey Eyes Like a Dermatologist | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1130,
+  "views": 141118,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "s6NrOkrUSa0",
+  "title": "Dermatologist Explains: Skincare for Sensitive Skin and Rosacea- Ways to Thrive with Sensitive Skin",
+  "channel": "Dr. Daniel Sugai",
+  "channelId": "UCUHuCyM-tBTVrTrwylOanSw",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 724,
+  "views": 141018,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "j7ASZigYL3w",
+  "title": "Dermatologist's Affordable Anti-Aging Skincare Routine for Sensitive Skin | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "sensitive",
+   "aging"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 946,
+  "views": 140386,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "3S7h_Uaxb8U",
+  "title": "【ニキビ/毛穴】イソトレチノインの副作用を徹底解説【最新版 前編】",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1059,
+  "views": 140205,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "5onry66YTxs",
   "title": "【2025年下半期は肌のハリアイテムがアツい‼️】47歳皮膚科医がほしいと思う新作化粧水を紹介",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -9428,6 +13166,21 @@
   "duration": 954,
   "views": 139999,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "TcDTAuU1T5o",
+  "title": "Enlarged Pores | How to effectively treat",
+  "channel": "Dr Davin Lim",
+  "channelId": "UC9SIYzAqsCmfHsZrxdPGvzA",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 154,
+  "views": 139517,
+  "date": "2022-09"
  },
  {
   "youtubeId": "CGZ3VawKYeU",
@@ -9547,6 +13300,42 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "PYzip_8d_NQ",
+  "title": "朝のスキンケアでビタミンCを使うとシミになる？という質問にお答えしています。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 676,
+  "views": 138629,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "nVWTaN_TFfA",
+  "title": "ドラッグストアで買えるおすすめのクレンジングバームを3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 624,
+  "views": 138595,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "6_JPhy8ZwVA",
   "title": "【2026春の朝&夜スキンケア】最近肌の調子がすこぶる良いので朝晩スキンケアルーティン全部見せます！ 毛穴悩みゼロ | ハリ弾力 | 美肌",
   "channel": "YoshidaAkari",
@@ -9616,6 +13405,23 @@
   "duration": 1098,
   "views": 137825,
   "date": "2026-02"
+ },
+ {
+  "youtubeId": "o4vUXvAVOzU",
+  "title": "UNDER P500 FACE WASHES Best for OILY + ACNE PRONE SKIN! (Filipino) | Jan Angelo",
+  "channel": "Jan Angelo",
+  "channelId": "UCs8w8bVy54OMf6LokG69g0A",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 965,
+  "views": 137756,
+  "date": "2024-09"
  },
  {
   "youtubeId": "wfPdV_VpZLg",
@@ -9718,6 +13524,23 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "vPWoQ5y4qS4",
+  "title": "Ultimate Guide To Body Exfoliation From A Dermatologist",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 809,
+  "views": 134557,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "YW05mDjpwnw",
   "title": "Dermatologist Reveals the Best Sunscreens of 2025 You Need to Try",
   "channel": "Dr Dray",
@@ -9766,6 +13589,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "uMz7fUEgmQA",
+  "title": "WHY YOU HAVE OILY SKIN 🤔 DERMATOLOGIST @DrDrayzday",
+  "channel": "Dr Dray",
+  "channelId": "UCnxmUrGMtpQT844Yd_l7Zyg",
+  "lang": "en",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 845,
+  "views": 133059,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "pyVpqjjDMQM",
   "title": "【化粧水の正しい使い方】3分でわかる！",
   "channel": "VOCEchannel",
@@ -9781,6 +13619,21 @@
   "duration": 162,
   "views": 132636,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "WWnQE-neTkg",
+  "title": "敏感肌向けスキンケア商品をガチレビュー｜超久々におすすめアイテムに出会いました",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 2392,
+  "views": 132472,
+  "date": "2024-09"
  },
  {
   "youtubeId": "AP78O8bhAnE",
@@ -9943,6 +13796,23 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "bydkBZ9zSIc",
+  "title": "Dermatologist's Favorite Benzoyl Peroxide Cleansers and Spot Treatments",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1143,
+  "views": 130142,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "-Cc4uf22YvI",
   "title": "【オバジ】たるみ補正クリーム!?効果はあるのか１ヶ月半顔検証しました【ダーマアドバンスドリフト】",
   "channel": "美容botことの",
@@ -9958,6 +13828,24 @@
   "duration": 664,
   "views": 130102,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "t7gDEeul-w0",
+  "title": "【正直レビュー】今期はとにかく美容液がすごい! シワ、シミ、たるみケア、トータルケアまで…秋から使うべき新作美容液5選！",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "spots",
+   "aging"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 1090,
+  "views": 130069,
+  "date": "2025-09"
  },
  {
   "youtubeId": "9kQPzb_tpwc",
@@ -10091,6 +13979,41 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "WqIaiadTvVI",
+  "title": "Doctor V - Skincare In Your 50s | Skin Of Colour | Brown Or Black Skin",
+  "channel": "Dr. Vanita Rattan ",
+  "channelId": "UC4u0qaMIAgOL8L37RwLcDQA",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 997,
+  "views": 127321,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "uxgbfT7rDDQ",
+  "title": "【大量スキンケア正直レビュー！】敏感肌期の使い切りスキンケア✨️リピあり？orなし？おすすめ多数♥【クレンジング/洗顔/化粧水/美容液 /クリーム /オイル等】",
+  "channel": "YoshidaAkari",
+  "channelId": "UCNIwy_Q7EjUxLlsewfuhjgg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "cleanse",
+   "toner",
+   "serum",
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1884,
+  "views": 126578,
+  "date": "2026-02"
+ },
+ {
   "youtubeId": "wBKKSZI_Jgo",
   "title": "【35歳ノーファンデ】1年間この肌を作るのに貢献してくれた超厳選20点🏆【2025年ベストスキンケア🥇】",
   "channel": "のべちゃん",
@@ -10104,6 +14027,75 @@
   "duration": 2675,
   "views": 125979,
   "date": "2026-01"
+ },
+ {
+  "youtubeId": "fl8x72l_gnE",
+  "title": "【プロ解説】美容のプロが今季買ってよかったデパコス２品！高くても買う価値アリな理由を徹底解説！【アイクリーム】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1742,
+  "views": 125906,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "hvaXDCxp48I",
+  "title": "【あるようでなかった】グリセリンフリーのニキビ＆毛穴ケアオールインワンが神コスパ『モイスチュアマイルドホワイト』から新登場！【思春期ニキビ＆大人ニキビ全対応】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1612,
+  "views": 125814,
+  "date": "2026-04"
+ },
+ {
+  "youtubeId": "TVlfpDvkWbY",
+  "title": "5 Step Easy French Skincare Routine Based on Essential Oils | Priscilla Rossi | Parisian Vibe",
+  "channel": "ParisianVibe",
+  "channelId": "UC-KUF3oGTSSuix72gBqamWg",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 642,
+  "views": 125369,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "_hLUk2z1wkA",
+  "title": "RETINOL 101 | beginners guide & everything I wish I was told",
+  "channel": "From Head To Toe",
+  "channelId": "UCecyOxHZpL3yfNFaUz2W_Ow",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1339,
+  "views": 125357,
+  "date": "2023-09"
  },
  {
   "youtubeId": "iknREFiR_qc",
@@ -10126,6 +14118,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "4YmJdKIYwlg",
+  "title": "Fix Redness on the Face and Body | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 943,
+  "views": 124932,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "u3NsBVRa4B4",
   "title": "【たった1つのアイテムで！】肌質改善のために実践したこと教えます【混合肌で敏感肌】",
   "channel": "赤みかん",
@@ -10139,6 +14146,23 @@
   "duration": 212,
   "views": 124920,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "iD6c4vH2-0k",
+  "title": "【プチプラ透明系UVで1番お勧め】おむつで作った日焼け止め『by365』の爆速リニューアルが偉すぎる！超難関処方の新作UVジェルも解説！【酸化亜鉛フリー＆グリセリンフリー】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1092,
+  "views": 124693,
+  "date": "2026-07"
  },
  {
   "youtubeId": "xV8OPmTQHgo",
@@ -10188,6 +14212,21 @@
   "date": "2026-06"
  },
  {
+  "youtubeId": "zNjaTmQtk24",
+  "title": "10 Ways to Manage Dark Spots of Melasma | Dermatologist Explains",
+  "channel": "Dr. Daniel Sugai",
+  "channelId": "UCUHuCyM-tBTVrTrwylOanSw",
+  "lang": "en",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 975,
+  "views": 123931,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "v76Kje27iWU",
   "title": "肌荒れが酷かった私が3日間で治したスキンケア全部見せます【鎮静スキンケアルーティン】(敏感肌/乾燥肌/肌荒れ/花粉)",
   "channel": "八田エミリ 美容",
@@ -10203,6 +14242,40 @@
   "ingredients": [],
   "duration": 795,
   "views": 122922,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "U5XWX5WOB6I",
+  "title": "Brutally honest review of 5 Viral Korean Sunscreens | Skin1004, Boj, Dr.G, Cosrx, RoundLab ",
+  "channel": "여효민 Bella",
+  "channelId": "UC3AnGnEF5gcjdg6zoIFGXqw",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 634,
+  "views": 122829,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "fteVR-aqp_c",
+  "title": "【ずっと人気No.１】毛穴ケアのための油脂クレンジングに兄弟作『CeraVeil ゴールデンクレンジングオイル』新登場！アボカド油で黒ずみ・角栓対策！【本日発売】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1409,
+  "views": 122592,
   "date": "2025-09"
  },
  {
@@ -10285,6 +14358,23 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "DWZWwD6hlJw",
+  "title": "皮膚科医が教えるニキビ痕の色素沈着を早く治す方法 #shorts",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 53,
+  "views": 120281,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "9sMSjlt_KFg",
   "title": "【求めてたのはコレです】初めて「使いたい」と思ったメンズスキンケア『MONOM』について化粧品のプロが徹底解説！",
   "channel": "かずのすけ",
@@ -10350,6 +14440,38 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "f7F8dnNy9UU",
+  "title": "How I Got Rid of Fungal Acne  #acnejourney #acne",
+  "channel": "Garbo Zhu",
+  "channelId": "UCjkfjKQ5u6kSRuOFUDvsO0A",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 52,
+  "views": 119202,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "f9TVX5NvSUY",
+  "title": "Q.男ですがニキビ、オイリー肌で悩んでいます。どうしたら治りますか？アドバイスください。",
+  "channel": "高須幹弥（高須クリニック）",
+  "channelId": "UCwywumWHI4_hQtZpJwsC8cw",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 910,
+  "views": 119098,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "MOyxsyRTe-U",
   "title": "【保存版】むくみ・毛穴・くすみ解消✨皮膚の変態大野真理子の夏の朝スキンケア🏝️無理なく美白を叶える最強習慣を大公開！",
   "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
@@ -10366,6 +14488,23 @@
   "duration": 830,
   "views": 118777,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "eATPFg4DL4A",
+  "title": "Exfoliation | Dermatologist reviews physical vs chemical methods",
+  "channel": "Dr Davin Lim",
+  "channelId": "UC9SIYzAqsCmfHsZrxdPGvzA",
+  "lang": "en",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 976,
+  "views": 118760,
+  "date": "2020-09"
  },
  {
   "youtubeId": "negn2eH91UM",
@@ -10398,6 +14537,57 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "KHU3gLh4fyU",
+  "title": "【名医が解説】赤ら顔「酒さ」の本当に正しい治し方",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 932,
+  "views": 118012,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "NCbTF9SgbC0",
+  "title": "【40代50代】目元の老化レベル別アイクリームの選び方！老け見えの原因と正しい塗り方【2026完全版】",
+  "channel": "SHOKO美チャンネル 【40代50代の為の美容法】",
+  "channelId": "UCocXVYUfcC79osgM02JpiPg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1003,
+  "views": 117833,
+  "date": "2026-05"
+ },
+ {
+  "youtubeId": "EKeR6vEFONg",
+  "title": "【実験で検証】超プチプラビタミンC化粧水は本当に効くの？平均価格1000円以下！激安化粧水限定ビタミンCテスト",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 1321,
+  "views": 117714,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "BM-NZmV-vBE",
   "title": "【肌悩み別】乳液・クリーム🌟プロが教える！選び方・使い方・順番",
   "channel": "SHOKO美チャンネル 【40代50代の為の美容法】",
@@ -10414,6 +14604,21 @@
   "duration": 761,
   "views": 117303,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "50yj0ZpB0ZA",
+  "title": "【乾燥肌さん必見】とにかく乾燥が気になるシーズン🥲保湿重視・乾燥対策のスキンケアとベースメイクアイテムをご紹介します🙌",
+  "channel": "長井かおり | おしゃべりメイクBOX",
+  "channelId": "UCKk98lb-qouU__4Z1qt5aSg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 2011,
+  "views": 117243,
+  "date": "2025-09"
  },
  {
   "youtubeId": "I4IPbI19uaE",
@@ -10446,6 +14651,23 @@
   "duration": 1933,
   "views": 116648,
   "date": "2026-06"
+ },
+ {
+  "youtubeId": "4TT59iXcamw",
+  "title": "Simple dry skin care routine | Common mistakes to avoid | Dermatologist suggests",
+  "channel": "Dr. Aanchal MD",
+  "channelId": "UCMTl80jTQwGkO335HoVf0ig",
+  "lang": "en",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 1240,
+  "views": 116551,
+  "date": "2025-11"
  },
  {
   "youtubeId": "SDBkvb1iy6g",
@@ -10531,6 +14753,21 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "3_kRiaIZwbc",
+  "title": "Sensitive Skin | Dermatologist Guide",
+  "channel": "Dr Davin Lim",
+  "channelId": "UC9SIYzAqsCmfHsZrxdPGvzA",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 955,
+  "views": 115236,
+  "date": "2019-09"
+ },
+ {
   "youtubeId": "2kt7Tz89pf8",
   "title": "【たるみ改善】皮膚科医がコラーゲンを増やす革命的アイテムを紹介します",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -10559,6 +14796,36 @@
   "duration": 519,
   "views": 114801,
   "date": "2026-05"
+ },
+ {
+  "youtubeId": "XTF4V6CSzXc",
+  "title": "ゆらぎ肌、肌荒れ・・それ脂漏性皮膚炎かも？",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 452,
+  "views": 114615,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "JbKyeKU7eRg",
+  "title": "クマ取りで絶対にしないでほしい治療法をプロが教えます。",
+  "channel": "ドラゴン細井featアマソラクリニックch",
+  "channelId": "UCvKk23twpijvqlzhSWreySg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 888,
+  "views": 114615,
+  "date": "2025-09"
  },
  {
   "youtubeId": "5D48IXhW_Eg",
@@ -10594,6 +14861,21 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "Sykm3c7T7z8",
+  "title": "背中ニキビの治し方！よく効く意外な2つの市販薬",
+  "channel": "「皮膚科専門医」Dr.mikoの美容チャンネル",
+  "channelId": "UCJN0uedgggJ1gZbH5cyTiqQ",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 339,
+  "views": 113637,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "CwZZs2Ra4EE",
   "title": "今さら聞けないスキンケアの基本のキを解説します",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -10609,6 +14891,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "uMLVy5iaAAA",
+  "title": "【名品コスメ】下半期さきめぐ的No,1！全世代にすすめたいリピ確アイクリームを徹底レビュー",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1055,
+  "views": 113454,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "P-7G_AkImqc",
   "title": "【スキンケア】ほうれい線・たるみ改善！小田切ヒロの最近のお気に入りスキンケアをモデルさんにしてみました♡",
   "channel": "HIRO BEAUTY CHANNEL",
@@ -10622,6 +14921,21 @@
   "duration": 977,
   "views": 113379,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "Cqa33QddQ0Y",
+  "title": "Fix Hormonal Acne For REAL | Dr. Sam Ellis",
+  "channel": "Dr. Sam Ellis",
+  "channelId": "UCRi13TUqA_SawPlPOG6jz1Q",
+  "lang": "en",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 778,
+  "views": 112425,
+  "date": "2025-09"
  },
  {
   "youtubeId": "XPRyRQA-f3c",
@@ -10662,6 +14976,39 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "AXB57JA-suk",
+  "title": "透明感を上げる敏感肌用のプチプラ化粧水を紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots",
+   "sensitive"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 469,
+  "views": 111781,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "DNXEk9QIXLg",
+  "title": "【冬スキンケア】マネするだけでOK👌🏻時短で夜まで乾燥しない仕上がり最高なスキンケアを紹介します【大野真理子】",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 892,
+  "views": 111356,
+  "date": "2026-01"
+ },
+ {
   "youtubeId": "FkIi2YXL8tc",
   "title": "【肌を綺麗に保ちたい！】導入美容液をやるべき人とそうでない人の違い。「肌を整える正しい考え方」を解説します！",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -10677,6 +15024,22 @@
   "duration": 529,
   "views": 111189,
   "date": "2025-11"
+ },
+ {
+  "youtubeId": "ZcxZ_ktjPmA",
+  "title": "肌再生の専門家が、乾燥肌・敏感肌の「体質改善」についてお話します",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 792,
+  "views": 111011,
+  "date": "2023-09"
  },
  {
   "youtubeId": "9wEYemu0RnU",
@@ -10726,6 +15089,22 @@
   "duration": 1156,
   "views": 110328,
   "date": "2026-01"
+ },
+ {
+  "youtubeId": "B0iVwVt4N4I",
+  "title": "Dermatologist eczema and dry skincare tips for winter | Dr. Jenny Liu",
+  "channel": "Dr. Jenny Liu",
+  "channelId": "UC7rL_9swxhwrGsichDroA-A",
+  "lang": "en",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1389,
+  "views": 110239,
+  "date": "2024-09"
  },
  {
   "youtubeId": "SwrIzz6RtfU",
@@ -10844,6 +15223,21 @@
   "date": "2026-04"
  },
  {
+  "youtubeId": "926v_zaZoKI",
+  "title": "How to Manage Sensitive Skin: Tips by Dermatologist Dr. Aparajita Lamba",
+  "channel": "Medical Dialogues",
+  "channelId": "UCfmVXZXOk2bl9GEIz-2c2vg",
+  "lang": "en",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 287,
+  "views": 108181,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "cChuSiZ7pyk",
   "title": "【洗顔で極める美肌術】正しい洗顔方法はこれ！おすすめ洗顔アイテムも紹介【美肌になる方法】【スキンケア】",
   "channel": "森のニーナ Nina Mori",
@@ -10945,6 +15339,23 @@
   "date": "2026-03"
  },
  {
+  "youtubeId": "rIj7xW-Oh64",
+  "title": "飲む日焼け止めの成分と効果について徹底解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 595,
+  "views": 105590,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "4tL_FDWPW68",
   "title": "【40代以上必見】46歳の私がガチで使ってるコスパ最強のハリスキンケア【Qoo10メガ割🉐】",
   "channel": "mizuno yuka水野 祐香",
@@ -10992,6 +15403,23 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "H2OpXWXxAYk",
+  "title": "初めてのレチノール、これさえ見れば大丈夫！",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 681,
+  "views": 104985,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "qLNP7rO2qts",
   "title": "【キングオブ美容成分】間違いないやつ紹介します。レチノール　レチノイドの全て　イソトレチノイン",
   "channel": "現役化粧品研究員としくん",
@@ -11026,6 +15454,25 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "JIrObeopd88",
+  "title": "【ビタミンCを諦めた人へ】敏感肌も使える薬用VC美容液、ついに完成！プロが10年構想を練った宿願の一品『セラキュア クリアVCセラム』解説【オイルは全部VC誘導体】",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 1155,
+  "views": 103974,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "9myiyzUhRjs",
   "title": "10 Skincare Mistakes That Are Secretly Ruining Your Skin! (*life changing)",
   "channel": "blueyoobin",
@@ -11053,6 +15500,23 @@
   "ingredients": [],
   "duration": 200,
   "views": 103955,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "xDs_gMlc0mE",
+  "title": "【日焼け止め塗り直し】美容のプロが1年中絶対焼かないためにやってる方法を教えます！新作UVケアアイテムもご紹介【美白UVケア】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1451,
+  "views": 103945,
   "date": "2023-09"
  },
  {
@@ -11106,6 +15570,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "9utPO_MVI0M",
+  "title": "皮膚科専門医が教えるニキビ治療薬「デュアック」",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 542,
+  "views": 103564,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "IeyZOkw8l-g",
   "title": "ビオデルマクレンジング大人気だが…",
   "channel": "すみしょう",
@@ -11156,6 +15635,38 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "8TWWS6Z0aOE",
+  "title": "【プチプラ肌荒れ対決🔥】\"花王キュレル vs 資生堂dプログラム\" 皮膚科医がガチで選んだ最強化粧水",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 570,
+  "views": 102419,
+  "date": "2025-10"
+ },
+ {
+  "youtubeId": "8RjVNwqRskM",
+  "title": "背中のニキビ跡を治す方法について解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 524,
+  "views": 102401,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "XGHcTZzygqQ",
   "title": "【衝撃】治らない赤ら顔の原因、これでした！改善方法シェアします！【酒さ】",
   "channel": "初美メアリ",
@@ -11169,6 +15680,22 @@
   "duration": 667,
   "views": 102372,
   "date": "2026-03"
+ },
+ {
+  "youtubeId": "9YPS5jWOlU8",
+  "title": "What Causes Oily Skin & Acne? Explained by Dermatologist Dr. Shwetha Rahul",
+  "channel": "Medical Dialogues",
+  "channelId": "UCfmVXZXOk2bl9GEIz-2c2vg",
+  "lang": "en",
+  "concerns": [
+   "acne",
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 277,
+  "views": 102003,
+  "date": "2025-09"
  },
  {
   "youtubeId": "hl9q_802xxg",
@@ -11203,6 +15730,21 @@
   "duration": 637,
   "views": 101683,
   "date": "2025-12"
+ },
+ {
+  "youtubeId": "pde-ngJ5T-c",
+  "title": "【皮膚病】脂漏性皮膚炎（しろうせいひふえん）の原因、症状、スキンケアのコツと治療法について皮膚科医が解説（頭・生え際・顔のフケ、赤み、痒み、マラセチア）",
+  "channel": "玉城有紀 / 医師「皮膚科・美容皮膚科」",
+  "channelId": "UCWbe434EGqueTHMdn3hUXwg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 624,
+  "views": 101663,
+  "date": "2025-09"
  },
  {
   "youtubeId": "L5zN_NW5QFA",
@@ -11269,6 +15811,23 @@
   "duration": 1446,
   "views": 99006,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "i6NS_FY5I1M",
+  "title": "【絶対焼けない】日焼け止め塗り直しの最適解‼️誰よりも白さにこだわる皮膚の変態がたどり着いたおすすめアイテム&マインドセットを発表します【大野真理子】",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 803,
+  "views": 98786,
+  "date": "2026-05"
  },
  {
   "youtubeId": "BHJWrodXYEA",
@@ -11467,6 +16026,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "bd848h3cvwY",
+  "title": "【スキンケア】美容皮膚科医が教える！正しい保湿！",
+  "channel": "えりりんちゃんねる【医師 上原恵理】",
+  "channelId": "UCFSu4xqJoT3BDYIdMdiTzfA",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 991,
+  "views": 95241,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "BuY_5K36JHI",
   "title": "【底見え美容17選】42歳美容家が本当に使い切ったスキンケア＆ヘアケア＆ベースメイク",
   "channel": "【mimi | 美容家】40代の体当たり厳選美容",
@@ -11497,6 +16071,38 @@
   "duration": 701,
   "views": 94763,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "5RHspF2teB8",
+  "title": "【これぞベスコス】アトピー・敏感肌のくすり屋が生涯おすすめしたい殿堂入りスキンケア",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1447,
+  "views": 94447,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "YONYJPUYoPI",
+  "title": "メンズ化粧水ランキング【肌質別】おススメスキンケア　1ヶ月で肌トラブル改善しよう！",
+  "channel": "マサキ【メンズ美容】",
+  "channelId": "UCU_rbx4PAvrPQk5pU79r2Mg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 633,
+  "views": 94432,
+  "date": "2020-09"
  },
  {
   "youtubeId": "fNIjc6IkR_g",
@@ -11532,6 +16138,23 @@
   "date": "2020-09"
  },
  {
+  "youtubeId": "v3Q6bv_38kk",
+  "title": "マスクによるニキビを防いでくれる泡洗顔を3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 738,
+  "views": 94165,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "yzs4PIR5VVc",
   "title": "アゼライン酸ランキング🥇#美容",
   "channel": "自己満美容ちゃん🚺",
@@ -11548,6 +16171,37 @@
   "duration": 46,
   "views": 94110,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "4HDggedlJOU",
+  "title": "【アトピー・敏感肌・乾燥肌】ドラッグストアで買える！おすすめプチプラ全身保湿ケア５選",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 867,
+  "views": 93704,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "DitSB8PLTcY",
+  "title": "皮膚科専門医が教える「酒さ」の治療法",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 818,
+  "views": 93008,
+  "date": "2023-09"
  },
  {
   "youtubeId": "npuC-_82-fg",
@@ -11584,20 +16238,37 @@
   "date": "2026-01"
  },
  {
-  "youtubeId": "zxkU83En_Zk",
-  "title": "【2分のマッサージ】目のくすみ・クマがなくなった！目のシワ・目のたるみがありえない程解消する方法！",
-  "channel": "美容整体アピアランスTV",
-  "channelId": "UCNeegoJ1LrlcpaKl8XGpt2A",
+  "youtubeId": "QYag5j1nGGA",
+  "title": "【ニキビ治療】イソトレチノイン(アキュテイン)でニキビの悩みから解放！副作用も解説",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
   "lang": "ja",
   "concerns": [
-   "spots",
-   "aging"
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 665,
+  "views": 91951,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "a2eKn_qHyfk",
+  "title": "【美容鍼】マスク荒れニキビに困ってる方へ",
+  "channel": "ハリスケchannel",
+  "channelId": "UCzoBQ37ZDjwcw-mHzzJy88Q",
+  "lang": "ja",
+  "concerns": [
+   "acne"
   ],
   "steps": [],
   "ingredients": [],
-  "duration": 465,
-  "views": 90934,
-  "date": "2026-04"
+  "short": true,
+  "duration": 23,
+  "views": 90677,
+  "date": "2022-09"
  },
  {
   "youtubeId": "_U7uOthYAhg",
@@ -11695,6 +16366,25 @@
   "date": "2026-02"
  },
  {
+  "youtubeId": "Cw24Gb-wdS0",
+  "title": "ヒリヒリ・火照りを増やさない！酒さ・赤ら顔改善をスムーズにするスキンケアを徹底解説【洗顔・保湿・UVケア】",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [
+   "cleanse",
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1451,
+  "views": 89907,
+  "date": "2026-02"
+ },
+ {
   "youtubeId": "D0xrJFTeWGM",
   "title": "【 乳液 の正しい塗り方 】２分でわかる ！",
   "channel": "VOCEchannel",
@@ -11759,6 +16449,40 @@
   "duration": 576,
   "views": 88831,
   "date": "2026-05"
+ },
+ {
+  "youtubeId": "6gsuMIqBB-c",
+  "title": "【シミ・美白】飲む日焼け止め。誰よりも白さにこだわる大野真理子の夏インナーケア☀️🤍美白は外だけじゃなく内側からも死守するの。",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 1048,
+  "views": 88797,
+  "date": "2026-07"
+ },
+ {
+  "youtubeId": "9J_PAO0ElJg",
+  "title": "シミ無し47歳の日焼け対策。美白でいるためのQAに答えます【日焼け止め/UV】",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 618,
+  "views": 88191,
+  "date": "2025-09"
  },
  {
   "youtubeId": "kkjfmMLrgvU",
@@ -11828,6 +16552,53 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "PmqS6TxUfHk",
+  "title": "【超徹底シミ対策】新しいシミを作りたくない人。ぜひ見てください。",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 574,
+  "views": 86913,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "x_bFGcMjuZI",
+  "title": "【🫧最強ホームケア2026🏠】速攻つるつる卵肌🥚✨誰でも美肌になれる､敏感肌向けスキンケア15選！♡",
+  "channel": "ももち Momochi / 牛江桃子",
+  "channelId": "UCWsQgHwnTXEzHRlPsQcvaYg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1162,
+  "views": 86310,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "n3dgMoszmPw",
+  "title": "皮膚科医は使わない？飲む日焼け止めの真実について解説します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 525,
+  "views": 86288,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "2qWKxbkbxZ8",
   "title": "【肌質別スキンケア】乾燥肌・敏感肌・脂性肌・混合肌の正解はこれ！千賀健永が本気で選ぶ神アイテム16選！",
   "channel": "千賀健永 / kento senga",
@@ -11888,6 +16659,21 @@
   "duration": 793,
   "views": 85479,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "lyN-tGUzMF0",
+  "title": "【ナイトルーティーン】くすみが気になる50~60代必見💥くすみを徹底的に撲滅したい夜に使うリアルなアイテムはこれ💪✨",
+  "channel": "天野佳代子の大人美容 【歳をとるのは怖くない】",
+  "channelId": "UCBM4KYw-tr6iihRpk_NMbng",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 904,
+  "views": 85227,
+  "date": "2026-07"
  },
  {
   "youtubeId": "ZC57tOzfUlM",
@@ -12044,6 +16830,25 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "xPDh7t37A50",
+  "title": "【シワ対策】美容のプロが超話題の新作レチノール美容液を徹底レビュー！一軍コスメの仲間入りなるか！？本音で語りました【一軍コスメ】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1295,
+  "views": 83256,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "njCw2x321W4",
   "title": "【新オバジC】とりあえず\"高濃度\"は危険かも。皮膚科医が肌悩み別ビタミンC美容液の選び方を徹底解説",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -12146,6 +16951,23 @@
   "date": "2026-06"
  },
  {
+  "youtubeId": "Rkbx6vPxZD0",
+  "title": "向井理（むかいおさむ）出演CM　花王 メンズビオレ 泡タイプ洗顔 「肌男になろう篇」",
+  "channel": "Kohji KAMISHIRA",
+  "channelId": "UCEI9WPNwBVvaD50vxNRqc0g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 16,
+  "views": 80694,
+  "date": "2014-09"
+ },
+ {
   "youtubeId": "I_5xgfIMuG4",
   "title": "洗顔とスキンケアの基礎を徹底解説【持ってるものだけで美肌になる】",
   "channel": "C CHANNEL",
@@ -12176,6 +16998,24 @@
   "duration": 1226,
   "views": 80657,
   "date": "2026-09"
+ },
+ {
+  "youtubeId": "4cDdt7BbjnQ",
+  "title": "正しい「ディフェリンゲル」の使い方知ってる？",
+  "channel": "渋谷スクランブル皮膚科 公式ch",
+  "channelId": "UC2oWgBxHTDyLxqb0_M6iI3g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "short": true,
+  "duration": 20,
+  "views": 80550,
+  "date": "2023-09"
  },
  {
   "youtubeId": "6_psD_ou1VQ",
@@ -12223,6 +17063,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "Ny4AyjC_FNY",
+  "title": "乾燥で悩んでいる方、改善するためにとても大事なことをお話します。",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1190,
+  "views": 79700,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "swVBA9TpnTM",
   "title": "【プチプラ史上初】ケアセラが“ラメラ構造”セラミドマスク新発売！８種セラミドで週1スペシャルケア【高保湿クリームラップマスク】",
   "channel": "かずのすけ",
@@ -12260,6 +17115,23 @@
   "date": "2021-09"
  },
  {
+  "youtubeId": "3H8yXNZBa74",
+  "title": "【資生堂 vs ロート製薬】レチノール頂上決戦！プロは絶対にコレを選びます",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 496,
+  "views": 79316,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "-cwvc5H69rA",
   "title": "【ニキビ撲滅】肌荒れちゃったらこれ‼️敏感肌のレスキューケアから肌荒れしない予防習慣まで皮膚の変態が徹底解説🤍ニキビって倒せます。【大野真理子】",
   "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
@@ -12289,6 +17161,23 @@
   "duration": 786,
   "views": 79202,
   "date": "2026-09"
+ },
+ {
+  "youtubeId": "fMgfocTETX0",
+  "title": "【徹底検証！】迷ったらこれ見て！悩み別アイクリーム6選〈ドラコス・デパコス〉",
+  "channel": "CHIE HIDAKA",
+  "channelId": "UCY3igcmmE1nD5lXsyYOmxww",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1332,
+  "views": 78820,
+  "date": "2026-02"
  },
  {
   "youtubeId": "HkDOYjvHnw8",
@@ -12321,6 +17210,21 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "q741cMLoHLQ",
+  "title": "【NMN・PDRNドラコス化】47歳皮膚科医大注目！マツキヨ技術で安くて安全な化粧品がでました",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 686,
+  "views": 78467,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "6ylyhP6P3eM",
   "title": "水分じゃない！？インナードライのスキンケアに必要なモノといらないモノ",
   "channel": "わくた よしのぶ",
@@ -12334,6 +17238,24 @@
   "duration": 979,
   "views": 78378,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "1eMrwhoIcjM",
+  "title": "イソトレチノイン内服、髪パサパサになる？ #shorts",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "short": true,
+  "duration": 56,
+  "views": 78308,
+  "date": "2024-09"
  },
  {
   "youtubeId": "K8kGJFsQQls",
@@ -12411,6 +17333,23 @@
   "duration": 1873,
   "views": 77727,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "lgdMCneGgpg",
+  "title": "【ニキビ治療薬】最後の切り札イソトレチノインは本当に効果があるのか皮膚科医が徹底解説",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 816,
+  "views": 77609,
+  "date": "2022-09"
  },
  {
   "youtubeId": "D-dePw3Ju8o",
@@ -12497,6 +17436,21 @@
   "date": "2026-03"
  },
  {
+  "youtubeId": "rumBAz8NolU",
+  "title": "美容のプロが乾燥しない秘密5選！正しい保湿で真冬でもうるおい続く美肌になる✨おすすめコスメを紹介",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 903,
+  "views": 76075,
+  "date": "2026-01"
+ },
+ {
   "youtubeId": "QzmR7I1gpOc",
   "title": "【プチプラ人気】ハダラボ極潤ヒアルロン酸化粧水の成分解析をしてわかったこととは？",
   "channel": "すみしょう",
@@ -12516,6 +17470,23 @@
   "date": "2020-09"
  },
  {
+  "youtubeId": "NUgET9yaXow",
+  "title": "肌の再生医療の専門家が正しい乳液の考え方と選び方を解説します。",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 403,
+  "views": 75764,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "GzEN0fSs2Uc",
   "title": "1からわかる！朝のメンズスキンケアの本当に正しい順番【保存版】",
   "channel": "ハダミス",
@@ -12531,6 +17502,21 @@
   "duration": 905,
   "views": 75663,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "7KF0SgDw2_o",
+  "title": "【徹底比較】赤ら顔「酒さ」の塗り薬それぞれ効果と副作用とは",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 728,
+  "views": 75186,
+  "date": "2024-09"
  },
  {
   "youtubeId": "LMzs0jQpXjc",
@@ -12569,6 +17555,25 @@
   "date": "2026-02"
  },
  {
+  "youtubeId": "PYhmYfKyk3o",
+  "title": "【久々に凄いのに出会った】120時間保湿セラミドクリームの成分を徹底解説",
+  "channel": "すみしょう",
+  "channelId": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "ceramide"
+  ],
+  "duration": 1216,
+  "views": 74335,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "8zF2o1Qk4FM",
   "title": "【ベスト夏スキンケア】皮脂テカの私でも夏に使える！サラサラで保湿もしてくれる万能乳液&クリームを紹介します",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -12587,6 +17592,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "pvS7tmS6K8g",
+  "title": "\"脂漏性皮膚炎＝オイリー肌\"ではない！？　意外と多い肌トラブルの治療とケアについて",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 745,
+  "views": 74304,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "86O7Gw4LVso",
   "title": "【垢抜け】全てプチプラ！肌治療なし！ニキビ肌を卒業できたスキンケア紹介🪄",
   "channel": "ゆっぴチャンネル",
@@ -12599,6 +17619,38 @@
   "ingredients": [],
   "duration": 774,
   "views": 73376,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "9kVshD4lDWs",
+  "title": "【夏こそやるべき】アラフィフ美容家の裏ワザ美肌テク😉意外と知らない正しい乳液・クリームの使い方【スキンケア】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1373,
+  "views": 73329,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "JZIILX-oDMw",
+  "title": "【成分解説】今話題の成分\"PDRN\" 特集！千賀健永がPDRNの効果やおすすめのスキンケアを徹底解説します🫧",
+  "channel": "千賀健永 / kento senga",
+  "channelId": "UC7ymp3fGYBFal-4b20LPSkA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1033,
+  "views": 72659,
   "date": "2025-09"
  },
  {
@@ -12619,6 +17671,21 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "344OkJpxSB0",
+  "title": "【グルタチオンで美白は本当か?】肌が美白になるグルタチオンの選び方 / もっと美白になる他の成分との組み合わせ方を紹介",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 422,
+  "views": 72275,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "58AXmL3G8A8",
   "title": "敏感肌さん必見！バリア機能を高める方法を教えます！",
   "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
@@ -12635,6 +17702,23 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "JebgHaBi4dc",
+  "title": "皮膚科医が成分で選んだクレンジングバームを3つ紹介します。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 450,
+  "views": 72200,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "eGwEevooRuI",
   "title": "【あごニキビ】根本から撃退する治し方",
   "channel": "いろはビューティークリニック ",
@@ -12648,6 +17732,24 @@
   "short": true,
   "duration": 45,
   "views": 72063,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "H3euwyK0rWI",
+  "title": "皮膚科専門医が警告！レチノールの危険性 #shorts #美肌 #副作用 #肌荒れ",
+  "channel": "村松アラン医師の5分でわかる美魔女の教科書ch【シンシア】",
+  "channelId": "UCNUZn2ZpymMBCQ8fcFejD3A",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "short": true,
+  "duration": 34,
+  "views": 71936,
   "date": "2024-09"
  },
  {
@@ -12698,6 +17800,23 @@
   "duration": 349,
   "views": 71609,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "XUFN90koNb4",
+  "title": "【レチノール完全攻略】スキンケア初心者の方でもわかりやすい！千賀健永がレチノールの効果と使い方について解説します！",
+  "channel": "千賀健永 / kento senga",
+  "channelId": "UC7ymp3fGYBFal-4b20LPSkA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 877,
+  "views": 71432,
+  "date": "2025-09"
  },
  {
   "youtubeId": "uMzNkrhaKZ0",
@@ -12780,6 +17899,39 @@
   "date": "2025-10"
  },
  {
+  "youtubeId": "w2J20SlAZfc",
+  "title": "秋冬乾燥知らず！内側からうるおう肌に🤍皮膚の変態 大野真理子が乾燥ケア徹底解説📝愛用品や習慣もご紹介✨ #大野真理子 #美容 #エイジングケア #乾燥肌",
+  "channel": "【美容家 | 皮膚の変態】大野真理子のご一緒よろしいですか",
+  "channelId": "UCsOIWQs_NswxR4SQEVkmTnA",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1353,
+  "views": 70401,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "Xe0YfX62yb8",
+  "title": "2023年【これ一つでスキンケアが完了！】オールインワン化粧品　人気ランキングTOP10",
+  "channel": "ランキングピープル",
+  "channelId": "UCGapbYilMGvcQKePMgiKG2Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 66,
+  "views": 70288,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "4obbduYVqfE",
   "title": "【プロが解説】レチノール、2025年からヨーロッパで規制開始",
   "channel": "すみしょう",
@@ -12795,6 +17947,23 @@
   "duration": 765,
   "views": 70008,
   "date": "2026-02"
+ },
+ {
+  "youtubeId": "qVbJ8kRYHQc",
+  "title": "【結局どれが良いの！？】メガ割でおすすめのPDRN美容液を徹底比較",
+  "channel": "KyoN 美肌研究家 | しゃべる真珠",
+  "channelId": "UCism4-Y7-J19v-O5s9s29FA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 968,
+  "views": 69644,
+  "date": "2025-09"
  },
  {
   "youtubeId": "fW5Nk4ZMYKc",
@@ -12829,6 +17998,25 @@
   "duration": 726,
   "views": 69614,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "H7klrQOAILk",
+  "title": "【レチノール1ヶ月経過 】効果と使い方からおすすめスキンケアの順番！",
+  "channel": "キヨキヨの美容チャンネル",
+  "channelId": "UCx5iiJrnTyHLqQEAnF2JiSQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 456,
+  "views": 69370,
+  "date": "2023-09"
  },
  {
   "youtubeId": "FHq_H-ocPpg",
@@ -12945,6 +18133,55 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "Aa2p9dKiN5g",
+  "title": "【メガ割】プロ推しQoo10コスメはこれだ！No案件で大人気韓国コスメを本音レビュー【プチプラ美容液】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 941,
+  "views": 66618,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "6HYGVC4nZHo",
+  "title": "グルタチオン12の効果　現代病予防・シミ取り・美白・脂肪肝・白内障・パーキンソン病・自閉症 iHerb",
+  "channel": "Ehh NOTE",
+  "channelId": "UCzNp4SWQrIuPEW2S-Ry097w",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 879,
+  "views": 66553,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "aaOPo36nOpE",
+  "title": "【美容液使用法】使う前にみて下さい！使いこなしとワンエスティに込めた想い。",
+  "channel": "現役化粧品研究員としくん",
+  "channelId": "UCX65aRSQMMpgcVH4dlirwAA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 431,
+  "views": 66229,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "7N0ihXRenfM",
   "title": "【2026年☀️日焼け止め完全版】実用性を重視した◎時短/海プール/オフィス/公園/シーン別おすすめ♡神UVアイテム9選",
   "channel": "KAJIERI",
@@ -12992,6 +18229,21 @@
   "duration": 1510,
   "views": 65616,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "jBXUYjIJXBQ",
+  "title": "ほうれい線に効く治療は一番何が良いか解説します。",
+  "channel": "西川礼華医師の10歳若返りチャンネル / 10yearsback 10イヤーズバック",
+  "channelId": "UCu6-DGOaLFM70Auh5bnCKZw",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 578,
+  "views": 65124,
+  "date": "2023-09"
  },
  {
   "youtubeId": "Xn7hp7H76hQ",
@@ -13061,6 +18313,22 @@
   "date": "2026-03"
  },
  {
+  "youtubeId": "c-_BuR3ioSI",
+  "title": "ニキビが治る飲み薬",
+  "channel": "玉城有紀 / 医師「皮膚科・美容皮膚科」",
+  "channelId": "UCWbe434EGqueTHMdn3hUXwg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 16,
+  "views": 64174,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "V_9774iCJFA",
   "title": "美容液、何本まで使っていい？組み合わせ・順番・選び方をプロが解説",
   "channel": "国際エステティシャン みどり先生",
@@ -13077,6 +18345,38 @@
   "duration": 501,
   "views": 64016,
   "date": "2026-09"
+ },
+ {
+  "youtubeId": "pQTJKzPpQ6I",
+  "title": "皮膚科専門医が教えるマスクニキビの正しいケア",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 627,
+  "views": 63924,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "aSrvy4QnFTk",
+  "title": "『めんどくさがり必見』おすすめオールインワン化粧品１０選",
+  "channel": "全力スキンケア",
+  "channelId": "UCjZ5kgq1V0PnTfwRiBmbVRQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 66,
+  "views": 63673,
+  "date": "2021-09"
  },
  {
   "youtubeId": "E5ieobhIdHo",
@@ -13163,6 +18463,55 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "KIdF-NnN6V8",
+  "title": "【毛穴崩壊】角栓に効く洗顔、結局どれ？（１つだけ異次元でした）",
+  "channel": "美容家 ささえりTV",
+  "channelId": "UCDYmlWxY97dc_PpNE9I1zXw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1803,
+  "views": 62902,
+  "date": "2026-05"
+ },
+ {
+  "youtubeId": "CZH6I0vbKtc",
+  "title": "【流行りの】人気レチノールランキングTOP５",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 655,
+  "views": 62714,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "QtauOOZvBu0",
+  "title": "【酒さを疑わせる７つの症状】治らない赤みや発疹....ドクターと一緒に酒さのセルフチェック！",
+  "channel": "渋谷セントラルクリニック",
+  "channelId": "UCc0AEJEKBV2RFdSLvLRB9iQ",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 140,
+  "views": 62595,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "4KJPc4yz5wk",
   "title": "【2024年最新版】アラフィフ必見！たるみ撲滅スキンケアアイテム3選",
   "channel": "鈴木店長の美容チャンネル",
@@ -13244,6 +18593,21 @@
   "date": "2026-02"
  },
  {
+  "youtubeId": "muKjce1FigA",
+  "title": "【赤ら顔】超最新酒さの治療～１期 紅斑血管拡張型酒さ～",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 620,
+  "views": 60787,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "kTSUiJGZAh4",
   "title": "【赤ら顔】悪化する危険なスキンケア。皮膚科医友利新が病院に行くべき酒さと、自宅でできるスキンケアを話します。",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -13274,6 +18638,36 @@
   "duration": 689,
   "views": 60354,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "KgmGWIPm_Qs",
+  "title": "砂漠レベルの乾燥肌が劇的に潤う！真冬の粉ふきを撃退した最強スキンケア術",
+  "channel": "ガルエナガちゃん",
+  "channelId": "UCK3EAJpTelDzrIWutTD0MDA",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1371,
+  "views": 59976,
+  "date": "2026-01"
+ },
+ {
+  "youtubeId": "ejfFoFvN1Io",
+  "title": "【脂性敏感肌】\"肌が乾燥する、ニキビもできる、赤みもでる人\"はこのスキンケアに気をつけて。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 716,
+  "views": 59793,
+  "date": "2026-08"
  },
  {
   "youtubeId": "SiGpUvMFIVk",
@@ -13321,6 +18715,39 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "LJ2ea_zUPZ8",
+  "title": "【日焼け止め塗り直し】美容のプロが真夏に絶対やる日焼け止めの塗り直し術を徹底解説！焼けたくない人必見！簡単綺麗なお直しテクニック【紫外線対策】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 975,
+  "views": 59013,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "jFRvEC3Uv7c",
+  "title": "シミの究極予防は…",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 47,
+  "views": 58702,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "2AhFOI0cMog",
   "title": "【進化した名品日焼け止め】皮膚科医友利新が感動した\"最強リニューアルUV\"で日焼け撃退‼️",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -13336,6 +18763,23 @@
   "duration": 692,
   "views": 58568,
   "date": "2026-03"
+ },
+ {
+  "youtubeId": "BrPAYdrClbY",
+  "title": "紫外線を浴びてもシミができにくくなる、シミが予防できる食べ物を教えます！",
+  "channel": "SHOKOの美美っとな日常",
+  "channelId": "UCGarrcYNY-etq0oKDp82Mgg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 530,
+  "views": 58354,
+  "date": "2023-09"
  },
  {
   "youtubeId": "4B62ZJJc6SU",
@@ -13370,6 +18814,23 @@
   "date": "2026-09"
  },
  {
+  "youtubeId": "ZQYCpnEXkuQ",
+  "title": "【2026年最新】美容皮膚科医が本気で選ぶ春のスキンケア用品｜忖度なしの愛用品と朝夜ルーティン",
+  "channel": "平岡美樹子 | 美容マニアの医師",
+  "channelId": "UCqEtHc6CDyby5VjU6YfwoeQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "routine"
+  ],
+  "ingredients": [],
+  "duration": 663,
+  "views": 57370,
+  "date": "2026-04"
+ },
+ {
   "youtubeId": "riiQoHuRWQk",
   "title": "【危険？】ドラコスの化粧水の本気について徹底解説【化粧品研究】",
   "channel": "【元化粧品研究者】とまと村長",
@@ -13385,6 +18846,21 @@
   "duration": 968,
   "views": 56836,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "gFajs56Mswk",
+  "title": "【プチプラ】皮膚科医愛用の保湿アイテム７選",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 719,
+  "views": 56443,
+  "date": "2025-11"
  },
  {
   "youtubeId": "mcIdDMiuCZg",
@@ -13534,6 +19010,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "S2qWaXgWl_U",
+  "title": "【50代60代スキンケア】もう迷わない！61才央佳が本気で選んだ厳選ケア発表",
+  "channel": "大人の若見え変身メソッド・央佳（おうか）",
+  "channelId": "UCp6p0FTVryoIJ7Suu8kginQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1805,
+  "views": 54796,
+  "date": "2025-12"
+ },
+ {
   "youtubeId": "tYs8YObfoGA",
   "title": "【塗った\"後\"が大事です】敏感肌にオススメのトラネキサム酸化粧水・美容液6選",
   "channel": "わくた よしのぶ",
@@ -13569,6 +19060,21 @@
   "date": "2025-12"
  },
  {
+  "youtubeId": "AxslGF1Cf6E",
+  "title": "肌の再生医療を20年やって気づいた、主婦だからこそできる最高のスキンケアについて解説します",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 396,
+  "views": 53710,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "z-hZfKGrgZI",
   "title": "日焼け止めの効果を最大限高める塗り方ポイント3つ",
   "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
@@ -13584,6 +19090,23 @@
   "duration": 596,
   "views": 53413,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "l-NgDedMIhk",
+  "title": "【プチプラ】手で簡単に洗顔料を泡立てる方法！ふわふわ濃密泡♡",
+  "channel": "mizuki channel",
+  "channelId": "UC9bBLlVFMa-65C2YEcvz6pg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 203,
+  "views": 52791,
+  "date": "2019-09"
  },
  {
   "youtubeId": "h4IKSx192-k",
@@ -13672,6 +19195,24 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "0N5o_O95wbM",
+  "title": "「化粧水と乳液はいらない」に医師が物申します",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner",
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 474,
+  "views": 51774,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "8tnBIp2XVrM",
   "title": "【摩擦ゼロ】マスターしたら絶対美肌になれるクレンジング【神テク】",
   "channel": "国際エステティシャン みどり先生",
@@ -13738,6 +19279,38 @@
   "duration": 923,
   "views": 50653,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "ZOHiD4wrg-8",
+  "title": "【これ一本でOK】オールインワン化粧品を現役皮膚科医が辛口レビュー",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1290,
+  "views": 50426,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "ujZeEYA5nA0",
+  "title": "【ニキビ治療】にゅるにゅる出る背中ストレスニキビを大阪のクリニックでスッキリ治療！とんでもない汚れが出た！",
+  "channel": "マツヲタ動中記！",
+  "channelId": "UCt2MPRqjJBaIKIdp18azYLA",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1178,
+  "views": 50305,
+  "date": "2023-09"
  },
  {
   "youtubeId": "BviG9YpdgVk",
@@ -13884,6 +19457,37 @@
   "date": "2024-09"
  },
  {
+  "youtubeId": "OnBdbmMDF-M",
+  "title": "背中ニキビを治療した結果 #shorts",
+  "channel": "フェミークリニック【公式】美容皮膚科",
+  "channelId": "UCax3Qt7iNWWL9XADamJEc0A",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "short": true,
+  "duration": 40,
+  "views": 47811,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "1OW4UuO4I0E",
+  "title": "【完全公開】アトピー肌を治すためにやった治療・スキンケア・インナーケア‥大事なこと全部話します。",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1651,
+  "views": 47732,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "oprfJJUVWNg",
   "title": "【コスパも抜群】メンズ洗顔料おすすめ5選！毛穴汚れやニキビをおてがるケア",
   "channel": "ハダミス",
@@ -13900,6 +19504,23 @@
   "duration": 605,
   "views": 47369,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "hw8lupO3bJA",
+  "title": "【シミ予防】シミ予防の為に飲む日焼け止めの正しい使い方を解説します！【医師の解説】",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 574,
+  "views": 47209,
+  "date": "2022-09"
  },
  {
   "youtubeId": "dbC8bdyCAf0",
@@ -13953,6 +19574,23 @@
   "date": "2026-07"
  },
  {
+  "youtubeId": "AjfE94EgfBc",
+  "title": "皮膚科医が教えるまつげ美容液の選び方",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 668,
+  "views": 46426,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "w9k7EU-IrBg",
   "title": "【今年の美白】夏なのに乳液&クリームの新作が凄すぎる件。皮膚科医友利新が推す大活躍ケアアイテム",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -13968,6 +19606,21 @@
   "duration": 858,
   "views": 46380,
   "date": "2026-03"
+ },
+ {
+  "youtubeId": "ueeeczLhmRI",
+  "title": "老化で気になる肌のくすみとは!?予防と対策を肌の再生医療の専門家が解説します。",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 493,
+  "views": 46318,
+  "date": "2023-09"
  },
  {
   "youtubeId": "Cs1HK1S1JqQ",
@@ -13988,6 +19641,85 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "b7eB1T-w5p0",
+  "title": "【警告】スキンケア何もしてないズボラ男子、確実に老けます⚠️乾燥肌もオイリー肌もオールインワン一本で解決&清潔感底上げ！【プロ厳選】",
+  "channel": "KUBOKI CHANNEL",
+  "channelId": "UCzynvanGk65JSz9TOvpF12Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 807,
+  "views": 45371,
+  "date": "2026-02"
+ },
+ {
+  "youtubeId": "FOa6JR4XIFo",
+  "title": "【背中のブツブツ】ニキビ？湿疹？それとも•••原因と治療方法を現役皮膚科医が解説",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 636,
+  "views": 44882,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "9g0KF2dwwGY",
+  "title": "【100均の洗顔泡立て器】ダイソーの\"ほいっぷるん\"！10秒で濃密もっちり泡が作れます【ダイソーおすすめ商品】",
+  "channel": "8787 HANA",
+  "channelId": "UC_k6m1AjlF9VWOGcZlGZJqQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 149,
+  "views": 44637,
+  "date": "2021-09"
+ },
+ {
+  "youtubeId": "SDp-NelWKVQ",
+  "title": "【くすみをとる方法】意外と知らない肌くすみの原因４タイプを福岡のあの美容鍼灸師が徹底解説",
+  "channel": "福岡美容鍼灸サロンCanna-カンナ-",
+  "channelId": "UC4jodyxh0CYVb1EtWTtw1pA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 340,
+  "views": 44250,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "0ylJrvt2RRQ",
+  "title": "【Qooメガ割】おすすめ！！！✨敏感肌さん必見の絶対買うべきスキンケア10選🧴✨",
+  "channel": "田中日菜/TANAKA HINA",
+  "channelId": "UCyud5ThlDFDrR98ImBFZD0w",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1366,
+  "views": 44246,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "vT_YNMOpkok",
   "title": "【ニキビ爆速で撃退】皮膚科医友利新の常識が変わった鎮静ケア！このニキビパッチ最強です",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -14001,6 +19733,23 @@
   "duration": 532,
   "views": 44043,
   "date": "2026-04"
+ },
+ {
+  "youtubeId": "yrC5vc5ONts",
+  "title": "トレチノインを1ヶ月毎日塗ってみた経過がヤバい、、、【毛穴、シミ、ニキビ跡、シワ】",
+  "channel": "キヨキヨの美容チャンネル",
+  "channelId": "UCx5iiJrnTyHLqQEAnF2JiSQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 466,
+  "views": 44000,
+  "date": "2025-11"
  },
  {
   "youtubeId": "cxzIydDSH18",
@@ -14018,6 +19767,25 @@
   "duration": 449,
   "views": 43640,
   "date": "2022-09"
+ },
+ {
+  "youtubeId": "IDUDMKqSU_4",
+  "title": "【名品ドラコス】これはお値段以上すぎる！国民的シワ改善クリームの期待以上の大進化にプロも感動！シワへの執念の一作を体感せよ【純粋レチノール※¹】",
+  "channel": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+  "channelId": "UCH3ITyGlEEDUq2t5WW4YToA",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1009,
+  "views": 43512,
+  "date": "2025-11"
  },
  {
   "youtubeId": "gaCgh9blTOI",
@@ -14054,6 +19822,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "K15161Xv4_s",
+  "title": "【赤ら顔スキンケア】酒さ・赤みを起こす皮脂・炎症をダブルで防ぐ！保湿のオススメ組み合わせ",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 639,
+  "views": 42846,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "T4GbYNLL47g",
   "title": "【ストック不可避】10回以上リピートしているガチで手放せないお気に入りパック5選✨",
   "channel": "森のニーナ Nina Mori",
@@ -14069,6 +19852,21 @@
   "duration": 977,
   "views": 42179,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "heNvdN6GJkE",
+  "title": "【なくなったら泣く】アトピー肌のくすり屋が本当に愛用するファンデ・スキンケア・インナーケア",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1252,
+  "views": 42076,
+  "date": "2025-11"
  },
  {
   "youtubeId": "mGatK8g3aAY",
@@ -14156,6 +19954,21 @@
   "date": "2026-05"
  },
  {
+  "youtubeId": "dpHlgB-KRIA",
+  "title": "【ほうれい線治療】40代・50代のタイプ別たるみ治療機の選び方",
+  "channel": "西川礼華医師の10歳若返りチャンネル / 10yearsback 10イヤーズバック",
+  "channelId": "UCu6-DGOaLFM70Auh5bnCKZw",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 848,
+  "views": 40864,
+  "date": "2026-01"
+ },
+ {
   "youtubeId": "IuhhI4u5KW0",
   "title": "【圧巻】次のクレンジング、一回コレ挟んだ方がいいかも！みんな知ってるFANCLクレンジングオイルに感動してしまいました...❤️‍🔥",
   "channel": "友利新公式チャンネル(内科・皮膚科医)",
@@ -14205,6 +20018,21 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "XLCK3N9spH8",
+  "title": "【美白のドラコス名品】皮膚科医友利新が美肌が叶うアイテムをガチ厳選",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 488,
+  "views": 40021,
+  "date": "2026-07"
+ },
+ {
   "youtubeId": "1kP45nAYjsE",
   "title": "【2026上半期ベストスキンケア🥇】毛穴、たるみが気になり始める30代😱３時間睡眠でも“卵肌”をキープするひよんが選ぶ、スタメンスキンケア大発表✨",
   "channel": "ひよんちゃんねる",
@@ -14238,6 +20066,23 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "89pY_HHI6O4",
+  "title": "【保湿最強クラス】もう肌ガサガサしない！砂漠で検証を重ねた化粧水。どれ使っても乾燥しちゃう人は試す価値アリです。",
+  "channel": "友利新公式チャンネル(内科・皮膚科医)",
+  "channelId": "UCS02b3Y9RCzsT2k4no6LN-g",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 586,
+  "views": 38805,
+  "date": "2025-11"
+ },
+ {
   "youtubeId": "znF6bPYJRIY",
   "title": "【隠れ乾燥肌】インナードライの見分け方と「潤う」保湿",
   "channel": "国際エステティシャン みどり先生",
@@ -14251,6 +20096,36 @@
   "duration": 617,
   "views": 38572,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "wKlCEX-GXuQ",
+  "title": "【ドラスト】これ使うと赤み落ち着く体感あったスキンケア！【油脂フリー】",
+  "channel": "初美メアリ",
+  "channelId": "UCX_-1BZTE4OUqmlPihYrCwA",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 552,
+  "views": 38260,
+  "date": "2026-03"
+ },
+ {
+  "youtubeId": "Ta38C5igfkY",
+  "title": "ペプチドでシワを減少させハリのある肌へ",
+  "channel": "KyoN 美肌研究家 | しゃべる真珠",
+  "channelId": "UCism4-Y7-J19v-O5s9s29FA",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 395,
+  "views": 38185,
+  "date": "2020-09"
  },
  {
   "youtubeId": "GNLtNHX3IsU",
@@ -14383,6 +20258,23 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "klcJkmahtUY",
+  "title": "【徹底比較】ドラッグストアで買えるシミに効く美容液ランキングTOP7を「成分オタク薬剤師」が解説",
+  "channel": "【アラフォーからのエイジングケア】のんメディカル",
+  "channelId": "UCRMDMiULsiQ06gPxYjTrZBQ",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 1193,
+  "views": 36599,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "aMQMsLEYjFM",
   "title": "化粧品でシミは消えるのか？ショート動画#４０代スキンケア #ハイドロキノン #アラフォースキンケア#レチノール＃肌のシミ＃４０代顔のシミ",
   "channel": "ラ・ジュネス公式【美肌の達人】チャンネル",
@@ -14399,6 +20291,21 @@
   "short": true,
   "duration": 24,
   "views": 36557,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "elrDYD_JLNw",
+  "title": "【４段階解説】(シワなし・軽度・中度・重度) できてしまったほうれい線対策！",
+  "channel": "えりりんちゃんねる【医師 上原恵理】",
+  "channelId": "UCFSu4xqJoT3BDYIdMdiTzfA",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 679,
+  "views": 36475,
   "date": "2023-09"
  },
  {
@@ -14449,6 +20356,38 @@
   "date": "2026-04"
  },
  {
+  "youtubeId": "AeZHl0XqlHk",
+  "title": "【iHerb】自分に合うのはどれ！？人気レチノール6点を37歳元美容部員ママが徹底レビュー！",
+  "channel": "miyabi@美肌研究家",
+  "channelId": "UCmoXEELFpFUtTfAhmqYQ0XA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1032,
+  "views": 36051,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "qzRCsMmDNqg",
+  "title": "【アトピー性皮膚炎】アトピー24歳モデル。私の肌荒れ&アレルギーが改善された方法全て語ります。",
+  "channel": "Asaki's mag",
+  "channelId": "UCL2shAckoxDmBvYKjI4YDmg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1041,
+  "views": 35770,
+  "date": "2024-09"
+ },
+ {
   "youtubeId": "ljEyIa3QAfU",
   "title": "【神テク】エステティシャン直伝「日焼け止めの塗り方」公開",
   "channel": "国際エステティシャン みどり先生",
@@ -14466,6 +20405,23 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "hc3ahQ2yQnQ",
+  "title": "【必見】使ってよかった！シワ改善クリームの使い方を紹介します",
+  "channel": "cosmemory「コスメモリー」",
+  "channelId": "UCmebkBkedJmmsDG77EzxQcQ",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 639,
+  "views": 35239,
+  "date": "2026-02"
+ },
+ {
   "youtubeId": "9t-OOdTKoi4",
   "title": "「春の肌荒れ」を回避！春の正しいスキンケアとは？｜友利新のBeauty Method【前編】｜【公式】ホットペッパービューティーTV",
   "channel": "ホットペッパービューティーTV",
@@ -14479,6 +20435,23 @@
   "duration": 1427,
   "views": 34886,
   "date": "2026-04"
+ },
+ {
+  "youtubeId": "cZh1CXHfk3A",
+  "title": "シートマスクは毎日使っていい？効果を下げるNGな使い方を美容のプロが解説",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 411,
+  "views": 34758,
+  "date": "2026-08"
  },
  {
   "youtubeId": "KVEOGqebFoU",
@@ -14495,6 +20468,59 @@
   ],
   "duration": 349,
   "views": 34713,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "RVPvSmrv4CU",
+  "title": "濃密泡で洗顔♪もちもち泡立てネット【使い方】",
+  "channel": "コモライフ株式会社",
+  "channelId": "UC_sKz1iRCHPckLmbDa8LD_w",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 45,
+  "views": 34681,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "Fkvzl7BBmLs",
+  "title": "【飲む日焼け止め】は実質的に効果なし！？『SPF1.5』の日焼け止めをあなたは買いますか？",
+  "channel": "かずのすけ",
+  "channelId": "UCSRGk4AtN7iyS1YOu79EG8Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 788,
+  "views": 34437,
+  "date": "2020-09"
+ },
+ {
+  "youtubeId": "09HzAPbYXFI",
+  "title": "皮膚科医が愛用し続けているリピ確定のスキンケア5選 / 本当に効果のあった使い切りコスメを紹介【クレンジング・洗顔・化粧水・美容液】",
+  "channel": "平岡美樹子 | 美容マニアの医師",
+  "channelId": "UCqEtHc6CDyby5VjU6YfwoeQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse",
+   "toner",
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 669,
+  "views": 34266,
   "date": "2025-09"
  },
  {
@@ -14537,6 +20563,53 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "qZSH23Ei_Vg",
+  "title": "背中ニキビは３タイプ！原因と対処法を男女別に解説",
+  "channel": "「皮膚科専門医」Dr.mikoの美容チャンネル",
+  "channelId": "UCJN0uedgggJ1gZbH5cyTiqQ",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 667,
+  "views": 34109,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "mRymYZKSqfk",
+  "title": "【赤ら顔】酒さ様皮膚炎の原因と治療法｜酒さとの違い",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 585,
+  "views": 34001,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "SdOCOGFH7Dw",
+  "title": "アトピー・酒さ・赤ニキビ・脂漏性皮膚炎‥炎症を伴う肌トラブルのスキンケア（洗顔・保湿）",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 623,
+  "views": 33992,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "4UAswnT5mns",
   "title": "アゼライン酸って本当に良いの？#shorts",
   "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
@@ -14553,6 +20626,21 @@
   "duration": 45,
   "views": 33766,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "vUhJXC-bkBs",
+  "title": "【インナードライ】冬これで乗り切った｜2025年一軍スキンケアまとめ（使い分け解説）",
+  "channel": "ハナミ  肌荒れが人生",
+  "channelId": "UC39QE9QgSRVxVY8lnaHJbow",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 746,
+  "views": 33731,
+  "date": "2025-12"
  },
  {
   "youtubeId": "sk_o-TB9n3I",
@@ -14582,6 +20670,23 @@
   "ingredients": [],
   "duration": 600,
   "views": 33388,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "2yBwX6guPt0",
+  "title": "【メンズ美容のプロが厳選】ベタつき肌のあなた！30代/40代に最適な洗顔料はコレです！",
+  "channel": "KUBOKI CHANNEL",
+  "channelId": "UCzynvanGk65JSz9TOvpF12Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1008,
+  "views": 33272,
   "date": "2024-09"
  },
  {
@@ -14617,6 +20722,76 @@
   "duration": 766,
   "views": 32544,
   "date": "2026-03"
+ },
+ {
+  "youtubeId": "asRoEgDDpro",
+  "title": "【ニキビ治療】イソトレチノインについて皮膚科専門医が徹底解説",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [
+   "retinoid"
+  ],
+  "duration": 1003,
+  "views": 32435,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "0oa10LMUEi4",
+  "title": "【本当の原因は？】脂漏性皮膚炎に必要な治療とスキンケア・セルフケアを徹底解説",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1205,
+  "views": 32114,
+  "date": "2026-04"
+ },
+ {
+  "youtubeId": "y2-m34hOUx0",
+  "title": "トレチノイン・ハイドロキノンの効果と使い方！経過から塗る順番とおすすめのクリームまで徹底解説💡【シミ・ニキビ・色素沈着・赤み・毛穴】",
+  "channel": "キヨキヨの美容チャンネル",
+  "channelId": "UCx5iiJrnTyHLqQEAnF2JiSQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer",
+   "routine"
+  ],
+  "ingredients": [
+   "retinoid",
+   "acids"
+  ],
+  "duration": 762,
+  "views": 31818,
+  "date": "2025-12"
+ },
+ {
+  "youtubeId": "Y3WMYUCwhCU",
+  "title": "【毛穴が消える⁉︎】業界初クレンジングオイル解禁‼️オイルNGのオルビスが産んだ渾身のオイルが凄すぎた。",
+  "channel": "美容家 ささえりTV",
+  "channelId": "UCDYmlWxY97dc_PpNE9I1zXw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 1067,
+  "views": 31780,
+  "date": "2025-09"
  },
  {
   "youtubeId": "4E1HVJVZo94",
@@ -14681,6 +20856,51 @@
   "duration": 595,
   "views": 31191,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "6xtQP2ND3CM",
+  "title": "【元ニキビだらけが語る】モテるメンズスキンケア徹底解説",
+  "channel": "垢抜け大学®┃ヒロキ",
+  "channelId": "UCHTZAvwi69ltfFoJQRcxw5w",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 857,
+  "views": 31146,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "CkSkINGnVT0",
+  "title": "【脱アトピーのかゆみ・炎症のぶり返し】皮膚科では教えてくれない。本当に必要なスキンケア 2026最新版",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 2037,
+  "views": 31084,
+  "date": "2026-01"
+ },
+ {
+  "youtubeId": "oulrCk25X8Y",
+  "title": "【ハリ、弾力にはペプチド】誰でも使える最強成分【エンビロン】",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 351,
+  "views": 30539,
+  "date": "2021-09"
  },
  {
   "youtubeId": "EC0unMQOA38",
@@ -14753,6 +20973,21 @@
   "date": "2026-04"
  },
  {
+  "youtubeId": "sxNVji19S-4",
+  "title": "【話題】美白成分のグルタチオンって実際どうなの？皮膚科医が解説",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 677,
+  "views": 29747,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "DlDUvqrTL_E",
   "title": "【知らなきゃ損】スキンケア迷子おわろう！シンプルなスキンケアが正義。研究員が愛し続けるナイアシンアミドの真実",
   "channel": "現役化粧品研究員としくん",
@@ -14770,6 +21005,51 @@
   "date": "2026-09"
  },
  {
+  "youtubeId": "xcGBiMsisrc",
+  "title": "皮膚科専門医が教える！ニキビ治療外用薬の塗り方とは！？",
+  "channel": "渋谷スクランブル皮膚科 公式ch",
+  "channelId": "UC2oWgBxHTDyLxqb0_M6iI3g",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 402,
+  "views": 29365,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "d4BQdHlvqfM",
+  "title": "【ほうれい線】消し方！特徴を解説！治療法も教えます！",
+  "channel": "美容外科Dr.又吉のコスメディカルCh【シンシア】",
+  "channelId": "UCkvFNia2pmhI0ZJ-SmBhwcg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 721,
+  "views": 29033,
+  "date": "2023-09"
+ },
+ {
+  "youtubeId": "yLL1PzFF60A",
+  "title": "【セルフチェック】外来でよく聞く酒さの症状トップ５を皮膚科専門医が解説",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 572,
+  "views": 29024,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "t1ODSAHDRDs",
   "title": "【朝のスキンケア】美肌モチベ高め30代OLの最近の愛用品🐻‍❄️🤍［美白・透明感ケア］",
   "channel": "arin vlog / ありん",
@@ -14785,6 +21065,21 @@
   "duration": 1315,
   "views": 28911,
   "date": "2026-06"
+ },
+ {
+  "youtubeId": "B7WFNFF-tAg",
+  "title": "【首のシワ】これを使うだけで“首元”が10歳若返る！おきゃんママおすすめの◯分セルフケア+神グッズを紹介します。",
+  "channel": "アラ還 おきゃんママの若見えチャンネル",
+  "channelId": "UCrFSZcYdqaveh6X2Liosjyg",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 664,
+  "views": 28817,
+  "date": "2026-01"
  },
  {
   "youtubeId": "Zk2XbtxBrXw",
@@ -14819,6 +21114,23 @@
   "duration": 611,
   "views": 28359,
   "date": "2025-09"
+ },
+ {
+  "youtubeId": "Qp5Nun00A4Q",
+  "title": "【低価格から最高級まで】これならOK!!オールインワン5選",
+  "channel": "鈴木店長の美容チャンネル",
+  "channelId": "UCBIekdFBOU6XwyiQ362GqQQ",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1246,
+  "views": 28272,
+  "date": "2024-09"
  },
  {
   "youtubeId": "SgNq-l57Pkc",
@@ -14886,6 +21198,23 @@
   "date": "2026-06"
  },
  {
+  "youtubeId": "Mfns61_YBcg",
+  "title": "強烈な美白成分はコレ！コスパ良しなスキンケア集合！【美容液】",
+  "channel": "【元化粧品研究者】とまと村長",
+  "channelId": "UCRZr_q84tEJnoWV1I3sN4OQ",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 1423,
+  "views": 27780,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "MfplwcNBGIQ",
   "title": "【皮膚科医が教える】これしかないわ！できてしまったシミ対策3つの方法教えます。【しみ消し】",
   "channel": "皮膚科医のずみ先生-今泉スキンクリニック-",
@@ -14899,6 +21228,21 @@
   "duration": 226,
   "views": 27767,
   "date": "2024-09"
+ },
+ {
+  "youtubeId": "w6iapIkORpc",
+  "title": "【ほうれい線】美容皮膚科医がオススメする治療法3選を紹介します！",
+  "channel": "美容Dr.きりちゃんねる",
+  "channelId": "UC0XIdizLFNzA5WCbvdl2CIQ",
+  "lang": "ja",
+  "concerns": [
+   "aging"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 626,
+  "views": 27759,
+  "date": "2022-09"
  },
  {
   "youtubeId": "bnZuf6nxiJg",
@@ -14933,6 +21277,23 @@
   "duration": 349,
   "views": 27691,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "YrcVvneKX_U",
+  "title": "【保湿】クレンジングで変わる、冬の乾燥肌「選び方と使い方」",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 551,
+  "views": 27682,
+  "date": "2025-11"
  },
  {
   "youtubeId": "Tf_TV1P5ZFA",
@@ -15136,6 +21497,40 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "75mb1Ig7n7A",
+  "title": "シミを作らせない美白美容液はコレです",
+  "channel": "しゅう@コスメ日記",
+  "channelId": "UCFYXTCJdHMCgsgxgThuyfWA",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 470,
+  "views": 26140,
+  "date": "2026-07"
+ },
+ {
+  "youtubeId": "fQ7hpPsUZ1E",
+  "title": "【水分爆発💧】冬の乾燥肌が生き返る最強パック５選✨💪肌不調のレスキュー隊🛟",
+  "channel": "森のニーナ Nina Mori",
+  "channelId": "UCHdITyqujyX1I71eHZRApgg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 1072,
+  "views": 26076,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "Y6jzJXKxNdY",
   "title": "韓国オリヤンVIP会員が本気で選ぶ💎2026年上半期ベストスキンケア🏆✨",
   "channel": "はりん하린",
@@ -15180,6 +21575,21 @@
   "duration": 2156,
   "views": 26029,
   "date": "2026-06"
+ },
+ {
+  "youtubeId": "6KMA0BARc8E",
+  "title": "【脂ギッシュ 顔】医師が教える！オイリー肌を治す方法",
+  "channel": "美容整形外科医しばちゃんねる【医師柴田貴志・ACLINIC】",
+  "channelId": "UCLozYijhizKeOtePvHYKpyw",
+  "lang": "ja",
+  "concerns": [
+   "pores"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 506,
+  "views": 25813,
+  "date": "2023-09"
  },
  {
   "youtubeId": "SDQBbxHcN-0",
@@ -15247,6 +21657,21 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "GOO9QxaC2Y8",
+  "title": "【徹底的なシミ対策】シミ治療の新常識！予防と肌育治療が重要な理由",
+  "channel": "西川礼華医師の10歳若返りチャンネル / 10yearsback 10イヤーズバック",
+  "channelId": "",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 912,
+  "views": 25466,
+  "date": "2026-05"
+ },
+ {
   "youtubeId": "HjgwjsAaGFE",
   "title": "ドラコス美容液のコレを知らないと危険！プロが解説【ワンバイコーセー】",
   "channel": "【元化粧品研究者】とまと村長",
@@ -15277,6 +21702,23 @@
   "duration": 790,
   "views": 25294,
   "date": "2023-09"
+ },
+ {
+  "youtubeId": "aenPz3xEc-4",
+  "title": "「焼かずにキレイ」日焼け止めの塗り方は\"重ね方\"が重要",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "sunscreen"
+  ],
+  "ingredients": [],
+  "duration": 634,
+  "views": 25054,
+  "date": "2026-07"
  },
  {
   "youtubeId": "F_eFAND0n-M",
@@ -15330,6 +21772,23 @@
   "date": "2026-05"
  },
  {
+  "youtubeId": "MrKGRUPixVU",
+  "title": "皮膚科医が教えるビタミンC、その美肌効果とは？",
+  "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
+  "channelId": "UCLXRvdWoSRxMniZw5OvC7xg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [
+   "vitc"
+  ],
+  "duration": 553,
+  "views": 24229,
+  "date": "2022-09"
+ },
+ {
   "youtubeId": "i5Ms4tk9x0k",
   "title": "【底見えスキンケア🫧】ガチで愛用した🤍36歳美肌オタクのリピート不可回避乳液４選🍼✨",
   "channel": "森のニーナ Nina Mori",
@@ -15345,6 +21804,57 @@
   "duration": 731,
   "views": 24145,
   "date": "2025-10"
+ },
+ {
+  "youtubeId": "hGO2WGIgZVA",
+  "title": "メンズオールインワンおすすめ上位3種を正直レビュー！Amazon高評価の実力は？",
+  "channel": "ハダミス",
+  "channelId": "UC8lQw7F66FJ6oSik9AiFv0A",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1030,
+  "views": 24030,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "DVKD5zZ-IHE",
+  "title": "【すべて2,500円以下】初心者にもおすすめなメンズ化粧水5選",
+  "channel": "ハダミス",
+  "channelId": "UC8lQw7F66FJ6oSik9AiFv0A",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 735,
+  "views": 23984,
+  "date": "2025-09"
+ },
+ {
+  "youtubeId": "sQXVsvOriuk",
+  "title": "【脱カサカサ・ベトベト】30/40代メンズに最適な化粧水６選｜肌質別にプロが厳選！",
+  "channel": "KUBOKI CHANNEL",
+  "channelId": "UCzynvanGk65JSz9TOvpF12Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "toner"
+  ],
+  "ingredients": [],
+  "duration": 774,
+  "views": 23929,
+  "date": "2024-09"
  },
  {
   "youtubeId": "momsusozBbo",
@@ -15394,6 +21904,21 @@
   "date": "2026-08"
  },
  {
+  "youtubeId": "CAm_98oCK-Y",
+  "title": "【プチプラ】ペプチド高配合化粧品４種類のご紹介",
+  "channel": "KyoN 美肌研究家 | しゃべる真珠",
+  "channelId": "UCism4-Y7-J19v-O5s9s29FA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 477,
+  "views": 23711,
+  "date": "2020-09"
+ },
+ {
   "youtubeId": "Gw7wLv5Q6EY",
   "title": "【初心者さん必見】スキンケア成分まる分かり👍この動画でコスメのお悩み一気に解決✨【Qoo10メガ割おすすめ】",
   "channel": "韓国在住KAYOの韓国コスメレビュー",
@@ -15437,6 +21962,23 @@
   "duration": 1249,
   "views": 23245,
   "date": "2026-04"
+ },
+ {
+  "youtubeId": "U3Axx0j6KSw",
+  "title": "美肌になるには洗顔極めて❗️洗顔のプロが正しい泡の立て方からおすすめの洗顔ネットまで紹介するよ✨",
+  "channel": "洗顔先生",
+  "channelId": "UCzNWFfgUyOcqiSG-13Qwy9Q",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 733,
+  "views": 23232,
+  "date": "2023-09"
  },
  {
   "youtubeId": "iu7ehBmXAO8",
@@ -15518,6 +22060,24 @@
   "date": "2023-09"
  },
  {
+  "youtubeId": "wq3LH48pzs4",
+  "title": "【丁寧な肌ケアが逆効果！？】アトピー・敏感肌におすすめオールインワン保湿ケア",
+  "channel": "わくた よしのぶ",
+  "channelId": "UChkYjz0zQCgVbjghp1wXzQw",
+  "lang": "ja",
+  "concerns": [
+   "dryness",
+   "sensitive"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 1171,
+  "views": 22787,
+  "date": "2026-03"
+ },
+ {
   "youtubeId": "VehTKSav3Ig",
   "title": "【どっち？】セラミドは毛穴詰まりを起こす？皮膚科医が解説",
   "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
@@ -15552,6 +22112,23 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "yrsN5PJhMCo",
+  "title": "【新・DUO】ザ クレンジングバーム How to use｜落とすことをこだわると、肌はもっと美しくなる",
+  "channel": "プレミアアンチエイジング【公式】",
+  "channelId": "UCBt82yQcNgJmO17z9QHKr-g",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "cleanse"
+  ],
+  "ingredients": [],
+  "duration": 121,
+  "views": 22657,
+  "date": "2025-09"
+ },
+ {
   "youtubeId": "r19s5LhJ5bo",
   "title": "【有料級】デパコス買うのちょっと待った！🔥🫷デパコス級なプチプラスキンケア、７つ紹介します。🙂‍↕️",
   "channel": "森のニーナ Nina Mori",
@@ -15567,6 +22144,54 @@
   "date": "2026-03"
  },
  {
+  "youtubeId": "1EKuQ82cfHA",
+  "title": "初めておすすめできるオールインワン発見！オールインワン1品でここまでできるなんて！",
+  "channel": "SHOKO美チャンネル 【40代50代の為の美容法】",
+  "channelId": "UCocXVYUfcC79osgM02JpiPg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "duration": 392,
+  "views": 22248,
+  "date": "2026-01"
+ },
+ {
+  "youtubeId": "idP_9gNoZvY",
+  "title": "シミ対策！うっかり日焼けしてしまった時のシミにならない対処法を解説します。",
+  "channel": "北條元治 | 形成外科医・肌の再生医療の専門家",
+  "channelId": "UCdzXXjd28tQJ2cwnJKquiqg",
+  "lang": "ja",
+  "concerns": [
+   "spots"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 508,
+  "views": 22237,
+  "date": "2024-09"
+ },
+ {
+  "youtubeId": "shhuScGZHZI",
+  "title": "「なんで顔が赤い？」赤ら顔の見極め方5選！治療方法についても医師が解説！【酒さ・脂漏性皮膚炎・ニキビ跡】",
+  "channel": "はなふさ皮膚科17院　花房火月のチャンネル",
+  "channelId": "UCrMERPwq0DaxnnwettzmQEw",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 492,
+  "views": 22176,
+  "date": "2021-09"
+ },
+ {
   "youtubeId": "BFi5liKfyL4",
   "title": "【初公開】ニキビ肌から美肌に3ヶ月でなるスキンケアを全部お見せします！",
   "channel": "こた(どもこた)",
@@ -15580,6 +22205,22 @@
   "duration": 656,
   "views": 22152,
   "date": "2026-05"
+ },
+ {
+  "youtubeId": "mDaOFzHy1LA",
+  "title": "まじで肌荒れ治したい人だけみてください。【ニキビ歴5年の答え】",
+  "channel": "みかみ / 渋谷の美容社長 ",
+  "channelId": "UCViVfAdJXWROM8_rtN0uTUA",
+  "lang": "ja",
+  "concerns": [
+   "acne",
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 1034,
+  "views": 22058,
+  "date": "2025-09"
  },
  {
   "youtubeId": "Rt_JCMx3WVk",
@@ -15615,6 +22256,21 @@
   "date": "2022-09"
  },
  {
+  "youtubeId": "EGwupRhrSd8",
+  "title": "【座談会SP】ゆらぎ肌のケアについてプロ達が解説！[PR]",
+  "channel": "VOCEchannel",
+  "channelId": "UCZ9qH9bedbEp7IDhlbNJfRw",
+  "lang": "ja",
+  "concerns": [
+   "sensitive"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 995,
+  "views": 21697,
+  "date": "2023-09"
+ },
+ {
   "youtubeId": "jeBpWzRXxG4",
   "title": "本当に効果がある30代のスキンケアのポイント",
   "channel": "こばとも先生のスキンアカデミー【こばとも皮膚科】",
@@ -15628,6 +22284,21 @@
   "duration": 639,
   "views": 21533,
   "date": "2021-09"
+ },
+ {
+  "youtubeId": "lo0dUMv6PL0",
+  "title": "【🛍️メガ割🛒】自称ストック癖女が1番ストックしてたスキンケア🫣✨絶対買うべき6選を徹底解説❤️‍🔥",
+  "channel": "のべちゃん",
+  "channelId": "UCLtGjUw65C5r7Snzw2HukPA",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [],
+  "ingredients": [],
+  "duration": 671,
+  "views": 21481,
+  "date": "2025-09"
  },
  {
   "youtubeId": "itZV8YA2GBE",
@@ -15695,6 +22366,41 @@
   "date": "2025-09"
  },
  {
+  "youtubeId": "WEwMJ8RQj0o",
+  "title": "ニキビ外用薬の間違った使い方 | ニキビに効くスキンケアクリーム や 薬 について",
+  "channel": "玉城有紀 / 医師「皮膚科・美容皮膚科」",
+  "channelId": "UCWbe434EGqueTHMdn3hUXwg",
+  "lang": "ja",
+  "concerns": [
+   "acne"
+  ],
+  "steps": [
+   "moisturizer"
+  ],
+  "ingredients": [],
+  "short": true,
+  "duration": 54,
+  "views": 20842,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "NFcb4uuu4A0",
+  "title": "「絶対やって」冬の乾燥が止まらない\"角質ケア不足\"【選び方・使い方ポイント】",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "dryness"
+  ],
+  "steps": [
+   "special"
+  ],
+  "ingredients": [],
+  "duration": 510,
+  "views": 20682,
+  "date": "2025-11"
+ },
+ {
   "youtubeId": "eB_Yf0gfl6M",
   "title": "実は間違いなNGスキンケアを皮膚科専門医が徹底解説！",
   "channel": "美容皮膚お悩み相談室【ルーチェクリニック】",
@@ -15707,6 +22413,23 @@
   "ingredients": [],
   "duration": 453,
   "views": 20582,
+  "date": "2022-09"
+ },
+ {
+  "youtubeId": "MGrMnOUTFio",
+  "title": "どれがいい？エンビロン「ペプチド美容液」総まとめ【2022年版】",
+  "channel": "国際エステティシャン みどり先生",
+  "channelId": "UCzVt5nbAZQiJv1ny3KfsyLg",
+  "lang": "ja",
+  "concerns": [
+   "basics"
+  ],
+  "steps": [
+   "serum"
+  ],
+  "ingredients": [],
+  "duration": 416,
+  "views": 20277,
   "date": "2022-09"
  },
  {

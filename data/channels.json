@@ -30,8 +30,8 @@
     "lang": "ja"
   },
   {
-    "id": "UCzVt5nbAZQiJv1ny3KfsyLg",
-    "name": "国際エステティシャン みどり先生",
+    "id": "UCH3ITyGlEEDUq2t5WW4YToA",
+    "name": "さきめぐ Beauty Class【美容家・化粧品開発者】",
     "lang": "ja"
   },
   {
@@ -40,13 +40,23 @@
     "lang": "en"
   },
   {
+    "id": "UCzVt5nbAZQiJv1ny3KfsyLg",
+    "name": "国際エステティシャン みどり先生",
+    "lang": "ja"
+  },
+  {
     "id": "UCRi13TUqA_SawPlPOG6jz1Q",
     "name": "Dr. Sam Ellis",
     "lang": "en"
   },
   {
-    "id": "UCH3ITyGlEEDUq2t5WW4YToA",
-    "name": "さきめぐ Beauty Class【美容家・化粧品開発者】",
+    "id": "UCidfBdauHUmKFcMw-4QoaSw",
+    "name": "Dr. Shereene Idriss",
+    "lang": "en"
+  },
+  {
+    "id": "UChkYjz0zQCgVbjghp1wXzQw",
+    "name": "わくた よしのぶ",
     "lang": "ja"
   },
   {
@@ -55,23 +65,13 @@
     "lang": "ja"
   },
   {
-    "id": "UCidfBdauHUmKFcMw-4QoaSw",
-    "name": "Dr. Shereene Idriss",
-    "lang": "en"
-  },
-  {
-    "id": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
-    "name": "すみしょう",
-    "lang": "ja"
-  },
-  {
     "id": "UCBM4KYw-tr6iihRpk_NMbng",
     "name": "天野佳代子の大人美容 【歳をとるのは怖くない】",
     "lang": "ja"
   },
   {
-    "id": "UChkYjz0zQCgVbjghp1wXzQw",
-    "name": "わくた よしのぶ",
+    "id": "UCRKx3Kj_LGlk3Qyk6FRc4Mg",
+    "name": "すみしょう",
     "lang": "ja"
   },
   {
@@ -85,28 +85,18 @@
     "lang": "en"
   },
   {
-    "id": "UCHdITyqujyX1I71eHZRApgg",
-    "name": "森のニーナ Nina Mori",
-    "lang": "ja"
-  },
-  {
     "id": "UC8oF7jmQsKbMVrCv5LrP32w",
     "name": "HIRO BEAUTY CHANNEL",
     "lang": "ja"
   },
   {
-    "id": "UC2ghxrGPzvBMy-GAg2q7BAQ",
-    "name": "八田エミリ 美容",
-    "lang": "ja"
+    "id": "UCMTl80jTQwGkO335HoVf0ig",
+    "name": "Dr. Aanchal MD",
+    "lang": "en"
   },
   {
     "id": "UC8lQw7F66FJ6oSik9AiFv0A",
     "name": "ハダミス",
-    "lang": "ja"
-  },
-  {
-    "id": "UCcyI-5NcATdbdBku3MTY57A",
-    "name": "皮膚科医のずみ先生-今泉スキンクリニック-",
     "lang": "ja"
   },
   {
@@ -115,13 +105,18 @@
     "lang": "ja"
   },
   {
-    "id": "UCNeegoJ1LrlcpaKl8XGpt2A",
-    "name": "美容整体アピアランスTV",
+    "id": "UCHdITyqujyX1I71eHZRApgg",
+    "name": "森のニーナ Nina Mori",
     "lang": "ja"
   },
   {
-    "id": "UCtsQTNOGOGGTmsa5Mc-9evA",
-    "name": "鹿の間",
+    "id": "UC2ghxrGPzvBMy-GAg2q7BAQ",
+    "name": "八田エミリ 美容",
+    "lang": "ja"
+  },
+  {
+    "id": "UCcyI-5NcATdbdBku3MTY57A",
+    "name": "皮膚科医のずみ先生-今泉スキンクリニック-",
     "lang": "ja"
   },
   {
@@ -130,18 +125,53 @@
     "lang": "ja"
   },
   {
+    "id": "UCtsQTNOGOGGTmsa5Mc-9evA",
+    "name": "鹿の間",
+    "lang": "ja"
+  },
+  {
+    "id": "UC9SIYzAqsCmfHsZrxdPGvzA",
+    "name": "Dr Davin Lim",
+    "lang": "en"
+  },
+  {
+    "id": "UCVRDCteAx6zMUWMB86QRXxw",
+    "name": "EGA.channel",
+    "lang": "ja"
+  },
+  {
+    "id": "UCa_nIrYyYyE4i01TAlY7JVw",
+    "name": "ヘアメイク職人_化け子",
+    "lang": "ja"
+  },
+  {
+    "id": "UCJN0uedgggJ1gZbH5cyTiqQ",
+    "name": "「皮膚科専門医」Dr.mikoの美容チャンネル",
+    "lang": "ja"
+  },
+  {
+    "id": "UCDYmlWxY97dc_PpNE9I1zXw",
+    "name": "美容家 ささえりTV",
+    "lang": "ja"
+  },
+  {
     "id": "UCS4hSRFUnAuQxUp8Klmqpgg",
     "name": "blueyoobin",
     "lang": "en"
   },
   {
-    "id": "UC1JblLAuGsgpxjQjROHfwzQ",
-    "name": "Hyukヒョク",
+    "id": "UCffg7iYU2K7HFJDhylZzUBw",
+    "name": "水越みさと",
     "lang": "ja"
   },
   {
-    "id": "UCVRDCteAx6zMUWMB86QRXxw",
-    "name": "EGA.channel",
+    "id": "UCocXVYUfcC79osgM02JpiPg",
+    "name": "SHOKO美チャンネル 【40代50代の為の美容法】",
+    "lang": "ja"
+  },
+  {
+    "id": "UCWbe434EGqueTHMdn3hUXwg",
+    "name": "玉城有紀 / 医師「皮膚科・美容皮膚科」",
     "lang": "ja"
   },
   {
@@ -160,13 +190,48 @@
     "lang": "ja"
   },
   {
-    "id": "UCJN0uedgggJ1gZbH5cyTiqQ",
-    "name": "「皮膚科専門医」Dr.mikoの美容チャンネル",
+    "id": "UC4HlZ9D5agwKmjWuYmDL4KA",
+    "name": "ZolieSkinClinic",
+    "lang": "en"
+  },
+  {
+    "id": "UCXSWRM1E7gENmv0jC6gBOXw",
+    "name": "DrAmirKaram",
+    "lang": "en"
+  },
+  {
+    "id": "UCg6P323bLV4zMSWFqFhvWMg",
+    "name": "Lab Muffin Beauty Science",
+    "lang": "en"
+  },
+  {
+    "id": "UC1JblLAuGsgpxjQjROHfwzQ",
+    "name": "Hyukヒョク",
+    "lang": "ja"
+  },
+  {
+    "id": "UCNIwy_Q7EjUxLlsewfuhjgg",
+    "name": "YoshidaAkari",
+    "lang": "ja"
+  },
+  {
+    "id": "UCLtGjUw65C5r7Snzw2HukPA",
+    "name": "のべちゃん",
+    "lang": "ja"
+  },
+  {
+    "id": "UCZ9qH9bedbEp7IDhlbNJfRw",
+    "name": "VOCEchannel",
     "lang": "ja"
   },
   {
     "id": "UCkUaAS-UNgPvTvZOeHHURkg",
     "name": "【mimi | 美容家】40代の体当たり厳選美容",
+    "lang": "ja"
+  },
+  {
+    "id": "UCzynvanGk65JSz9TOvpF12Q",
+    "name": "KUBOKI CHANNEL",
     "lang": "ja"
   }
 ]
