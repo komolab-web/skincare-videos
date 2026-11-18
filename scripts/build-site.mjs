@@ -9,6 +9,8 @@ await rm(out, { recursive: true, force: true });
 await mkdir(new URL('data/', out), { recursive: true });
 await cp(src('assets'), new URL('assets', out), { recursive: true });
 for (const f of ['meta.json', 'videos.json']) await cp(src(`data/${f}`), new URL(`data/${f}`, out));
+// sitemap.xml・robots.txt の URL は公開 URL を絶対パスで書いている（公開先を変えたらここも直す）
+for (const f of ['sitemap.xml', 'robots.txt']) await cp(src(f), new URL(f, out));
 
 const html = (await readFile(src('index.html'), 'utf8')).replace('<base href="/">', `<base href="${base}">`);
 await writeFile(new URL('index.html', out), html);
